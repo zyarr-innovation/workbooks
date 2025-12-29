@@ -1,0 +1,56 @@
+<div class="workbook-container">
+  <mat-accordion multi>
+    @for (section of processedSections; track section.title) {
+      <mat-expansion-panel class="section-panel" [expanded]="section.level === 1">
+        
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+             <span [class.header-1]="section.level === 1" [class.header-2]="section.level === 2">
+               {{ section.title }}
+             </span>
+          </mat-panel-title>
+        </mat-expansion-panel-header>
+
+        <div class="section-content">
+          @for (example of section.examples; track example.id) {
+            <mat-card class="math-card">
+              <mat-card-header>
+                <mat-card-title>{{ example.id }}: {{ example.description }}</mat-card-title>
+              </mat-card-header>
+
+              <mat-card-content>
+                @for (lineParts of example.processedLines; track $index) {
+                  <div class="problem-line">
+                    @for (part of lineParts; track $index) {
+                      @if (part.type === 'text') {
+                        <span class="math-text">{{ part.value }}</span>
+                      }
+
+                      @if (part.type === 'input') {
+                        <mat-form-field appearance="outline" 
+                          class="math-input-field"
+                          [class.is-correct]="blanks[part.inputId].status === 'correct'"
+                          [class.is-incorrect]="blanks[part.inputId].status === 'incorrect'">
+                          
+                          <input 
+                            matInput 
+                            [(ngModel)]="blanks[part.inputId].userValue"
+                            (keyup)="onKeyup(part.inputId)"
+                            autocomplete="off">
+                          
+                          @if (blanks[part.inputId].status === 'incorrect') {
+                            <mat-hint class="error-hint">Wrong</mat-hint>
+                          }
+                        </mat-form-field>
+                      }
+                    }
+                  </div>
+                }
+              </mat-card-content>
+            </mat-card>
+          }
+        </div>
+      </mat-expansion-panel>
+    }
+  </mat-accordion>
+</div>

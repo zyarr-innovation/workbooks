@@ -1,0 +1,64 @@
+.section-panel {
+  margin-bottom: 15px;
+  border: 1px solid #e0e0e0;
+}
+
+.header-1 {
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: #3f51b5;
+}
+
+.header-2 {
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #673ab7;
+}
+
+.section-content {
+  padding-top: 20px;
+}
+
+/* Ensure math-card is centered within the 80% width logic */
+.math-card {
+  width: 95%; /* cards inside the 80% container should be almost full width */
+  margin: 0 auto 25px auto;
+}
+
+.problem-line { 
+  display: flex; 
+  align-items: center; 
+  margin-bottom: 15px; 
+  flex-wrap: wrap; 
+  line-height: 2;       /* Adds a bit of vertical breathing room for wrap-around lines */
+}
+
+.math-input-field { 
+  width: 90px; 
+  margin: 0 5px; 
+}
+
+/* Remove extra spacing for cleaner inline look */
+::ng-deep .mat-mdc-form-field-subscript-wrapper {
+  height: 15px !important; 
+}
+
+/* Correct State: Green */
+.is-correct {
+  --mdc-outlined-text-field-outline-color: green;
+  --mdc-outlined-text-field-focus-outline-color: green;
+}
+.is-correct input { color: green; font-weight: bold; }
+
+/* Incorrect State: Red */
+.is-incorrect {
+  --mdc-outlined-text-field-outline-color: red;
+  --mdc-outlined-text-field-focus-outline-color: red;
+}
+.is-incorrect input { color: red; }
+
+.error-hint {
+  color: red;
+  font-size: 10px;
+  font-weight: bold;
+}

@@ -1,0 +1,1076 @@
+﻿Phase 1: Basic Addition with Numbers
+_________________________________________________________________
+Ex. 1: 2 increased by 5
+Write the first number → ___
+Increased by" means addition (+)
+Write the second number → ___
+Answer: ___ + ___ = 7
+_________________________________________________________________
+Phase 2: Introducing Variables
+_________________________________________________________________
+Ex. 2: A number increased by 5
+"A number" represents a variable (like x) → ___
+"Increased by" means addition (+)
+Write the number → ___
+Answer: ___ + ___
+_________________________________________________________________
+Ex. 3: A number increased by p
+"A number" represents a variable (like n) → ___
+"Increased by" means addition (+)
+Write the second variable → ___
+Answer: ___ + ___
+_________________________________________________________________
+Ex. 4: 2 more than x
+Write the first value → ___
+"More than" means addition (+)
+Write the second value → ___
+Answer: ___ + ___
+_________________________________________________________________
+Phase 3: Multiple Terms
+_________________________________________________________________
+Ex. 5: Sum of x,y,z, and p
+"Sum of" indicates addition between all terms.
+List the variables: ___, ___, ___, ___
+Answer: ___ + ___ + ___ + ___
+_________________________________________________________________
+Phase 4: Multi-Step & Evaluation
+_________________________________________________________________
+Ex. 6: Total of 2 and 4, increased by 10
+"Total of 2 and 4" (First Group) → ___ + ___
+"Increased by 10" (Add to the group) → + ___
+Answer: ___ + ___ + ___ = 16
+_________________________________________________________________
+Ex. 7: Sum of x and y, evaluated at x=2 and y=10
+Step 1 (Translate): "Sum of x and y" → ___ + ___
+Step 2 (Substitute): Plug in the values → ___ + ___
+Step 3 (Solve): ___ + ___ = 12
+_________________________________________________________________
+Phase 1: Standard Subtraction (Follows Word Order)
+_________________________________________________________________
+Ex. 1: 2 decreased by 1
+Write the first number → ___
+"Decreased by" means subtraction (−)
+Write the second number → ___
+Answer: ___ − ___ = 1
+_________________________________________________________________
+Ex. 2: x decreased by 25
+Write the variable → ___
+"Decreased by" means subtraction (−)
+Write the number → ___
+Answer: ___ − ___
+_________________________________________________________________
+Ex. 3: x diminished by 7
+Write the variable → ___
+"Diminished by" means subtraction (−)
+Write the number → ___
+Answer: ___ − ___
+_________________________________________________________________
+Ex. 4: z take away p
+Write the first variable → ___
+"Take away" means subtraction (−)
+Write the second variable → ___
+Answer: ___ − ___
+_________________________________________________________________
+Ex. 5: x less y
+Write the first variable → ___
+"Less" means subtraction (−)
+Write the second variable → ___
+Answer: ___ − ___
+_________________________________________________________________
+Phase 2: Comparing and Multiple Variables
+_________________________________________________________________
+Ex. 6: Difference of x and z
+"Difference" indicates subtraction between two terms.
+List the terms in order: ___ , ___
+Answer: ___ − ___
+_________________________________________________________________
+Ex. 7: A number diminished by another number
+"A number" (first variable) → ___
+"Another number" (second variable) → ___
+Answer: ___ − ___
+_________________________________________________________________
+Phase 3: The "Turnaround" Phrase (Reverse Order)
+_________________________________________________________________
+Ex. 8: 3 less than 7
+Note: "Less than" means you are taking the first number away from the second. You must flip the order!
+Write the second number first → ___
+Write the first number last → ___
+Answer: ___ − ___ = 4
+_________________________________________________________________
+Phase 4: Multi-Step Subtraction
+_________________________________________________________________
+Ex. 9: z decreased by p and then diminished by a
+Start with the first variable → ___
+Subtract the second variable (p) → − ___
+Subtract the third variable (a) → − ___
+Answer: ___ − ___ − ___
+_________________________________________________________________
+Phase 1: Modifying a Single Group
+Ex. 1: Sum of x and y, decreased by 10
+Step 1: Translate the "package" (sum of x and y) → (___ + ___)
+Step 2: "Decreased by" means subtract 10 from that package.
+Answer: (___ + ___) − ___
+_________________________________________________________________
+Ex. 2: 10 decreased by the sum of x and z
+Step 1: Start with the first number → ___
+Step 2: Translate the "package" to be subtracted (sum of x and z) → (___ + ___)
+Answer: ___ − (___ + ___)
+Self-Check: Why use parentheses? Because you are subtracting the whole sum, not just the x.
+_________________________________________________________________
+Phase 2: Working with Two Groups
+_________________________________________________________________
+Ex. 3: Sum of x and z, decreased by the sum of a and b
+Step 1: Translate the first "package" → (___ + ___)
+Step 2: Translate the second "package" → (___ + ___)
+Step 3: Use subtraction to connect them.
+Answer: (___ + ___) − (___ + ___)
+_________________________________________________________________
+Ex. 4: Difference of x and y less the sum of z and p
+Step 1: Translate the first "package" (difference means subtraction) → (___ − ___)
+Step 2: Translate the second "package" (sum means addition) → (___ + ___)
+Step 3: Use "less" (subtraction) to connect them.
+Answer: (___ − ___) − (___ + ___)
+_________________________________________________________________
+Phase 1: Common Multipliers
+_________________________________________________________________
+Ex. 1: Double y
+"Double" means to multiply by 2 → ___
+Write the variable → ___
+Answer: ___
+_________________________________________________________________
+Ex. 2: Triple z
+"Triple" means to multiply by 3 → ___
+Write the variable → ___
+Answer:  ___
+_________________________________________________________________
+Ex. 3: x scaled by 3
+"Scaled by 3" means to multiply the value by 3.
+Answer:  ___
+_________________________________________________________________
+Phase 2: The "Product" (Multiple Terms)
+_________________________________________________________________
+Ex. 4: Product of x and y
+"Product" is the result of multiplication.
+List the variables side-by-side: ___ ___
+Answer:  ___
+_________________________________________________________________
+Ex. 5: Product of x,y, and z
+List the variables: ___ ___ ___
+Answer:  ___
+_________________________________________________________________
+Ex. 6: Product of a,b, and c, tripled
+First, find the product: (___ ___ ___)
+Then, "triple" the whole group: 3× ___
+Answer:  ___
+Phase 3: Fractions and "Of"
+_________________________________________________________________
+Ex. 7: One-third of p
+Write the fraction (one-third) → ___ / ___
+"Of" usually means multiplication in math.
+Write the variable → ___
+Answer:  ___
+_________________________________________________________________
+Ex. 8: One-fourth of the product of x and y
+Write the fraction (one-fourth) → ___ / ___
+Write the "product" package → (___ ___)
+Answer:  ___
+_________________________________________________________________
+Phase 1: Mixed Operations (x, +, -)
+_________________________________________________________________
+Ex. 1: Find 10 increased by the product of 2 and 5
+Write the starting number → ___
+Translate "product of 2 and 5" → ___ * ___
+Combine them ("increased by" means +)
+Raw Equation: ___ + (___ * ___)
+Simplified Answer:  ___
+_________________________________________________________________
+Ex. 2: Product of x and y, diminished by the sum of d and p
+Write the first "package" (product) → ___ ___
+Write the second "package" (sum) → (___ + ___)
+Connect with "diminished by" (−)
+Answer: ___ ___ - (___ + ___)
+_________________________________________________________________
+Ex. 3: Double the difference of x and y, increased by p
+Step 1: Translate "difference of x and y" → (___ - ___)
+Step 2: "Double" that whole group → 2(___ - ___)
+Step 3: "Increase" the result by p → + ___
+Answer: 2(___ - ___) + ___
+_________________________________________________________________
+Phase 2: Division Phrases
+_________________________________________________________________
+Ex. 4: 5 divided by 3
+Write the first number (numerator) → ___
+Write the second number (denominator) → ___
+Answer:  ___
+_________________________________________________________________
+Ex. 5: The sum of x and p, divided by 5
+Step 1: Create the "package" for the top → (___ + ___)
+Step 2: Place it over the divisor → / ___
+Answer: (___ + ___)/___
+_________________________________________________________________
+Ex. 6: Ratio of x and y less the sum of z and p
+"Ratio of x and y" means division → ___ / ___
+"Less" means subtraction → -
+"Sum of z and p" is a package → (___ + ___)
+Answer: ___ / ___ - (___ + ___)
+
+
+Phrase Operation Example 
+Sum                         Total Addition (+)                         x+y 
+Difference         Less Than Subtraction (−)         y−x 
+Product                 Of Multiplication (∗)                 xy 
+Quotient                 Ratio Division (/)                         x/y
+_________________________________________________________________
+Powers
+_________________________________________________________________
+ex. 1: square of a
+ ___² ← Answer: 
+_________________________________________________________________
+ex. 2: square of the sum of a and b
+ (___ + ___)² ← Answer: 
+_________________________________________________________________
+ex. 3: difference of a squared and p squared
+ ___² − ___² ← Answer: 
+_________________________________________________________________
+Equations
+_________________________________________________________________
+ex. 1: sum of x and y is 10
+ ___ + ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 2: double the sum of x and 4 will be thrice x
+ ___( ___ + ___ ) = ___ ___ ← Answer: 
+_________________________________________________________________
+ex. 4: ratio of a and b
+ “ratio of” means division
+ copy a → ___
+ copy b → ___
+  ___ / ___ ← Answer: 
+_________________________________________________________________
+ex. 5: quotient of a number and p
+ “a number” becomes a variable → ___
+ “quotient of” means division
+  ___ / ___ ← Answer: 
+_________________________________________________________________
+ex. 6: double x divided by 3
+ “double x” becomes ___ ___
+ “divided by” becomes division
+  ___ ___ / ___ ← Answer: 
+_________________________________________________________________
+ex. 7: the sum of x and p, divided by 5
+ “sum of x and p” becomes ___ + ___
+ “divided by 5” places 5 under division
+  (___ + ___) / ___ ← Answer: 
+_________________________________________________________________
+ex. 8: the ratio of 1 and the sum of x, y and z
+ “sum of x, y and z” becomes ___ + ___ + ___
+ “ratio of 1 and (sum)” means division
+  ___ / (___ + ___ + ___) ← Answer: 
+_________________________________________________________________
+ex. 9: difference of x and y, diminished by the ratio of 1 and x
+ “difference of x and y” becomes ___ − ___
+ “ratio of 1 and x” becomes ___ / ___
+  ___ − ___ − (___ / ___) ← Answer: 
+_________________________________________________________________
+ex. 10: ratio of the sum of x and y and the difference of x and y
+ “sum of x and y” becomes ___ + ___
+ “difference of x and y” becomes ___ − ___
+  (___ + ___) / (___ − ___) ← Answer: 
+_________________________________________________________________
+Powers with +, −, ×, ÷
+_________________________________________________________________
+ex. 1: square of a
+ “square” means multiply a by itself
+  ___² ← Answer: 
+_________________________________________________________________
+ex. 2: square of a increased by 10
+ “square of a” becomes ___²
+ “increased by 10” becomes + ___
+  ___² + ___ ← Answer: 
+_________________________________________________________________
+ex. 3: square of a increased by x squared
+ “square of a” → ___²
+ “x squared” → ___²
+  ___² + ___² ← Answer: 
+_________________________________________________________________
+ex. 4: difference of a squared and p squared
+ “difference” means subtraction
+  ___² − ___² ← Answer: 
+_________________________________________________________________
+ex. 5: sum of the squares of a and b
+ square each variable → ___² and ___²
+ “sum” means addition
+  ___² + ___² ← Answer: 
+_________________________________________________________________
+ex. 6: square of the sum of a and b
+ “sum of a and b” becomes ___ + ___
+ “square of the sum” means square the entire group
+  (___ + ___)² ← Answer: 
+_________________________________________________________________
+Equations
+_________________________________________________________________
+ex. 1: x is 4
+ copy x → ___
+ “is” becomes =
+ copy 4 → ___
+  ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 2: x is p increased by 5
+ copy x → ___
+ “is” becomes =
+ “p increased by 5” becomes ___ + ___
+  ___ = ___ + ___ ← Answer: 
+_________________________________________________________________
+ex. 3: x was d less 5
+ copy x → ___
+ “was” becomes =
+ “d less 5” becomes ___ − ___
+  ___ = ___ − ___ ← Answer: 
+_________________________________________________________________
+ex. 4: sum of x and y is 10
+ “sum of x and y” becomes ___ + ___
+ “is” becomes =
+  ___ + ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 5: product of a and b was y less 4
+ “product of a and b” becomes ___ ___
+ “was” becomes =
+ “y less 4” becomes ___ − ___
+  ___ ___ = ___ − ___ ← Answer: 
+_________________________________________________________________
+ex. 6: ratio of x and y, diminished by 4, is 25
+ “ratio of x and y” becomes ___ / ___
+ “diminished by 4” becomes − ___
+ “is” becomes =
+  ___ / ___ − ___ = ___ ← Answer: 
+_________________________________________________________________
+Expressions & Equations
+_________________________________________________________________
+ex. 1: a rectangle has horizontal side h and vertical side v
+ two horizontal sides → ___ + ___
+ two vertical sides → ___ + ___
+ perimeter expression: ___ + ___ ← Answer: 
+_________________________________________________________________
+ex. 2: one angle of a triangle is x, another is 2x, third is 3x
+ sum of triangle angles = ___
+ ___ + ___ + ___ = ___
+ ___x = ___
+ x = ___ ← Answer: 
+_________________________________________________________________
+ex. 3: a number increased by twice itself is 10
+ “a number” becomes ___
+ “twice itself” becomes ___ ___
+ “is 10” becomes = ___
+  ___ + ___ ___ = ___ ← **equation**
+  x = ___ ← Answer: 
+_________________________________________________________________
+ex. 4: twice the sum of x and 4 is 5 times x
+ “sum of x and 4” → ___ + ___
+ “twice the sum” → ___( ___ + ___ )
+ “5 times x” → ___ ___
+  ___( ___ + ___ ) = ___ ___ ← Answer: 
+_________________________________________________________________
+ex. 5: square of the sum of x and 1 is 4
+ “sum of x and 1” → ___ + ___
+ “square of the sum” → ( ___ + ___ )²
+ “is 4” → = ___
+  ( ___ + ___ )² = ___ ← Answer: 
+_________________________________________________________________
+Rate, Distance, and Time Problems
+_________________________________________________________________
+ex. 1: A man walks at a rate of 5 feet per second. How far does the man walk in 10 seconds?
+ 1. what to find: ___
+ 2. needed fact: distance = ___ × ___
+ 3. speed = ___ ft/s
+ 4. time = ___ s
+ 5. distance = ___ × ___ = ___ feet ← Answer: 
+_________________________________________________________________
+ex. 2: A man walks at a rate of 5 feet per second. How long does it take to walk 1000 feet?
+ 1. what to find: ___
+ 2. needed fact: distance = ___ × ___
+ 3. speed = ___ ft/s
+ 4. time = ___ (unknown)
+ 5. equation: ___ = ___ × ___
+ 6. solve: ___ / ___ = ___ seconds ← Answer: 
+_________________________________________________________________
+ex. 3: Car A travels 50 mph for 3 hours. Car B travels 60 mph for 5 hours. How much farther does car B go?
+ 1. distance formula: distance = ___ × ___
+ 2. Car A distance = ___ × ___ = ___ miles
+ 3. Car B distance = ___ × ___ = ___ miles
+ 4. difference = ___ − ___ = ___ miles ← Answer: 
+_________________________________________________________________
+Speed vs Velocity (Concept Check)
+_________________________________________________________________
+ex. 4: What’s the difference between speed and velocity?
+ speed → magnitude only (___ or ___)
+ velocity → magnitude **and** ___
+ East → ___ sign
+ West → ___ sign ← Answer: 
+_________________________________________________________________
+Relative Motion
+_________________________________________________________________
+ex. 6: Car A travels East at 50 mph. Car B travels West at 60 mph. After 3 hours, how far apart are they?
+ 1. displacement formula: ___ = ___ × ___
+ 2. Car A displacement = ___ × ___ = ___ miles
+ 3. Car B displacement = ___ × ___ = ___ miles
+ 4. distance apart = ___ + ___ = ___ miles ← Answer: 
+_________________________________________________________________
+ex. 7: Man A walks at 4 ft/s. Man B jogs at 9 ft/s. How long until they are 25 feet apart?
+ 1. let time = ___
+ 2. Man A distance = ___ ___
+ 3. Man B distance = ___ ___
+ 4. equation: ___ − ___ = ___
+ 5. solve: ___ = ___ seconds ← Answer: 
+_________________________________________________________________
+ex. 8: At noon, a woman is 5 miles from home and drives 60 mph. How far from home at 3 PM?
+ 1. initial distance = ___ miles
+ 2. speed = ___ mph
+ 3. time = ___ hours
+ 4. equation: d = ___ + ___ ___
+ 5. d = ___ + ___ = ___ miles ← Answer: 
+_________________________________________________________________
+ex. 9: Troll A runs at 5 ft/s. Troll B starts 1 second later at 6 ft/s. Do they meet?
+ 1. Troll A distance = ___ ___
+ 2. Troll B distance = ___ (___ − ___)
+ 3. meeting condition: ___ = ___
+ 4. solve: ___ = ___ seconds ← Answer: 
+_________________________________________________________________
+Geometry Applications
+_________________________________________________________________
+ex. 1: Rectangle with horizontal h and vertical v. Find perimeter.
+ 1. horizontal sides: ___ + ___
+ 2. vertical sides: ___ + ___
+ 3. perimeter = ___ + ___ ← Answer: 
+_________________________________________________________________
+ex. 2: Rectangle with vertical side 4 and perimeter 16. Find h.
+ 1. formula: ___h + ___(___) = ___
+ 2. ___h + ___ = ___
+ 3. ___h = ___
+ 4. h = ___ ← Answer: 
+_________________________________________________________________
+ex. 3: Rectangle where horizontal side is twice vertical. Perimeter is 24.
+ 1. let vertical side = ___
+ 2. horizontal side = ___ ___
+ 3. equation: ___ + ___ = ___
+ 4. solve: ___ = ___
+ 5. sides: v = ___, h = ___ ← **answers**
+_________________________________________________________________
+Triangle Angle Problems
+_________________________________________________________________
+ex. 4: Triangle angles are x, 2x, and 3x. Find all angles.
+ 1. triangle sum = ___ degrees
+ 2. equation: ___ + ___ + ___ = ___
+ 3. ___x = ___
+ 4. x = ___ degrees ← Answer: 
+ 5. angles: ___°, ___°, ___° ← **answers**
+_________________________________________________________________
+ex. 5: Smallest angle is x. Second is 30 more. Third is triple.
+ 1. angles: ___, ___ + ___, ___ ___
+ 2. equation: ___ + ___ + ___ = ___
+ 3. solve: ___ = ___
+ 4. angles: ___°, ___°, ___° ← **answers**
+_________________________________________________________________
+Percent Problems
+_________________________________________________________________
+ex. 1: 10 is 2% of a number. Find the number.
+ 1. let number = ___
+ 2. 2% = ___
+ 3. equation: ___ = ___ × ___
+ 4. solve: ___ / ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 2: What number is 25% of 200?
+ 1. let number = ___
+ 2. equation: ___ = ___ × ___
+ 3. solve: ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 3: A number increased by 20% of itself is 20.
+ 1. let number = ___
+ 2. increase term = ___ ___
+ 3. equation: ___ + ___ ___ = ___
+ 4. solve: ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 4: A tie costs x dollars. Discounted by 10% then 20%. Final price?
+ 1. first discount: ___ ___
+ 2. second discount: ___(___ ___)
+ 3. final price = ___x ← Answer: 
+_________________________________________________________________
+Algebraic Reasoning
+_________________________________________________________________
+ex. 1: A number increased by twice itself is 10.
+ 1. let number = ___
+ 2. equation: ___ + ___ ___ = ___
+ 3. combine like terms: ___ ___ = ___
+ 4. x = ___ ← Answer: 
+_________________________________________________________________
+ex. 2: Double the sum of x and 4 equals 5x.
+ 1. sum = ___ + ___
+ 2. double sum = ___(___ + ___)
+ 3. equation: ___(___ + ___) = ___ ___
+ 4. solve: x = ___ ← Answer: 
+_________________________________________________________________
+ex. 3: Square of the sum of x and 1 is 4.
+ 1. equation: (___ + ___)² = ___
+ 2. square root: ___ + ___ = ±___
+ 3. x = ___ or ___ ← **answers**
+_________________________________________________________________
+Advanced Percent & Discount Applications
+_________________________________________________________________
+ex. 5: a number decreased by 10% of 20 is 50. what is the number?
+ 1. let the number be ___
+ 2. 10% in decimal form = ___
+ 3. 10% of 20 = ___ × ___ = ___
+ 4. “decreased by” means subtraction
+ 5. equation: ___ − ___ = ___
+ 6. solve: ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 6: a number increased by p percent of itself is 10. what is the number?
+ 1. let the number be ___
+ 2. p percent (decimal form) = ___
+ 3. increase term = ___ ___
+ 4. equation: ___ + ___ ___ = ___
+ 5. factor the variable: ___( ___ + ___ ) = ___
+ 6. solve: ___ = ___ / ( ___ + ___ ) ← Answer: 
+_________________________________________________________________
+ex. 7: a number increased by p percent of itself is a. what is the number?
+ 1. let the number be ___
+ 2. equation: ___ + ___ ___ = ___
+ 3. factor: ___( ___ + ___ ) = ___
+ 4. solve: ___ = ___ / ( ___ + ___ ) ← Answer: 
+_________________________________________________________________
+Successive Discounts
+_________________________________________________________________
+ex. 8: a shirt costs 20 dollars and goes on sale for 15 dollars. find the discount rate.
+ 1. original price = ___
+ 2. sale price = ___
+ 3. discount amount = ___ − ___ = ___
+ 4. equation: ___ = ___ ___
+ 5. solve: ___ = ___ / ___
+ 6. convert to percent: ___% ← Answer: 
+_________________________________________________________________
+ex. 9: notebooks cost $1.20 wholesale and sell for $1.50. find the rate of increase.
+ 1. original price = ___
+ 2. final price = ___
+ 3. increase amount = ___ − ___ = ___
+ 4. equation: ___ ___ = ___
+ 5. solve: ___ = ___ / ___
+ 6. convert to percent: ___% ← Answer: 
+_________________________________________________________________
+ex. 10: a tie costs x dollars, discounted by 10% then 20%. final price?
+ 1. original price = ___
+ 2. after 10% discount: ___ ___
+ 3. after 20% discount: ___ ( ___ ___ )
+ 4. simplify: ___x ← Answer: 
+_________________________________________________________________
+ex. 11: a tie costs x dollars, discounted by p% then z%. final price?
+ 1. p and z written in decimal form
+ 2. first discount: ( ___ − ___ ) ___
+ 3. second discount: ( ___ − ___ )( ___ − ___ ) ___ ← Answer: 
+_________________________________________________________________
+ex. 12: a tie costs x dollars. discounted by p% of x and z% of x. final price is a. find x.
+ 1. discount amounts: ___ ___ and ___ ___
+ 2. equation: ___ − ___ ___ − ___ ___ = ___
+ 3. factor: ___( ___ − ___ − ___ ) = ___
+ 4. solve: ___ = ___ / ( ___ − ___ − ___ ) ← Answer: 
+_________________________________________________________________
+Systems & Relationships
+_________________________________________________________________
+ex. 1: double x equals triple y. find the ratio of x to y.
+ 1. “double x” becomes ___ ___
+ 2. “triple y” becomes ___ ___
+ 3. equation: ___ ___ = ___ ___
+ 4. divide both sides by ___
+ 5. x = ___ ___
+ 6. ratio x/y = ___ / ___ ← Answer: 
+_________________________________________________________________
+ex. 2: the area of a rectangle is 4x. what is 3/4 of the area?
+ 1. area = ___
+ 2. multiply by ___ / ___
+ 3. calculation: ( ___ / ___ ) × ___
+ 4. result: ___ ← Answer: 
+_________________________________________________________________
+Higher-Level Algebra Translation
+_________________________________________________________________
+ex. 3: the product of x² and y is p. find y.
+ 1. “product of x² and y” becomes ___² ___
+ 2. equation: ___² ___ = ___
+ 3. divide both sides by ___²
+ 4. y = ___ / ___² ← Answer: 
+_________________________________________________________________
+ex. 4: the square root of the sum of x² and y² is 4. find x².
+ 1. sum of squares: ___² + ___²
+ 2. square root expression: √( ___² + ___² )
+ 3. equation: √( ___² + ___² ) = ___
+ 4. square both sides: ___² + ___² = ___
+ 5. isolate x²: ___² = ___ − ___² ← Answer: 
+_________________________________________________________________
+ex. 5: the difference of x and y increased by the product of z and p was 12. find the difference of x and y.
+ 1. “difference of x and y” becomes ___ − ___
+ 2. “product of z and p” becomes ___ ___
+ 3. equation: ( ___ − ___ ) + ___ ___ = ___
+ 4. subtract ___ ___ from both sides
+ 5. ___ − ___ = ___ − ___ ___ ← Answer: 
+_________________________________________________________________
+ex. 6: x³ diminished by the sum of z² and p is 90. find x³.
+ 1. x cubed becomes ___³
+ 2. sum of z² and p becomes ( ___² + ___ )
+ 3. equation: ___³ − ( ___² + ___ ) = ___
+ 4. add ( ___² + ___ ) to both sides
+ 5. ___³ = ___ + ___² + ___ ← Answer: 
+_________________________________________________________________
+Percent Applications (Advanced)
+_________________________________________________________________
+ex. 13: 10 is what percent of 80?
+ 1. “what percent” becomes ___
+ 2. equation: ___ = ___ ___
+ 3. solve: ___ = ___ / ___
+ 4. decimal form: ___
+ 5. percent form: ___% ← Answer: 
+_________________________________________________________________
+ex. 14: a number increased by 20% of itself is 20. what is the number?
+ 1. let the number be ___
+ 2. 20% in decimal form = ___
+ 3. equation: ___ + ___ ___ = ___
+ 4. combine like terms: ___ ___ = ___
+ 5. solve: ___ = ___ / ___ ← Answer: 
+_________________________________________________________________
+ex. 15: a number decreased by 10% of 20 is 50. find the number.
+ 1. let the number be ___
+ 2. 10% of 20 = ___
+ 3. “decreased by” means subtraction
+ 4. equation: ___ − ___ = ___
+ 5. solve: ___ = ___ ← Answer: 
+_________________________________________________________________
+Algebraic Word Translation (Mixed)
+_________________________________________________________________
+ex. 1: the square of x plus the square of y is the square of p
+ 1. square of x → ___²
+ 2. square of y → ___²
+ 3. square of p → ___²
+ 4. equation: ___² + ___² = ___² ← Answer: 
+_________________________________________________________________
+ex. 2: cube of x less the square of x will be 21
+ 1. cube of x → ___³
+ 2. square of x → ___²
+ 3. “less” means subtraction
+ 4. “will be” becomes =
+ 5. equation: ___³ − ___² = ___ ← Answer: 
+_________________________________________________________________
+ex. 3: double a number increased by 4 will be that same number
+ 1. let the number be ___
+ 2. “double a number” becomes ___ ___
+ 3. “increased by 4” becomes + ___
+ 4. “will be” becomes =
+ 5. “that same number” becomes ___
+ 6. equation: ___ ___ + ___ = ___ ← Answer: 
+_________________________________________________________________
+Geometry with Variables
+_________________________________________________________________
+ex. 1: one side of a triangle is a, another is b, the third is c. the perimeter is 12.
+ 1. perimeter formula: ___ + ___ + ___
+ 2. equation: ___ + ___ + ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 2: if side a is decreased by 1 and side c is increased by 1, keep perimeter 12
+ 1. new sides: ___ − ___, ___, ___ + ___
+ 2. equation: ( ___ − ___ ) + ___ + ( ___ + ___ ) = ___ ← Answer: 
+_________________________________________________________________
+ex. 3: triangle sides are x, x+2, and x+4. find the average length.
+ 1. average formula: ( ___ ) / ___
+ 2. sum of sides: ___ + ( ___ + ___ ) + ( ___ + ___ )
+ 3. simplify sum: ___ ___ + ___
+ 4. average: ( ___ ___ + ___ ) / ___
+ 5. simplified average: ___ + ___ ← Answer: 
+_________________________________________________________________
+Angle Relationships
+_________________________________________________________________
+ex. 1: one angle is 90°, another is half the third
+ 1. let the third angle be ___
+ 2. second angle = ___ ___
+ 3. triangle sum: ___ + ___ + ___ = ___
+ 4. equation: ___ + ___ + ___ = ___
+ 5. solve: ___ = ___° ← Answer: 
+ 6. remaining angle: ___° ← Answer: 
+_________________________________________________________________
+ex. 2: one angle is 30°. ratio of other two is 5.
+ 1. let angles be ___ and ___
+ 2. ratio equation: ___ / ___ = ___
+ 3. express larger angle: ___ = ___ ___
+ 4. triangle sum: ___ + ___ + ___ = ___
+ 5. solve: ___ = ___° ← Answer: 
+ 6. other angle: ___° ← Answer: 
+_________________________________________________________________
+Motion with Delays
+_________________________________________________________________
+ex. 1: Troll A walks at 6 ft/s. Troll B walks at 4 ft/s but starts 1 second earlier.
+ 1. let time for Troll A = ___
+ 2. Troll A distance = ___ ___
+ 3. Troll B time = ___ + ___
+ 4. Troll B distance = ___ ( ___ + ___ )
+ 5. meeting condition: ___ ___ = ___ ( ___ + ___ )
+ 6. solve: ___ = ___ seconds ← Answer: 
+ 7. distance at meeting: ___ ft ← Answer: 
+_________________________________________________________________
+Final Review Translation (Capstone)
+_________________________________________________________________
+ex. 1: triple the quotient of a and b is the ratio of x and d increased by 5
+ 1. quotient of a and b → ___ / ___
+ 2. triple the quotient → ___( ___ / ___ )
+ 3. ratio of x and d → ___ / ___
+ 4. increased by 5 → + ___
+ 5. equation: ___( ___ / ___ ) = ___ / ___ + ___ ← Answer: 
+_________________________________________________________________
+ex. 2: one-fiftieth of the sum of x and y diminished by one-eighth of the difference of x and y
+ 1. one-fiftieth → ___ / ___
+ 2. sum of x and y → ___ + ___
+ 3. first expression: ( ___ / ___ )( ___ + ___ )
+ 4. one-eighth → ___ / ___
+ 5. difference of x and y → ___ − ___
+ 6. second expression: ( ___ / ___ )( ___ − ___ )
+ 7. subtraction between expressions
+ 8. final expression:
+     ( ___ / ___ )( ___ + ___ ) − ( ___ / ___ )( ___ − ___ ) ← Answer: 
+_________________________________________________________________
+Mixed Operations
+_________________________________________________________________
+ex. 1: five more than twice a number, diminished by three times the same number
+ 1. let the number be ___
+ 2. “twice a number” becomes ___ ___
+ 3. “five more than” means + ___
+ 4. “three times the same number” becomes ___ ___
+ 5. “diminished by” means subtraction
+ 6. expression: ___ ___ + ___ − ___ ___ ← Answer: 
+_________________________________________________________________
+ex. 2: the difference between four times a number and seven, increased by twice the number
+ 1. let the number be ___
+ 2. “four times a number” becomes ___ ___
+ 3. “difference between … and seven” becomes ___ ___ − ___
+ 4. “twice the number” becomes ___ ___
+ 5. “increased by” means addition
+ 6. expression: ( ___ ___ − ___ ) + ___ ___ ← Answer: 
+_________________________________________________________________
+ex. 3: one-half of the sum of three times x and five, diminished by y
+ 1. “three times x” becomes ___ ___
+ 2. sum with five: ___ ___ + ___
+ 3. “one-half of” becomes ___ / ___
+ 4. diminished by y means − ___
+ 5. expression: ( ___ / ___ )( ___ ___ + ___ ) − ___ ← Answer: 
+_________________________________________________________________
+Order of Operations Emphasis
+_________________________________________________________________
+ex. 4: six minus the product of two and the sum of x and three
+ 1. “sum of x and three” becomes ___ + ___
+ 2. “product of two and the sum” becomes ___ ( ___ + ___ )
+ 3. “six minus” places subtraction first
+ 4. expression: ___ − ___ ( ___ + ___ ) ← Answer: 
+_________________________________________________________________
+ex. 5: the quotient of the sum of x and five and the difference of x and five
+ 1. sum of x and five → ___ + ___
+ 2. difference of x and five → ___ − ___
+ 3. quotient means division
+ 4. expression: ( ___ + ___ ) / ( ___ − ___ ) ← Answer: 
+_________________________________________________________________
+Multi-Step Equation Translation
+_________________________________________________________________
+ex. 6: four more than twice a number is three less than five times the number
+ 1. let the number be ___
+ 2. “twice a number” becomes ___ ___
+ 3. “four more than” becomes + ___
+ 4. left side: ___ ___ + ___
+ 5. “five times the number” becomes ___ ___
+ 6. “three less than” means subtract ___
+ 7. right side: ___ ___ − ___
+ 8. equation: ___ ___ + ___ = ___ ___ − ___ ← Answer: 
+_________________________________________________________________
+ex. 7: the sum of three consecutive integers is 72
+ 1. let the first integer be ___
+ 2. second integer = ___ + ___
+ 3. third integer = ___ + ___
+ 4. sum equation: ___ + ( ___ + ___ ) + ( ___ + ___ ) = ___
+ 5. simplify: ___ ___ + ___ = ___
+ 6. solve: ___ = ___ ← Answer: 
+_________________________________________________________________
+Geometry – Algebra Connection
+_________________________________________________________________
+ex. 8: the length of a rectangle is 3 more than twice its width. the perimeter is 54.
+ 1. let width = ___
+ 2. length = ___ ___ + ___
+ 3. perimeter formula: ___ ( ___ + ___ )
+ 4. equation: ___ ( ___ + ___ ) = ___
+ 5. solve: ___ = ___
+ 6. dimensions: width = ___, length = ___ ← **answers**
+_________________________________________________________________
+Word Problems with Variables
+_________________________________________________________________
+ex. 9: a taxi charges a base fee of 5 dollars plus 2 dollars per mile. write an expression for the total cost.
+ 1. let miles = ___
+ 2. base fee = ___
+ 3. cost per mile = ___ ___
+ 4. total cost expression: ___ + ___ ___ ← Answer: 
+_________________________________________________________________
+ex. 10: a phone plan charges $30 plus $10 per gigabyte. how many gigabytes are used if the bill is $120?
+ 1. let gigabytes = ___
+ 2. fixed fee = ___
+ 3. variable charge = ___ ___
+ 4. equation: ___ + ___ ___ = ___
+ 5. solve: ___ = ___ ← Answer: 
+_________________________________________________________________
+Final Capstone Problem
+_________________________________________________________________
+ex. 11: twice the square of a number minus three times the number is 10. find the number.
+ 1. let the number be ___
+ 2. square of the number = ___²
+ 3. twice the square = ___ ___²
+ 4. three times the number = ___ ___
+ 5. equation: ___ ___² − ___ ___ = ___
+ 6. solve the quadratic
+ 7. solutions: ___, ___ ← **answers**
+_________________________________________________________________
+Ratios & Proportions
+_________________________________________________________________
+ex. 1: one inch on a map corresponds to 20 miles. how many miles do 5 inches represent?
+ 1. given conversion:
+     1 inch = ___ miles
+ 2. identify scale factor:
+     5 inches = ___ × 1 inch
+ 3. apply the scale factor to miles:
+     ___ × ___ miles
+ 4. conclusion:
+  5 inches = ___ miles ← Answer: 
+_________________________________________________________________
+ex. 2: a recipe needs 3 cups of sugar for 27 cookies. how many cups are needed for twice as many cookies?
+ 1. original cookies: ___
+ 2. twice as many cookies: ___ × ___ = ___
+ 3. let x = cups of sugar needed
+ 4. set up proportion:
+     ___ / ___ = ___ / ___
+ 5. cross-multiply:
+     ___ × ___ = ___ × ___
+ 6. solve:
+     x = ___ cups ← Answer: 
+_________________________________________________________________
+ex. 3: 1 inch = 2.54 centimeters. derive two other facts.
+ 1. original fact:
+     ___ inch = ___ cm
+ 2. multiply both sides by ___:
+     ___ inches = ___ cm ← **new fact**
+ 3. divide both sides by ___:
+     ___ inches = ___ cm ← **new fact**
+_________________________________________________________________
+ex. 4: a room has a ratio of 2 men to 4 women. if women increase to 6, how many men must there be to keep the ratio?
+ 1. original ratio:
+     ___ men / ___ women
+ 2. let x = total men needed
+ 3. set ratios equal:
+     ___ / ___ = ___ / ___
+ 4. cross-multiply:
+     ___ × ___ = ___ × ___
+ 5. solve:
+     x = ___ (total men)
+ 6. men added:
+     ___ − ___ = ___ ← Answer: 
+_________________________________________________________________
+ex. 5: a room has a ratio of 2 men to 4 women. men change by y+1, women by y. ratio stays the same.
+ 1. original ratio: ___ / ___
+ 2. new men: ___ + ___
+ 3. new women: ___ + ___
+ 4. new ratio:
+     (___ + ***) / (*** + ___)
+ 5. set ratios equal:
+     ___ / ___ = (___ + ***) / (*** + ___)
+ 6. cross-multiply and solve:
+     y = ___ ← Answer: 
+_________________________________________________________________
+ex. 6: a room has m men and w women. women increase by a. how should men change?
+ 1. original ratio: ___ / ___
+ 2. let x = men added
+ 3. new ratio: (___ + ***) / (*** + ___)
+ 4. set equal:
+     ___ / ___ = (___ + ***) / (*** + ___)
+ 5. solve:
+     x = ___ ← Answer: 
+_________________________________________________________________
+Percent Change
+_________________________________________________________________
+ex. 7: snow increases from 5 inches to 8 inches. find percent change.
+ 1. percent change formula:
+     ( ___ − ___ ) / ___ × 100%
+ 2. substitute values:
+     ( ___ − ___ ) / ___ × 100%
+ 3. compute:
+     ___% ← Answer: 
+_________________________________________________________________
+ex. 8: snow melts from 5 inches to 3 inches. find percent change.
+ 1. substitute values:
+     ( ___ − ___ ) / ___ × 100%
+ 2. compute:
+     ___%
+ 3. interpretation:
+     negative sign means a ___ ← Answer: 
+_________________________________________________________________
+ex. 9: quantity increases from a to 2a.
+ 1. formula:
+     ( ___ − ___ ) / ___ × 100%
+ 2. simplify:
+     ___% ← Answer: 
+_________________________________________________________________
+ex. 10: quantity changes from a to ba.
+ 1. formula:
+     ( ___ − ___ ) / ___ × 100%
+ 2. factor:
+     ( ___ − ___ ) × 100%
+ 3. result:
+     ___% ← Answer: 
+_________________________________________________________________
+ex. 11: original depth is 25 feet. percent change is 200%. find final depth.
+ 1. formula:
+     ( ___ − ___ ) / ___ × 100% = ___%
+ 2. convert percent to decimal: ___
+ 3. solve:
+     f = ___ feet ← Answer: 
+_________________________________________________________________
+ex. 12: 200% increase from 25 feet
+ 1. increase amount:
+     ___% of ___ = ___
+ 2. final value:
+     ___ + ___ = ___ feet ← Answer: 
+_________________________________________________________________
+ex. 13: 200% of 25 feet
+ 1. multiply:
+     ___ × ___ = ___ feet ← Answer: 
+_________________________________________________________________
+Consecutive Integer Problems
+ex. 1: two consecutive integers sum to 41.
+ 1. let first integer = ___
+ 2. next integer = ___ + ___
+ 3. equation:
+     ___ + ( ___ + ___ ) = ___
+ 4. solve:
+     integers = ___ and ___ ← Answer: 
+_________________________________________________________________
+ex. 2: two consecutive even integers sum to 98.
+ 1. pattern: ___, ___ + ___
+ 2. equation:
+     ___ + ( ___ + ___ ) = ___
+ 3. solve:
+     integers = ___ and ___ ← Answer: 
+_________________________________________________________________
+ex. 3: two consecutive odd integers sum to 240.
+ 1. pattern: ___, ___ + ___
+ 2. equation:
+     ___ + ( ___ + ___ ) = ___
+ 3. solve:
+     integers = ___ and ___ ← Answer: 
+_________________________________________________________________
+ex. 4: sum of two consecutive integers is 3 more than the first.
+ 1. pattern: ___, ___ + ___
+ 2. equation:
+     ___ + ( ___ + ___ ) = ___ + ___
+ 3. solve:
+     integers = ___ and ___ ← Answer: 
+_________________________________________________________________
+ex. 5: sum of three consecutive integers is twice the third.
+ 1. pattern: ___, ___ + ___, ___ + ___
+ 2. equation:
+     ___ + ( ___ + ___ ) + ( ___ + ___ ) = ___ ( ___ + ___ )
+ 3. solve:
+     integers = ___, ___, ___ ← Answer: 
+_________________________________________________________________
+ex. 6: sum of two consecutive integers is s.
+ 1. equation:
+     ___ + ( ___ + ___ ) = ___
+ 2. solve:
+     first = ___
+     second = ___
+     ⚠️ Note: s must be ___.
+_________________________________________________________________
+ex. 7: sum of three consecutive odd integers is 243.
+ 1. pattern: ___, ___ + ___, ___ + ___
+ 2. equation:
+     ___ + ( ___ + ___ ) + ( ___ + ___ ) = ___
+ 3. solve:
+     integers = ___, ___, ___ ← Answer: 
+_________________________________________________________________
+Rates & Linear Models
+_________________________________________________________________
+ex. 1: car travels 50 miles every hour.
+ 1. formula: speed = ___ / ___
+ 2. substitute:
+     ___ / ___ ← Answer: 
+_________________________________________________________________
+ex. 2: bug travels 10 inches in 5 minutes.
+ 1. rate: ___ / ___
+ 2. reduce: ___ ← Answer: 
+_________________________________________________________________
+ex. 3: 20 cans cost 20 cents each.
+ 1. rate: ___ / ___
+ 2. total cost: ___ ← Answer: 
+_________________________________________________________________
+ex. 6: general linear model
+ Final = ___ + ( ___ × ___ )
+_________________________________________________________________
+ex. 8: pool fills from 30,000 ft³ to 50,000 ft³ at 250 ft³/min.
+ 1. equation:
+     ___ = ___ + ___t
+ 2. solve:
+     t = ___ minutes ← Answer: 
+_________________________________________________________________
+Averages
+_________________________________________________________________
+ex. 1: average of 2, 3, and 4
+ 1. formula: ___ / ___
+ 2. compute: ___ ← Answer: 
+_________________________________________________________________
+ex. 2: average of x, 2x, 3x
+ 1. sum: ___
+ 2. average: ___ ← Answer: 
+_________________________________________________________________
+ex. 6: quiz average problem
+ 1. let x = ___
+ 2. equation:
+     ( ___ + ___ + ___ + ___ ) / ___ = ___
+ 3. solve:
+     x = ___ ← Answer: 
+_________________________________________________________________
+Mixture Problems (Guided Structure)
+_________________________________________________________________
+ex. 1: 20 oz of 10% OJ mixed with x oz of 20% OJ → 15%
+ 1. OJ from first mixture: ___
+ 2. OJ from second mixture: ___
+ 3. total volume: ___
+ 4. equation:
+     ___ + ___ = ___
+ 5. solve:
+     x = ___ oz ← Answer: 
+_________________________________________________________________
+ex. 6: general mixture formula
+ Final concentration =
+  ( ___ + ___ ) / ( ___ + ___ ) ← Answer: 
+_________________________________________________________________
+Work Problems
+_________________________________________________________________
+ex. 1: Bob (3 hr), Jerry (2 hr)
+ 1. Bob’s rate: ___
+ 2. Jerry’s rate: ___
+ 3. equation:
+     ___t + ___t = ___
+ 4. solve:
+     t = ___ hours ← Answer: 
+_________________________________________________________________
+ex. 4: Bob takes x hours, Amin takes 2x hours, together 2 hours
+ 1. rates: ___ and ___
+ 2. equation:
+     ___ + ___ = ___
+ 3. solve:
+     Bob = ___ hr, Amin = ___ hr ← Answer: 
+_________________________________________________________________
+Simple Interest
+_________________________________________________________________
+ex. 1: $1000 at 5% for 3 months
+ 1. formula: I = ___ ___ ___
+ 2. substitute: ___
+ 3. interest earned: ___ ← Answer: 
+ 4. final amount: ___ ← Answer: 
+_________________________________________________________________
+ex. 4: final amount is $1200 at 4% for 6 months
+ 1. equation:
+     ___ = ___ + ___
+ 2. solve:
+     initial investment = ___ ← Answer:

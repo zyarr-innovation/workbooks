@@ -1,0 +1,485 @@
+## Basic Addition
+_________________________________________________________________
+Ex. 1: 2 increased by 5
+Write the first number → __2__
+"Increased by" means addition (+)
+Write the second number → __5__
+__2__ + __5__ = 7 ← Answer
+_________________________________________________________________
+Ex. 2: A number increased by 5
+"A number" represents a variable (like x) → __x__
+"Increased by" means addition (+)
+Write the number → __5__
+__x__ + __5__ ← Answer
+_________________________________________________________________
+Ex. 3: A number increased by p
+"A number" represents a variable (like x) → __x__
+"Increased by" means addition (+)
+Write the second variable → __p__
+__x__ + __p__ ← Answer
+_________________________________________________________________
+Ex. 4: 2 more than x
+Write the first value → __x__
+"More than" means addition (+)
+Write the second value → __2__
+__x__ + __2__ ← Answer
+_________________________________________________________________
+Ex. 5: Sum of x,y,z, and p
+"Sum of" indicates addition between all terms.
+List the variables: __x__, __y__, __z__, __p__
+__x__ + __y__ + __z__ + __p__ ← Answer
+_________________________________________________________________
+Ex. 6: Total of 2 and 4, increased by 10
+"Total of 2 and 4" (First Group) → __2__ + __4__
+"Increased by 10" (Add to the group) → + __10__
+__2__ + __4__ + __10__ = 16 ← Answer
+_________________________________________________________________
+Ex. 7: Sum of x and y, evaluated at x=2 and y=10
+Step 1 (Translate): "Sum of x and y" → __x__ + __y__
+Step 2 (Substitute): Plug in the values → __2__ + __10__
+Step 3 (Solve): __2__ + __10__ = 12 ← Answer
+_________________________________________________________________
+## Basic Substraction
+_________________________________________________________________
+Ex. 1: 2 decreased by 1
+Write the first number → __2__
+"Decreased by" means subtraction (−)
+Write the second number → __1__
+__2__ − __1__ = 1 ← Answer
+_________________________________________________________________
+Ex. 2: x decreased by 25
+Write the variable → __x__
+"Decreased by" means subtraction (−)
+Write the number → __25__
+__x__ − __25__ ← Answer
+_________________________________________________________________
+Ex. 3: x diminished by 7
+Write the variable → __x__
+"Diminished by" means subtraction (−)
+Write the number → __7__
+__x__ − __7__ ← Answer
+_________________________________________________________________
+Ex. 4: z take away p
+Write the first variable → __z__
+"Take away" means subtraction (−)
+Write the second variable → __p__
+__z__ − __p__ ← Answer
+_________________________________________________________________
+Ex. 5: x less y
+Write the first variable → __x__
+"Less" means subtraction (−)
+Write the second variable → __y__
+__x__ − __y__ ← Answer
+_________________________________________________________________
+Ex. 6: Difference of x and z
+"Difference" indicates subtraction between two terms.
+List the terms in order: __x__ , __z__
+__x__ − __z__ ← Answer
+_________________________________________________________________
+Ex. 7: A number diminished by another number
+"A number" (first variable) → __x__
+"Another number" (second variable) → __y__
+__x__ − __y__ ← Answer
+_________________________________________________________________
+Ex. 8: 3 less than 7
+Note: "Less than" means you are taking the first number away from the second. You must flip the order!
+Write the second number first → __7__
+Write the first number last → __3__
+__7__ − __3__ = 4 ← Answer
+_________________________________________________________________
+Multi-Step Subtraction
+Ex. 9: z decreased by p and then diminished by a
+Start with the first variable → __z__
+Subtract the second variable (p) → − __p__
+Subtract the third variable (a) → − __a__
+__z__ − __p__ − __a__ ← Answer
+_________________________________________________________________
+Modifying a Single Group
+Ex. 1: Sum of x and y, decreased by 10
+Step 1: Translate the "package" (sum of x and y) → (__x__ + __y__)
+Step 2: "Decreased by" means subtract 10 from that package.
+(__x__ + __y__) − __10__ ← Answer
+_________________________________________________________________
+Ex. 2: 10 decreased by the sum of x and z
+Step 1: Start with the first number → __10__
+Step 2: Translate the "package" to be subtracted (sum of x and z) → (__x__ + __z__)
+__10__ − (__x__ + __z__) ← Answer
+Self-Check: Why use parentheses? Because you are subtracting the whole sum, not just the x.
+_________________________________________________________________
+Working with Two Groups
+Ex. 3: Sum of x and z, decreased by the sum of a and b
+Step 1: Translate the first "package" → (__x__ + __z__)
+Step 2: Translate the second "package" → (__a__ + __b__)
+Step 3: Use subtraction to connect them.
+(__x__ + __z__) − (__a__ + __b__) ← Answer
+_________________________________________________________________
+Ex. 4: Difference of x and y less the sum of z and p
+Step 1: Translate the first "package" (difference means subtraction) → (__x__ − __y__)
+Step 2: Translate the second "package" (sum means addition) → (__z__ + __p__)
+Step 3: Use "less" (subtraction) to connect them.
+(__x__ − __y__) − (__z__ + __p__) ← Answer
+_________________________________________________________________
+## Common Multipliers
+_________________________________________________________________
+Ex. 1: Double y
+"Double" means to multiply by 2 → __2__
+Write the variable → __y__
+__2y__ ← Answer
+_________________________________________________________________
+Ex. 2: Triple z
+"Triple" means to multiply by 3 → __3__
+Write the variable → __z__
+__3z__ ← Answer
+_________________________________________________________________
+Ex. 3: x scaled by 3
+"Scaled by 3" means to multiply the value by 3.
+__3x__ ← Answer
+_________________________________________________________________
+## The "Product" (Multiple Terms)
+_________________________________________________________________
+Ex. 4: Product of x and y
+"Product" is the result of multiplication.
+List the variables side-by-side: __x__ __y__
+__xy__ ← Answer
+_________________________________________________________________
+Ex. 5: Product of x,y, and z
+List the variables: __x__ __y__ __z__
+__xyz__ ← Answer
+_________________________________________________________________
+Ex. 6: Product of a,b, and c, tripled
+First, find the product: (__a__ __b__ __c__)
+Then, "triple" the whole group: 3× __abc__
+__3abc__ ← Answer
+_________________________________________________________________
+## Fractions and "Of"
+_________________________________________________________________
+Ex. 7: One-third of p
+Write the fraction (one-third) → __1__ / __3__
+"Of" usually means multiplication in math.
+Write the variable → __p__
+__p/3__ ← Answer
+_________________________________________________________________
+Ex. 8: One-fourth of the product of x and y
+Write the fraction (one-fourth) → __1__ / __4__
+Write the "product" package → (__x__ __y__)
+__xy/4__ ← Answer
+_________________________________________________________________
+## Mixed Operations (x, +, -)
+_________________________________________________________________
+Ex. 1: Find 10 increased by the product of 2 and 5
+Write the starting number → __10__
+Translate "product of 2 and 5" → __2__ * __5__
+Combine them ("increased by" means +)
+Raw Equation: __10__ + (__2__ * __5__)
+Simplified __20__ ← Answer
+_________________________________________________________________
+Ex. 2: Product of x and y, diminished by the sum of d and p
+Write the first "package" (product) → __x__ __y__
+Write the second "package" (sum) → (__d__ + __p__)
+Connect with "diminished by" (−)
+__xy__ - (__d__ + __p__) ← Answer
+_________________________________________________________________
+Ex. 3: Double the difference of x and y, increased by p
+Step 1: Translate "difference of x and y" → (__x__ - __y__)
+Step 2: "Double" that whole group → 2(__x__ - __y__)
+Step 3: "Increase" the result by p → + __p__
+2(__x__ - __y__) + __p__ ← Answer
+_________________________________________________________________
+## Division
+_________________________________________________________________
+Ex. 4: 5 divided by 3
+Write the first number (numerator) → __5__
+Write the second number (denominator) → __3__
+__5/3__ ← Answer
+_________________________________________________________________
+Ex. 5: The sum of x and p, divided by 5
+Step 1: Create the "package" for the top → (__x__ + __p__)
+Step 2: Place it over the divisor → / __5__
+(__x__ + __p__)/__5__ ← Answer
+_________________________________________________________________
+Ex. 6: Ratio of x and y less the sum of z and p
+"Ratio of x and y" means division → __x__ / __y__
+"Less" means subtraction → -
+"Sum of z and p" is a package → (__z__ + __p__)
+__x__/__y__ - (__z__ + __p__) ← Answer
+_________________________________________________________________
+## Powers
+_________________________________________________________________
+ex. 1: square of a
+ __a__² ← Answer
+_________________________________________________________________
+ex. 2: square of the sum of a and b
+ (__a__ + __b__)² ← Answer
+_________________________________________________________________
+ex. 3: difference of a squared and p squared
+ __a__² − __p__² ← Answer
+_________________________________________________________________
+## Powers with +, −, ×, ÷
+_________________________________________________________________
+ex. 1: square of a
+ “square” means multiply a by itself
+  __a__² ← Answer
+_________________________________________________________________
+ex. 2: square of a increased by 10
+ “square of a” becomes __a__²
+ “increased by 10” becomes + __10__
+  __a__² + __10__ ← Answer
+_________________________________________________________________
+ex. 3: square of a increased by x squared
+ “square of a” → __a__²
+ “x squared” → __x__²
+  __a__² + __x__² ← Answer
+_________________________________________________________________
+ex. 4: difference of a squared and p squared
+ “difference” means subtraction
+  __a__² − __p__² ← Answer
+_________________________________________________________________
+ex. 5: sum of the squares of a and b
+ square each variable → __a__² and __b__²
+ “sum” means addition
+  __a__² + __b__² ← Answer
+_________________________________________________________________
+ex. 6: square of the sum of a and b
+ “sum of a and b” becomes __a__ + __b__
+ “square of the sum” means square the entire group
+  (__a__ + __b__)² ← Answer
+_________________________________________________________________
+## Equations
+_________________________________________________________________
+ex. 1: x is 4
+ copy x → __x__
+ “is” becomes =
+ copy 4 → __4__
+  __x__ = __4__ ← Answer
+_________________________________________________________________
+ex. 2: x is p increased by 5
+ copy x → __x__
+ “is” becomes =
+ “p increased by 5” becomes __p__ + __5__
+  __x__ = __p__ + __5__ ← Answer
+_________________________________________________________________
+ex. 3: x was d less 5
+ copy x → __x__
+ “was” becomes =
+ “d less 5” becomes __d__ − __5__
+  __x__ = __d__ − __5__ ← Answer
+_________________________________________________________________
+ex. 4: sum of x and y is 10
+ “sum of x and y” becomes __x__ + __y__
+ “is” becomes =
+  __x__ + __y__ = __10__ ← Answer
+_________________________________________________________________
+ex. 5: product of a and b was y less 4
+ “product of a and b” becomes __a__ __b__
+ “was” becomes =
+ “y less 4” becomes __y__ − __4__
+  __a__ __b__ = __y__ − __4__ ← Answer
+_________________________________________________________________
+ex. 6: ratio of x and y, diminished by 4, is 25
+ “ratio of x and y” becomes __x__ / __y__
+ “diminished by 4” becomes − __4__
+ “is” becomes =
+  __x__ / __y__ − __4__ = __25__ ← Answer
+_________________________________________________________________
+ex. 2: double the sum of x and 4 will be thrice x
+ __2__( __x__ + __4__ ) = __3__ __x__ ← Answer
+_________________________________________________________________
+ex. 4: ratio of a and b
+ “ratio of” means division
+ copy a → __a__
+ copy b → __b__
+  __a__ / __b__ ← Answer
+_________________________________________________________________
+ex. 5: quotient of a number and p
+ “a number” becomes a variable → __x__
+ “quotient of” means division
+  __x__ / __p__ ← Answer
+_________________________________________________________________
+ex. 6: double x divided by 3
+ “double x” becomes __2__ __x__
+ “divided by” becomes division
+  __2__ __x__ / __3__ ← Answer
+_________________________________________________________________
+ex. 7: the sum of x and p, divided by 5
+ “sum of x and p” becomes __x__ + __p__
+ “divided by 5” places 5 under division
+  (__x__ + __p__) / __5__ ← Answer
+_________________________________________________________________
+ex. 8: the ratio of 1 and the sum of x, y and z
+ “sum of x, y and z” becomes __x__ + __y__ + __z__
+ “ratio of 1 and (sum)” means division
+  __1__ / (__x__ + __y__ + __z__) ← Answer
+_________________________________________________________________
+ex. 9: difference of x and y, diminished by the ratio of 1 and x
+ “difference of x and y” becomes __x__ − __y__
+ “ratio of 1 and x” becomes __1__ / __x__
+  __x__ − __y__ − (__1__ / __x__) ← Answer
+_________________________________________________________________
+ex. 10: ratio of the sum of x and y and the difference of x and y
+ “sum of x and y” becomes __x__ + __y__
+ “difference of x and y” becomes __x__ − __y__
+  (__x__ + __y__) / (__x__ − __y__) ← Answer
+_________________________________________________________________
+
+ex. 1: a rectangle has horizontal side h and vertical side v
+ two horizontal sides → __h__ + __h__
+ two vertical sides → __v__ + __v__
+ perimeter expression: __h__ + __h__ + __v__ + __v__ ← Answer
+_________________________________________________________________
+ex. 2: one angle of a triangle is x, another is 2x, third is 3x
+ sum of triangle angles = __180__
+ __x__ + __2x__ + __3x__ = __180__
+ __6x__ = __180__
+ x = __30__ ← Answer
+_________________________________________________________________
+ex. 3: a number increased by twice itself is 30
+ “a number” becomes __x__
+ “twice itself” becomes __2__ __x__
+ “is 30” becomes = __30__
+  __x__ + __2__ __x__ = __30__ ← equation
+  x = __10/__ ← Answer
+_________________________________________________________________
+ex. 4: twice the sum of x and 4 is 5 times x
+ “sum of x and 4” → __x__ + __4__
+ “twice the sum” → __2__( __x__ + __4__ )
+ “5 times x” → __5__ __x__
+  __2__( __x__ + __4__ ) = __5__ __x__ ← Answer
+_________________________________________________________________
+ex. 5: square of the sum of x and 1 is 4
+ “sum of x and 1” → __x__ + __1__
+ “square of the sum” → ( __x__ + __1__ )²
+ “is 4” → = __4__
+  ( __x__ + __1__ )² = __4__ ← Answer
+_________________________________________________________________
+
+ex. 3: the product of x² and y is p. find y.
+ 1. “product of x² and y” becomes __x__² __y__
+ 2. equation: __x__² __y__ = __p__
+ 3. divide both sides by __x__²
+ 4. y = __p__ / __x__² ← Answer
+_________________________________________________________________
+ex. 4: the square root of the sum of x² and y² is 4. find x².
+ 1. sum of squares: __x__² + __y__²
+ 2. square root expression: √( __x__² + __y__² )
+ 3. equation: √( __x__² + __y__² ) = __4__
+ 4. square both sides: __x__² + __y__² = __16__
+ 5. isolate x²: __x__² = __16__ − __y__² ← Answer
+_________________________________________________________________
+ex. 5: the difference of x and y increased by the product of z and p was 12. find the difference of x and y.
+ 1. “difference of x and y” becomes __x__ − __y__
+ 2. “product of z and p” becomes __z__ __p__
+ 3. equation: ( __x__ − __y__ ) + __z__ __p__ = __12__
+ 4. subtract __z__ __p__ from both sides
+ 5. __x__ − __y__ = __12__ − __z__ __p__ ← Answer
+_________________________________________________________________
+ex. 6: x³ diminished by the sum of z² and p is 90. find x³.
+ 1. x cubed becomes __x__³
+ 2. sum of z² and p becomes ( __z__² + __p__ )
+ 3. equation: __x__³ − ( __z__² + __p__ ) = __90__
+ 4. add ( __z__² + __p__ ) to both sides
+ 5. __x__³ = __90__ + __z__² + __p__ ← Answer
+_________________________________________________________________
+ex. 1: the square of x plus the square of y is the square of p
+ 1. square of x → __x__²
+ 2. square of y → __y__²
+ 3. square of p → __p__²
+ 4. equation: __x__² + __y__² = __p__² ← Answer
+_________________________________________________________________
+ex. 2: cube of x less the square of x will be 21
+ 1. cube of x → __x__³
+ 2. square of x → __x__²
+ 3. “less” means subtraction
+ 4. “will be” becomes =
+ 5. equation: __x__³ − __x__² = __21__ ← Answer
+_________________________________________________________________
+ex. 3: double a number increased by 4 will be that same number
+ 1. let the number be __x__
+ 2. “double a number” becomes __2__ __x__
+ 3. “increased by 4” becomes + __4__
+ 4. “will be” becomes =
+ 5. “that same number” becomes __x__
+ 6. equation: __2__ __x__ + __4__ = __x__ ← Answer
+_________________________________________________________________
+
+## Complex
+_________________________________________________________________
+ex. 1: triple the quotient of a and b is the ratio of x and d increased by 5
+ 1. quotient of a and b → __a__ / __b__
+ 2. triple the quotient → __3__( __a__ / __b__ )
+ 3. ratio of x and d → __x__ / __d__
+ 4. increased by 5 → + __5__
+ 5. equation: __3__( __a__ / __b__ ) = __x__ / __d__ + __5__ ← Answer
+_________________________________________________________________
+ex. 2: one-fiftieth of the sum of x and y diminished by one-eighth of the difference of x and y
+ 1. one-fiftieth → __1__ / __50__
+ 2. sum of x and y → __x__ + __y__
+ 3. first expression: ( __1__ / __50__ )( __x__ + __y__ )
+ 4. one-eighth → __1__ / __8__
+ 5. difference of x and y → __x__ − __y__
+ 6. second expression: ( __1__ / __8__ )( __x__ − __y__ )
+ 7. subtraction between expressions
+ 8. final expression:
+     ( __1__ / __50__ )( __x__ + __y__ ) − ( __1__ / __8__ )( __x__ − __y__ ) ← Answer
+_________________________________________________________________
+
+## Mixed Operations
+_________________________________________________________________
+ex. 1: five more than twice a number, diminished by three times the same number
+ 1. let the number be __x__
+ 2. “twice a number” becomes __2__ __x__
+ 3. “five more than” means + __5__
+ 4. “three times the same number” becomes __3__ __x__
+ 5. “diminished by” means subtraction
+ 6. expression: __2__ __x__ + __5__ − __3__ __x__ ← Answer
+_________________________________________________________________
+ex. 2: the difference between four times a number and seven, increased by twice the number
+ 1. let the number be __x__
+ 2. “four times a number” becomes __4__ __x__
+ 3. “difference between … and seven” becomes __4__ __x__ − __7__
+ 4. “twice the number” becomes __2__ __x__
+ 5. “increased by” means addition
+ 6. expression: ( __4__ __x__ − __7__ ) + __2__ __x__ ← Answer
+_________________________________________________________________
+ex. 3: one-half of the sum of three times x and five, diminished by y
+ 1. “three times x” becomes __3__ __x__
+ 2. sum with five: __3__ __x__ + __5__
+ 3. “one-half of” becomes __1__ / __2__
+ 4. diminished by y means − __y__
+ 5. expression: ( __1__ / __2__ )( __3__ __x__ + __5__ ) − __y__ ← Answer
+_________________________________________________________________
+
+## Order of Operations Emphasis
+_________________________________________________________________
+ex. 4: six minus the product of two and the sum of x and three
+ 1. “sum of x and three” becomes __x__ + __3__
+ 2. “product of two and the sum” becomes __2__ ( __x__ + __3__ )
+ 3. “six minus” places subtraction first
+ 4. expression: __6__ − __2__ ( __x__ + __3__ ) ← Answer
+_________________________________________________________________
+ex. 5: the quotient of the sum of x and five and the difference of x and five
+ 1. sum of x and five → __x__ + __5__
+ 2. difference of x and five → __x__ − __5__
+ 3. quotient means division
+ 4. expression: ( __x__ + __5__ ) / ( __x__ − __5__ ) ← Answer
+_________________________________________________________________
+
+## Multi-Step Equation Translation
+_________________________________________________________________
+ex. 6: four more than twice a number is three less than five times the number
+ 1. let the number be __x__
+ 2. “twice a number” becomes __2__ __x__
+ 3. “four more than” becomes + __4__
+ 4. left side: __2__ __x__ + __4__
+ 5. “five times the number” becomes __5__ __x__
+ 6. “three less than” means subtract __3__
+ 7. right side: __5__ __x__ − __3__
+ 8. equation: __2__ __x__ + __4__ = __5__ __x__ − __3__ ← Answer
+_________________________________________________________________
+ex. 7: the sum of three consecutive integers is 72
+ 1. let the first integer be __x__
+ 2. second integer = __x__ + __1__
+ 3. third integer = __x__ + __2__
+ 4. sum equation: __x__ + ( __x__ + __1__ ) + ( __x__ + __2__ ) = __72__
+ 5. simplify: __3__ __x__ + __3__ = __72__
+ 6. solve: __x__ = __23__ ← Answer
+_________________________________________________________________
