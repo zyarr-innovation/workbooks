@@ -1,0 +1,543 @@
+_________________________________________________________________
+## Rate, Distance, and Time Problems
+_________________________________________________________________
+ex. 1: A man walks at a rate of 5 feet per second. How far does the man walk in 10 seconds?
+ 1. what to find: __distance__
+ 2. needed fact: distance = __speed__ × __time__
+ 3. speed = __5__ ft/s
+ 4. time = __10__ s
+ 5. distance = __5__ × __10__ = __50__ feet ← Answer
+_________________________________________________________________
+ex. 2: A man walks at a rate of 5 feet per second. How long does it take to walk 1000 feet?
+ 1. what to find: __time__
+ 2. needed fact: distance = __speed__ × __time__
+ 3. speed = __5__ ft/s
+ 4. time = __t__ (unknown)
+ 5. equation: __1000__ = __5__ × __t__
+ 6. solve: __1000__ / __5__ = __200__ seconds ← Answer
+_________________________________________________________________
+ex. 3: Car A travels 50 mph for 3 hours. Car B travels 60 mph for 5 hours. How much farther does car B go?
+ 1. distance formula: distance = __speed__ × __time__
+ 2. Car A distance = __50__ × __3__ = __150__ miles
+ 3. Car B distance = __60__ × __5__ = __300__ miles
+ 4. difference = __300__ − __150__ = __150__ miles ← Answer
+_________________________________________________________________
+
+## Speed vs Velocity (Concept Check)
+_________________________________________________________________
+ex. 4: What’s the difference between speed and velocity?
+ speed → magnitude only (__speed__ or __rate__)
+ velocity → magnitude **and** __direction__
+ East → __positive__ sign
+ West → __negative__ sign ← Answer
+_________________________________________________________________
+## Relative Motion
+_________________________________________________________________
+ex. 6: Car A travels East at 50 mph. Car B travels West at 60 mph. After 3 hours, how far apart are they?
+ 1. displacement formula: __displacement__ = __velocity__ × __time__
+ 2. Car A displacement = __50__ × __3__ = __150__ miles
+ 3. Car B displacement = __60__ × __3__ = __180__ miles
+ 4. distance apart = __150__ + __180__ = __330__ miles ← Answer
+_________________________________________________________________
+ex. 7: Man A walks at 4 ft/s. Man B jogs at 9 ft/s. How long until they are 25 feet apart?
+ 1. let time = __t__
+ 2. Man A distance = __4__ __t__
+ 3. Man B distance = __9__ __t__
+ 4. equation: __9t__ − __4t__ = __25__
+ 5. solve: __t__ = __5__ seconds ← Answer
+_________________________________________________________________
+ex. 8: At noon, a woman is 5 miles from home and drives 60 mph. How far from home at 3 PM?
+ 1. initial distance = __5__ miles
+ 2. speed = __60__ mph
+ 3. time = __3__ hours
+ 4. equation: d = __5__ + __60__ __3__
+ 5. d = __5__ + __180__ = __185__ miles ← Answer
+_________________________________________________________________
+ex. 9: Troll A runs at 5 ft/s. Troll B starts 1 second later at 6 ft/s. Do they meet?
+ 1. Troll A distance = __5__ __t__
+ 2. Troll B distance = __6__ (__t__ − __1__)
+ 3. meeting condition: __5t__ = __6__(__t__ − ___1__)
+ 4. solve: __t__ = __6__ seconds ← Answer
+_________________________________________________________________
+## Geometry Applications
+_________________________________________________________________
+ex. 1: Rectangle with horizontal h and vertical v. Find perimeter.
+ 1. horizontal sides: __h__ + __h__
+ 2. vertical sides: __v__ + __v__
+ 3. perimeter = __2h__ + __2v__ ← Answer
+_________________________________________________________________
+ex. 2: Rectangle with vertical side is 4 and perimeter 16. Find h.
+ 1. formula: __2__h + __2__(__4__) = __16__
+ 2. __2__h + __8__ = __16__
+ 3. __2__h = __8__
+ 4. h = __4__ ← Answer
+_________________________________________________________________
+ex. 3: Rectangle where horizontal side is twice vertical. Perimeter is 24.
+ 1. let vertical side = __x__
+ 2. horizontal side = __2__ __x__
+ 3. equation: __2x__ + __4x__ = __24__
+ 4. solve: __x__ = __4__
+ 5. sides: v = __4__, h = __8__ ← answers
+_________________________________________________________________
+## Triangle Angle Problems
+_________________________________________________________________
+ex. 4: Triangle angles are x, 2x, and 3x. Find all angles.
+ 1. triangle sum = __180__ degrees
+ 2. equation: __x__ + __2x__ + __3x__ = __180__
+ 3. __6x__ = __180__
+ 4. x = __30__ degrees ← Answer
+ 5. angles: __30__°, __60__°, __90__° ← answers
+_________________________________________________________________
+ex. 5: Smallest angle is x. Second is 30 more. Third is triple.
+ 1. angles: __x__, __x__ + __30__, __3__ __x__
+ 2. equation: __x__ + (__x__ + __30__) + __3x__ = __180__
+ 3. solve: __x__ = __30__
+ 4. angles: __30__°, __60__°, __90__° ← answers
+_________________________________________________________________
+## Percent Problems
+_________________________________________________________________
+ex. 1: 10 is 2% of a number. Find the number.
+ 1. let number = __x__
+ 2. 2% = __0.02__
+ 3. equation: __10__ = __0.02__ × __x__
+ 4. solve: __10__ / __0.02__ = __500__ ← Answer
+_________________________________________________________________
+ex. 2: What number is 25% of 200?
+ 1. let number = __x__
+ 2. equation: __x__ = __0.25__ × __200__
+ 3. solve: __x__ = __50__ ← Answer
+_________________________________________________________________
+ex. 3: A number increased by 20% of itself is 20.
+ 1. let number = __x__
+ 2. increase term = __0.2__ __x__
+ 3. equation: __x__ + __0.2__ __x__ = __20__
+ 4. solve: __x__ = __50/3__ ← Answer
+_________________________________________________________________
+ex. 4: A tie costs x dollars. Discounted by 10% then 20%. Final price?
+ 1. first discount: __0.9__ __x__
+ 2. second discount: __0.8__(__0.9__ __x__)
+ 3. final price = __0.72x__ ← Answer
+_________________________________________________________________
+## Percent Applications (Advanced)
+_________________________________________________________________
+ex. 13: 10 is what percent of 80?
+ 1. “what percent” becomes __p__
+ 2. equation: __10__ = __p__ __80__
+ 3. solve: __p__ = __10__ / __80__
+ 4. decimal form: __0.125__
+ 5. percent form: __12.5__% ← Answer
+_________________________________________________________________
+ex. 14: a number increased by 20% of itself is 20. what is the number?
+ 1. let the number be __x__
+ 2. 20% in decimal form = __0.2__
+ 3. equation: __x__ + __0.2__ __x__ = __20__
+ 4. combine like terms: __1.2__ __x__ = __20__
+ 5. solve: __x__ = __20__ / __1.2__ ← Answer
+_________________________________________________________________
+ex. 5: a number decreased by 10% of 20 is 50. what is the number?
+ 1. let the number be __x__
+ 2. 10% in decimal form = __0.1__
+ 3. 10% of 20 = __0.1__ × __20__ = __2__
+ 4. “decreased by” means subtraction
+ 5. equation: __x__ − __2__ = __50__
+ 6. solve: __x__ = __52__ ← Answer
+_________________________________________________________________
+ex. 6: a number increased by p percent of itself is 10. what is the number?
+ 1. let the number be __x__
+ 2. p percent (decimal form) = __p/100__
+ 3. increase term = __p/100__ __x__
+ 4. equation: __x__ + __p/100__ __x__ = __10__
+ 5. factor the variable: __x__(__1__ + __p/100__) = __10__
+ 6. solve: __x__ = __10__ / (__1__ + __p/100__) ← Answer
+_________________________________________________________________
+ex. 7: a number increased by p percent of itself is a. what is the number?
+ 1. let the number be __x__
+ 2. equation: __x__ + __p/100__ __x__ = __a__
+ 3. factor: __x__(__1__ + __p/100__) = __a__
+ 4. solve: __x__ = __a__ / (__1__ + __p/100__) ← Answer
+_________________________________________________________________
+## Successive Discounts
+_________________________________________________________________
+ex. 8: a shirt costs 20 dollars and goes on sale for 15 dollars. find the discount rate.
+ 1. original price = __20__
+ 2. sale price = __15__
+ 3. discount amount = __20__ − __15__ = __5__
+ 4. equation: __r__ __20__ = __5__
+ 5. solve: __r__ = __5__ / __20__
+ 6. convert to percent: __25__% ← Answer
+_________________________________________________________________
+ex. 9: notebooks cost $1.20 wholesale and sell for $1.50. find the rate of increase.
+ 1. original price = __1.20__
+ 2. final price = __1.50__
+ 3. increase amount = __1.50__ − __1.20__ = __0.30__
+ 4. equation: __r__ __1.20__ = __0.30__
+ 5. solve: __r__ = __0.30__ / __1.20__
+ 6. convert to percent: __25__% ← Answer
+_________________________________________________________________
+ex. 10: a tie costs x dollars, discounted by 10% then 20%. final price?
+ 1. original price = __x__
+ 2. after 10% discount: __0.9__ __x__
+ 3. after 20% discount: __0.8__(__0.9__ __x__)
+ 4. simplify: __0.72x__ ← Answer
+_________________________________________________________________
+ex. 11: a tie costs x dollars, discounted by p% then z%. final price?
+ 1. p and z written in decimal form
+ 2. first discount: (__1__ − __p/100__) __x__
+ 3. second discount: (__1__ − __z/100__)(__1__ − __p/100__) __x__ ← Answer
+_________________________________________________________________
+ex. 12: a tie costs x dollars. discounted by p% of x and z% of x. final price is a. find x.
+ 1. discount amounts: __p/100__ __x__ and __z/100__ __x__
+ 2. equation: __x__ − __p/100__ __x__ − __z/100__ __x__ = __a__
+ 3. factor: __x__(__1__ − __p/100__ − __z/100__) = __a__
+ 4. solve: __x__ = __a__ / (__1__ − __p/100__ − __z/100__) ← Answer 
+_________________________________________________________________
+## Systems & Relationships
+_________________________________________________________________
+ex. 1: double x equals triple y. find the ratio of x to y.
+ 1. “double x” becomes __2__ __x__
+ 2. “triple y” becomes __3__ __y__
+ 3. equation: __2__ __x__ = __3__ __y__
+ 4. divide both sides by __2__
+ 5. x = __3/2__ __y__
+ 6. ratio x/y = __3__ / __2__ ← Answer
+_________________________________________________________________
+ex. 2: the area of a rectangle is 4x. what is 3/4 of the area?
+ 1. area = __4x__
+ 2. multiply by __3__ / __4__
+ 3. calculation: ( __3__ / __4__ ) × __4x__
+ 4. result: __3x__ ← Answer
+_________________________________________________________________
+## Geometry with Variables
+_________________________________________________________________
+ex. 1: one side of a triangle is a, another is b, the third is c. the perimeter is 12.
+ 1. perimeter formula: __a__ + __b__ + __c__
+ 2. equation: __a__ + __b__ + __c__ = __12__ ← Answer
+_________________________________________________________________
+ex. 2: if side a is decreased by 1 and side c is increased by 1, keep perimeter 12
+ 1. new sides: __a__ − __1__, __b__, __c__ + __1__
+ 2. equation: ( __a__ − __1__ ) + __b__ + ( __c__ + __1__ ) = __12__ ← Answer
+_________________________________________________________________
+ex. 3: triangle sides are x, x+2, and x+4. find the average length.
+ 1. average formula: ( ___ ) / ___
+ 2. sum of sides: __x__ + ( __x__ + __2__ ) + ( __x__ + __4__ )
+ 3. simplify sum: __3__ __x__ + __6__
+ 4. average: ( __3__ __x__ + __6__ ) / __3__
+ 5. simplified average: __x__ + __2__ ← Answer
+_________________________________________________________________
+## Angle Relationships
+_________________________________________________________________
+ex. 1: one angle is 90°, another is half the third
+ 1. let the third angle be __x__
+ 2. second angle = __1/2__ __x__
+ 3. triangle sum: __90__ + __1/2__ __x__ + __x__ = __180__
+ 4. equation: __90__ + __1.5__ __x__ = __180__
+ 5. solve: __x__ = __60__° ← Answer
+ 6. remaining angle: __30__° ← Answer
+_________________________________________________________________
+ex. 2: one angle is 30°. ratio of other two is 5.
+ 1. let angles be __x__ and __y__
+ 2. ratio equation: __y__ / __x__ = __5__
+ 3. express larger angle: __y__ = __5__ __x__
+ 4. triangle sum: __30__ + __x__ + __5__ __x__ = __180__
+ 5. solve: __x__ = __25__° ← Answer
+ 6. other angle: __125__° ← Answer
+_________________________________________________________________
+## Motion with Delays
+_________________________________________________________________
+ex. 1: Troll A walks at 6 ft/s. Troll B walks at 4 ft/s but starts 1 second earlier.
+ 1. let time for Troll A = __t__
+ 2. Troll A distance = __6__ __t__
+ 3. Troll B time = __t__ + __1__
+ 4. Troll B distance = __4__ ( __t__ + __1__ )
+ 5. meeting condition: __6__ __t__ = __4__ ( __t__ + __1__ )
+ 6. solve: __t__ = __2__ seconds ← Answer
+ 7. distance at meeting: __12__ ft ← Answer
+_________________________________________________________________
+## Geometry – Algebra Connection
+_________________________________________________________________
+ex. 8: the length of a rectangle is 3 more than twice its width. the perimeter is 54.
+ 1. let width = __w__
+ 2. length = __2__ __w__ + __3__
+ 3. perimeter formula: __2__ ( __w__ + __2__ __w__ + __3__ )
+ 4. equation: __2__ ( __3__ __w__ + __3__ ) = __54__
+ 5. solve: __w__ = __8__
+ 6. dimensions: width = __8__, length = __19__ ← answers
+_________________________________________________________________
+## Word Problems with Variables
+_________________________________________________________________
+ex. 9: a taxi charges a base fee of 5 dollars plus 2 dollars per mile. write an expression for the total cost.
+ 1. let miles = __m__
+ 2. base fee = __5__
+ 3. cost per mile = __2__ __m__
+ 4. total cost expression: __5__ + __2__ __m__ ← Answer
+_________________________________________________________________
+ex. 10: a phone plan charges $30 plus $10 per gigabyte. how many gigabytes are used if the bill is $120?
+ 1. let gigabytes = __g__
+ 2. fixed fee = __30__
+ 3. variable charge = __10__ __g__
+ 4. equation: __30__ + __10__ __g__ = __120__
+ 5. solve: __g__ = __9__ ← Answer
+_________________________________________________________________
+## Final Capstone Problem
+_________________________________________________________________
+ex. 11: twice the square of a number minus three times the number is 10. find the number.
+ 1. let the number be __x__
+ 2. square of the number = __x__²
+ 3. twice the square = __2__ __x__²
+ 4. three times the number = __3__ __x__
+ 5. equation: __2__ __x__² − __3__ __x__ = __10__
+ 6. solve the quadratic
+ 7. solutions: __5__, __−1__ ← answers
+_________________________________________________________________
+##Ratios & Proportions
+_________________________________________________________________
+ex. 1: one inch on a map corresponds to 20 miles. how many miles do 5 inches represent?
+ 1. given conversion:
+     1 inch = __20__ miles
+ 2. identify scale factor:
+     5 inches = __5__ × 1 inch
+ 3. apply the scale factor to miles:
+     __5__ × __20__ miles
+ 4. conclusion:
+  5 inches = __100__ miles ← Answer
+_________________________________________________________________
+ex. 2: a recipe needs 3 cups of sugar for 27 cookies. how many cups are needed for twice as many cookies?
+ 1. original cookies: __27__
+ 2. twice as many cookies: __2__ × __27__ = __54__
+ 3. let x = cups of sugar needed
+ 4. set up proportion:
+     __3__ / __27__ = __x__ / __54__
+ 5. cross-multiply:
+     __3__ × __54__ = __27__ × __x__
+ 6. solve:
+     x = __6__ cups ← Answer
+_________________________________________________________________
+ex. 3: 1 inch = 2.54 centimeters. derive two other facts.
+ 1. original fact:
+     __1__ inch = __2.54__ cm
+ 2. multiply both sides by __2__:
+     __2__ inches = __5.08__ cm ← **new fact**
+ 3. divide both sides by __2__:
+     __0.5__ inches = __1.27__ cm ← **new fact**
+_________________________________________________________________
+ex. 4: a room has a ratio of 2 men to 4 women. if women increase to 6, how many men must there be to keep the ratio?
+ 1. original ratio:
+     __2__ men / __4__ women
+ 2. let x = total men needed
+ 3. set ratios equal:
+     __2__ / __4__ = __x__ / __6__
+ 4. cross-multiply:
+     __2__ × __6__ = __4__ × __x__
+ 5. solve:
+     x = __3__ (total men)
+ 6. men added:
+     __3__ − __2__ = __1__ ← Answer
+_________________________________________________________________
+ex. 5: a room has a ratio of 2 men to 4 women. men change by y+1, women by y. ratio stays the same.
+ 1. original ratio: __2__ / __4__
+ 2. new men: __2__ + __y__ + __1__
+ 3. new women: __4__ + __y__
+ 4. new ratio:
+     ( __2__ + **y** + __1__ ) / ( **4** + __y__ )
+ 5. set ratios equal:
+     __2__ / __4__ = ( __3__ + **y** ) / ( **4** + __y__ )
+ 6. cross-multiply and solve:
+     y = __1__ ← Answer
+_________________________________________________________________
+ex. 6: a room has m men and w women. women increase by a. how should men change?
+ 1. original ratio: __m__ / __w__
+ 2. let x = men added
+ 3. new ratio: ( __m__ + **x** ) / ( **w** + __a__ )
+ 4. set equal:
+     __m__ / __w__ = ( __m__ + **x** ) / ( **w** + __a__ )
+ 5. solve:
+     x = __ma__ / __w__ ← Answer
+_________________________________________________________________
+##Percent Change
+_________________________________________________________________
+ex. 7: snow increases from 5 inches to 8 inches. find percent change.
+ 1. percent change formula:
+     ( ___8___ − ___5___ ) / ___5___ × 100%
+ 2. substitute values:
+     ( ___8___ − ___5___ ) / ___5___ × 100%
+ 3. compute:
+     ___60___% ← Answer
+_________________________________________________________________
+ex. 8: snow melts from 5 inches to 3 inches. find percent change.
+ 1. substitute values:
+     ( ___3___ − ___5___ ) / ___5___ × 100%
+ 2. compute:
+     ___−40___%
+ 3. interpretation:
+     negative sign means a ___decrease___ ← Answer
+_________________________________________________________________
+ex. 9: quantity increases from a to 2a.
+ 1. formula:
+     ( ___2a___ − ___a___ ) / ___a___ × 100%
+ 2. simplify:
+     ___100___% ← Answer
+_________________________________________________________________
+ex. 10: quantity changes from a to ba.
+ 1. formula:
+     ( ___ba___ − ___a___ ) / ___a___ × 100%
+ 2. factor:
+     ( ___b___ − ___1___ ) × 100%
+ 3. result:
+     ___100(b − 1)___% ← Answer
+_________________________________________________________________
+ex. 11: original depth is 25 feet. percent change is 200%. find final depth.
+ 1. formula:
+     ( ___f___ − ___25___ ) / ___25___ × 100% = ___200___%
+ 2. convert percent to decimal: ___2___
+ 3. solve:
+     f = ___75___ feet ← Answer
+_________________________________________________________________
+ex. 12: 200% increase from 25 feet
+ 1. increase amount:
+     ___200___% of ___25___ = ___50___
+ 2. final value:
+     ___25___ + ___50___ = ___75___ feet ← Answer
+_________________________________________________________________
+ex. 13: 200% of 25 feet
+ 1. multiply:
+     ___2___ × ___25___ = ___50___ feet ← Answer
+_________________________________________________________________
+##Consecutive Integer Problems
+_________________________________________________________________
+ex. 1: two consecutive integers sum to 41.
+ 1. let first integer = ___x___
+ 2. next integer = ___x___ + ___1___
+ 3. equation:
+     ___x___ + ( ___x___ + ___1___ ) = ___41___
+ 4. solve:
+     integers = ___20___ and ___21___ ← Answer
+_________________________________________________________________
+ex. 2: two consecutive even integers sum to 98.
+ 1. pattern: ___x___, ___x___ + ___2___
+ 2. equation:
+     ___x___ + ( ___x___ + ___2___ ) = ___98___
+ 3. solve:
+     integers = ___48___ and ___50___ ← Answer
+_________________________________________________________________
+ex. 3: two consecutive odd integers sum to 240.
+ 1. pattern: ___x___, ___x___ + ___2___
+ 2. equation:
+     ___x___ + ( ___x___ + ___2___ ) = ___240___
+ 3. solve:
+     integers = ___119___ and ___121___ ← Answer
+_________________________________________________________________
+ex. 4: sum of two consecutive integers is 3 more than the first.
+ 1. pattern: ___x___, ___x___ + ___1___
+ 2. equation:
+     ___x___ + ( ___x___ + ___1___ ) = ___x___ + ___3___
+ 3. solve:
+     integers = ___2___ and ___3___ ← Answer
+_________________________________________________________________
+ex. 5: sum of three consecutive integers is twice the third.
+ 1. pattern: ___x___, ___x___ + ___1___, ___x___ + ___2___
+ 2. equation:
+     ___x___ + ( ___x___ + ___1___ ) + ( ___x___ + ___2___ ) = ___2___ ( ___x___ + ___2___ )
+ 3. solve:
+     integers = ___3___, ___4___, ___5___ ← Answer
+_________________________________________________________________
+ex. 6: sum of two consecutive integers is s.
+ 1. equation:
+     ___x___ + ( ___x___ + ___1___ ) = ___s___
+ 2. solve:
+     first = ___ (s − 1)/2 ___
+     second = ___ (s + 1)/2 ___
+     ⚠️ Note: s must be ___odd___.
+_________________________________________________________________
+ex. 7: sum of three consecutive odd integers is 243.
+ 1. pattern: ___x___, ___x___ + ___2___, ___x___ + ___4___
+ 2. equation:
+     ___x___ + ( ___x___ + ___2___ ) + ( ___x___ + ___4___ ) = ___243___
+ 3. solve:
+     integers = ___79___, ___81___, ___83___ ← Answer
+_________________________________________________________________
+##Rates & Linear Models
+_________________________________________________________________
+ex. 1: car travels 50 miles every hour.
+ 1. formula: speed = ___distance___ / ___time___
+ 2. substitute:
+     ___50___ / ___1___ ← Answer
+_________________________________________________________________
+ex. 2: bug travels 10 inches in 5 minutes.
+ 1. rate: ___10___ / ___5___
+ 2. reduce: ___2___ in/min ← Answer
+_________________________________________________________________
+ex. 3: 20 cans cost 20 cents each.
+ 1. rate: ___20___ / ___1___
+ 2. total cost: ___400___ cents ← Answer
+_________________________________________________________________
+ex. 6: general linear model
+ Final = ___initial___ + ( ___rate___ × ___time___ )
+_________________________________________________________________
+ex. 8: pool fills from 30,000 ft³ to 50,000 ft³ at 250 ft³/min.
+ 1. equation:
+     ___50000___ = ___30000___ + ___250___t
+ 2. solve:
+     t = ___80___ minutes ← Answer
+_________________________________________________________________
+##Averages
+_________________________________________________________________
+ex. 1: average of 2, 3, and 4
+ 1. formula: ( ___2___ + ___3___ + ___4___ ) / ___3___
+ 2. compute: ___3___ ← Answer
+_________________________________________________________________
+ex. 2: average of x, 2x, 3x
+ 1. sum: ___x___ + ___2x___ + ___3x___ = ___6x___
+ 2. average: ___6x___ / ___3___ = ___2x___ ← Answer
+_________________________________________________________________
+ex. 6: quiz average problem
+ 1. let x = ___score of missing quiz___
+ 2. equation:
+     ( ___85___ + ___90___ + ___75___ + ___x___ ) / ___4___ = ___88___
+ 3. solve:
+     x = ___102___ ← Answer
+_________________________________________________________________
+##Mixture Problems (Guided Structure)
+_________________________________________________________________
+ex. 1: 20 oz of 10% OJ mixed with x oz of 20% OJ → 15%
+ 1. OJ from first mixture: ___20 × 0.10 = 2___
+ 2. OJ from second mixture: ___x × 0.20 = 0.2x___
+ 3. total volume: ___20 + x___
+ 4. equation:
+     ___2___ + ___0.2x___ = ___0.15(20 + x)___
+ 5. solve:
+     x = ___10___ oz ← Answer
+_________________________________________________________________
+ex. 6: general mixture formula
+ Final concentration =
+  ( ___amount1 × concentration1___ + ___amount2 × concentration2___ ) / ( ___amount1 + amount2___ ) ← Answer
+_________________________________________________________________
+##Work Problems
+_________________________________________________________________
+ex. 1: Bob (3 hr), Jerry (2 hr)
+ 1. Bob’s rate: ___1/3___ job per hour
+ 2. Jerry’s rate: ___1/2___ job per hour
+ 3. equation:
+     ___(1/3)t___ + ___(1/2)t___ = ___1___
+ 4. solve:
+     t = ___6/5___ hours ← Answer
+_________________________________________________________________
+ex. 4: Bob takes x hours, Amin takes 2x hours, together 2 hours
+ 1. rates: ___1/x___ and ___1/(2x)___
+ 2. equation:
+     ___(1/x) × 2___ + ___(1/(2x)) × 2___ = ___1___
+ 3. solve:
+     Bob = ___4/3___ hr, Amin = ___8/3___ hr ← Answer
+_________________________________________________________________
+##Simple Interest
+_________________________________________________________________
+ex. 1: $1000 at 5% for 3 months
+ 1. formula: I = ___P × r × t___
+ 2. substitute: ___1000 × 0.05 × 0.25___
+ 3. interest earned: ___12.50___ ← Answer
+ 4. final amount: ___1012.50___ ← Answer
+_________________________________________________________________
+ex. 4: final amount is $1200 at 4% for 6 months
+ 1. equation:
+     ___1200___ = ___P___ + ___P × 0.04 × 0.5___
+ 2. solve:
+     initial investment = ___1176.47___ ← Answer
