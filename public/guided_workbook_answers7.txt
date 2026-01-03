@@ -29,35 +29,35 @@ Now, let's look at the actual exponent from our problem: 23.
  
 ________________________________________________________________
 # The Problem  
-A train leaves Rock City at an average speed of 50 miles per hour and heads for Gnome  
-City. Another train leaves Gnome City at an average speed of 40 miles per hour and  heads for Rock City. If the route is 360 miles long, how many hours will it take for the 2  trains to meet?  
+A train leaves Mumbai City at an average speed of 50 Kilometers per hour and heads for Ratnagiri  
+City. Another train leaves Ratnagiri City at an average speed of 40 Kilometers per hour and  heads for Mumbai City. If the route is 360 Kilometers long, how many hours will it take for the 2  trains to meet?  
 ## Step 1: Visualize the Problem 
-Imagine two cities, Rock City and Gnome City, connected by a single track. 
-*  Total Distance: __360__ miles 
-*  Train 1 (from Rock City): __50__ mph 
-*  Train 2 (from Gnome City): __40__ mph 
+Imagine two cities, Mumbai City and Ratnagiri City, connected by a single track. 
+*  Total Distance: __360__ Kilometers 
+*  Train 1 (from Mumbai City): __50__ kph 
+*  Train 2 (from Ratnagiri City): __40__ kph 
 Key Concept: When the trains meet, the distance Train 1 has traveled plus the distance Train 2 has traveled must equal the __360__. (Hint: Look at the total length of the route.) 
  
 ## Step 2: Guess and Check (Trial 1) 
 Let's test a small number of hours to see how far the trains get. Suppose they travel for 2 
 hours. 
-? Train 1 distance: 50 mph×2 hours= __100__ miles. 
-? Train 2 distance: 40 mph×2 hours= __80__ miles. 
-? Total distance covered: 100+80= __180__ miles. 
-Analysis: Is 180 miles the total distance between the cities? __No__ (Yes/No). Our guess was too low! 
+? Train 1 distance: 50 kph×2 hours= __100__ Kilometers. 
+? Train 2 distance: 40 kph×2 hours= __80__ Kilometers. 
+? Total distance covered: 100+80= __180__ Kilometers. 
+Analysis: Is 180 Kilometers the total distance between the cities? __No__ (Yes/No). Our guess was too low! 
 In fact, 180 is exactly __1/2__ of 360. (Hint: Think of a fraction like 1/2 or 1/4.) 
  
 ## Step 3: Guess and Check (Trial 2) 
 Since our first guess was too small, let's try a larger number. Let's try 4 hours. 
-*  Train 1 distance: 50 mph×4 hours= __200__ miles. 
-*  Train 2 distance: 40 mph×4 hours= __160__ miles. ? Combined distance: 200+160= __360__ miles. 
+*  Train 1 distance: 50 kph×4 hours= __200__ Kilometers. 
+*  Train 2 distance: 40 kph×4 hours= __160__ Kilometers. ? Combined distance: 200+160= __360__ Kilometers. 
  
 ## Step 4: Conclusion 
-Does the combined distance in Trial 2 match the total route length of 360 miles? 
+Does the combined distance in Trial 2 match the total route length of 360 Kilometers? 
 Final Answer: It will take __4__ hours for the two trains to meet. 
  
 Bonus: The "Combined Speed" Shortcut 
-Did you notice that every hour, the trains get __50__ + __40__=__90__ miles closer to each other? 
+Did you notice that every hour, the trains get __50__ + __40__=__90__ Kilometers closer to each other? 
 *  If you divide the total distance (360) by their combined speed (90), what do you get? __360__÷__90__= __4__. 
  
 ________________________________________________________________
@@ -105,47 +105,47 @@ F => __5__
  
 ________________________________________________________________
 # The Problem  
-Alicia was paid $125 for babysitting five days after school for the Smith family. Each day Mrs. Smith paid her $3 more than the day before. How much money did she earn on the first day?  
+Aliza was paid ₹125 for babysitting five days after school for the Ansari family. Each day Mrs. Ansari paid her ₹3 more than the day before. How much money did she earn on the first day?  
  
  
 ## Step 1: Understand the Goal 
-We need to find out Alicia's pay for the first day. Here is what we know: 
+We need to find out Aliza's pay for the first day. Here is what we know: 
 * She worked for 5 days. 
-* Each day, she earned $3 more than the day before. ? The total for all five days is $125. 
+* Each day, she earned ₹3 more than the day before. ? The total for all five days is ₹125. 
  
 ## Step 2: Make Your First Guess 
-Let's start by guessing that Alicia made $20 on the first day. To find the total, we add $3 to each consecutive day. 
-* Day 1: $__20__ 
-* Day 2: $__23__ 
-* Day 3: $__26__
-* Day 4: $__29__
-* Day 5: $__32__
-Total: $20 + $23 + $26 + $29 + $32= $__130__ (Hint: Is this sum 125, or is it higher?) 
+Let's start by guessing that Aliza made ₹20 on the first day. To find the total, we add ₹3 to each consecutive day. 
+* Day 1: ₹__20__ 
+* Day 2: ₹__23__ 
+* Day 3: ₹__26__
+* Day 4: ₹__29__
+* Day 5: ₹__32__
+Total: ₹20 + ₹23 + ₹26 + ₹29 + ₹32= ₹__130__ (Hint: Is this sum 125, or is it higher?) 
  
 3: Adjust Your Guess 
-Our first guess was $130, which is too high. 
-This means Alicia must have earned less than $20 on the first day. Let's try guessing $15. 
-* Day 1: $__15__ 
-* Day 2: $__18__ 
-* Day 3: $__21__ 
-* Day 4: $__24__ 
-* Day 5: $__27__ 
-Total: $15 + $18 + $21 + $24 + 27= $__105__ (Hint: Compare this to the target of $125.) 
+Our first guess was ₹130, which is too high. 
+This means Aliza must have earned less than ₹20 on the first day. Let's try guessing ₹15. 
+* Day 1: ₹__15__ 
+* Day 2: ₹__18__ 
+* Day 3: ₹__21__ 
+* Day 4: ₹__24__ 
+* Day 5: ₹__27__ 
+Total: ₹15 + ₹18 + ₹21 + ₹24 + 27= ₹__105__ (Hint: Compare this to the target of ₹125.) 
  
 ## Step 4: Narrow It Down 
-Our second guess was $105, which is too low. Now we know the answer is between $15 and $20. Since $130 was very close to $125, let's try a number just slightly smaller than our first guess. 
-Let's try $19: 
-* Day 1: $__19__ 
-* Day 2: $__19__ + $3 = $__22__ 
-* Day 3: $__22__ + $3 = $__25__ 
-* Day 4: $__25__ + $3 = $__28__ 
-* Day 5: $__28__ + $3 = $__31__ 
-Final Check: $19 + $22 + $25 + $28 + 31= $__125__ 
-Final Answer: Alicia earned $__19__ on the first day. 
+Our second guess was ₹105, which is too low. Now we know the answer is between ₹15 and ₹20. Since ₹130 was very close to ₹125, let's try a number just slightly smaller than our first guess. 
+Let's try ₹19: 
+* Day 1: ₹__19__ 
+* Day 2: ₹__19__ + ₹3 = ₹__22__ 
+* Day 3: ₹__22__ + ₹3 = ₹__25__ 
+* Day 4: ₹__25__ + ₹3 = ₹__28__ 
+* Day 5: ₹__28__ + ₹3 = ₹__31__ 
+Final Check: ₹19 + ₹22 + ₹25 + ₹28 + 31= ₹__125__ 
+Final Answer: Aliza earned ₹__19__ on the first day. 
 
 ________________________________________________________________ 
 # The Problem  
-Angelina and her friends formed a club named the Extremely Cool Club. They wanted to  assign a unique 4-digit secret code number to each member of the club. They decided to  use the digits 1, 3, 7, and 9 for their numbering system and each of these digits can  appear only once in every secret code number (i.e. 1379 is a valid number, but 1133 is  not a valid number). What is the maximum number of members who could join the club  if everyone is to be assigned a unique secret code number?  
+Rubina and her friends formed a club named the Extremely Cool Club. They wanted to  assign a unique 4-digit secret code number to each member of the club. They decided to  use the digits 1, 3, 7, and 9 for their numbering system and each of these digits can  appear only once in every secret code number (i.e. 1379 is a valid number, but 1133 is  not a valid number). What is the maximum number of members who could join the club  if everyone is to be assigned a unique secret code number?  
  
 ## Step 1: Understand the Constraints 
 A club is creating 4-digit secret codes using the digits: 1, 3, 7, and 9. Each digit must be used exactly once in every code. 
@@ -247,19 +247,19 @@ Final Answer: After hitting the floor for the third time, the vertical height of
 
 ________________________________________________________________
 # The Problem  
-Bakersfield Elementary School has a field day at the end of the school year in which  students compete in sporting events. A group of 5 friends wanted to determine who was  the "best" athlete of the day based on the results of 3 events - the 50-yard dash, the mile  run, and the rope climb. The chart below shows their results in the 3 events. Each of the  events is of equal importance. Tell who you think is the "best" athlete of the day based on the results shown in the chart. Explain why you chose that person.  
-Names   | 50-yard Dash  | Mile Run  	| Rope Climb 
-Brei  	| 8 seconds  	| 6.12 minutes  | 6 feet 
-Charlie | 10 seconds  	| 8 minutes  	| 7.5 feet 
+Samadiya High School has a field day at the end of the school year in which  students compete in sporting events. A group of 5 friends wanted to determine who was  the "best" athlete of the day based on the results of 3 events - the Sprint, the mile  run, and the rope climb. The chart below shows their results in the 3 events. Each of the  events is of equal importance. Tell who you think is the "best" athlete of the day based on the results shown in the chart. Explain why you chose that person.  
+Names   | Sprint        | Running    	| Rope Climb 
+Ahmed  	| 8 seconds  	| 6.12 minutes  | 6 feet 
+Yusuf   | 10 seconds  	| 8 minutes  	| 7.5 feet 
 Dani    | 7.5 seconds   | 12 minutes   	| 5.8 feet 
 Eddie  	| 9 seconds  	| 5.59 minutes  | 4.3 feet 
-Francine| 12.2 seconds  | 10 minutes  	| 8.2 feet 
+farhana	| 12.2 seconds  | 10 minutes  	| 8.2 feet 
   
 ## Step 1: Analyze the Data Types 
 Before we can find a winner, we have to understand what a "good" score looks like for each event. 
-* 50-yard Dash: To win a race, do you want a lower time or a higher time? 
+* Sprint: To win a race, do you want a lower time or a higher time? 
 Answer: ___less___ (Hint: Does the fastest person take more or less time?) 
-* Mile Run: To be the best, do you want the fewest minutes or the most minutes? 
+* Running: To be the best, do you want the fewest minutes or the most minutes? 
 Answer: ___fewest___ minutes
 * Rope Climb: To be the best, do you want to climb fewer feet or more feet? 
 Answer: ___more___ feet
@@ -270,24 +270,24 @@ Since we can't add "seconds" to "feet," we will give each athlete points based o
 * 1 point for the worst performance in an event. 
  
 ## Step 3: Fill in the Rankings 
-Let's look at the Mile Run. The times are: Brei (6.12), Charlie (8.0), Dani (12.0), Eddie (5.59), and Francine (10.0). 
+Let's look at the Running. The times are: Ahmed (6.12), Yusuf (8.0), Dani (12.0), Eddie (5.59), and farhana (10.0). 
 1. Who had the fastest time (the smallest number)? ___5.59___. They get 5 points. 
 2. Who had the slowest time (the largest number)? ___12.0___. They get 1 point. 
  
 ## Step 4: Calculate the Total Scores 
 Now, we add up the rank points for each person across all three events. 
-Names   | 50-yard Dash  | Mile Run  	| Rope Climb 	| Total Score
-Brei  	| __4__	  	| __4__		| __3__		| __11__
-Charlie | __2__	 	| __3__		| __4__		| __9__
-Dani    | __5__		| __1__	   	| __2__		| __8__
-Eddie  	| __3__	   	| __5__		| __1__		| __9__
-Francine| __1__		| __2__	  	| __5__		| __8__
+Names   | Sprint  	| Running  	| Rope Climb 	| Total Score
+Ahmed  	| __4__	  	| __4__		| __3__			| __11__
+Yusuf 	| __2__	 	| __3__		| __4__			| __9__
+Dani    | __5__		| __1__	   	| __2__			| __8__
+Eddie  	| __3__	   	| __5__		| __1__			| __9__
+farhana	| __1__		| __2__	  	| __5__			| __8__
  
-(Hint: To find Charlie's total, add 2+3+4. To find Eddie's, add 3+5+1.) 
+(Hint: To find Yusuf's total, add 2+3+4. To find Eddie's, add 3+5+1.) 
  
 ## Step 5: Conclusion 
 The "Best Athlete" is the person with the highest total points. 
-* Who has the highest total score? Answer: ___brei___ 
+* Who has the highest total score? Answer: ___Ahmed___ 
 * What was their total score? Answer: ___11___ 
 
 ________________________________________________________________
@@ -365,31 +365,31 @@ Final Answer: There are __204__ total squares on a standard checkerboard.
  
 ________________________________________________________________
 # The Problem  
-Terri, Dave, Emily, and Thad are running for Class President. When the election results  came in, Thad received more votes than Emily. Dave received more votes than Thad.  Terri received less votes than Emily. Who was elected Class President? 
+Tarique, Danish, Emily, and Thakur are running for Class President. When the election results  came in, Thakur received more votes than Emily. Danish received more votes than Thakur.  Tarique received less votes than Emily. Who was elected Class President? 
  
 ## Step 1: Understand the Goal 
-We need to find out which candidate (Terri, Dave, Emily, or Thad) received the highest number of votes. 
+We need to find out which candidate (Tarique, Danish, Emily, or Thakur) received the highest number of votes. 
  
 ## Step 2: Plot the Clues 
 Let's build our graph step-by-step based on the election results. 
-* Clue 1: "Thad received more votes than Emily." On your graph, Thad's bar should be higher than Emily's bar. 
-* Clue 2: "Dave received more votes than Thad." Since Thad is already higher than Emily, and Dave is higher than Thad, who is currently in the lead? Answer: ____ 
-* Clue 3: "Terri received less votes than Emily." If Terri has fewer votes than Emily, her bar will be the lowest one we have discussed so far. 
+* Clue 1: "Thakur received more votes than Emily." On your graph, Thakur's bar should be higher than Emily's bar. 
+* Clue 2: "Danish received more votes than Thakur." Since Thakur is already higher than Emily, and Danish is higher than Thakur, who is currently in the lead? Answer: ____ 
+* Clue 3: "Tarique received less votes than Emily." If Tarique has fewer votes than Emily, her bar will be the lowest one we have discussed so far. 
  
 ## Step 3: Organize the Ranking 
 Based on the clues above, let's arrange the students from most votes to least votes: 
-1. Highest: __dave__ (Hint: He had more than Thad) 
-2. Second: __thad__  (Hint: He had more than Emily) 
-3. Third: __emily__  (Hint: She had more than Terri) 
-4. Lowest: __terri__ 
+1. Highest: __Danish__ (Hint: He had more than Thakur) 
+2. Second: __Thakur__  (Hint: He had more than Emily) 
+3. Third: __emily__  (Hint: She had more than Tarique) 
+4. Lowest: __Tarique__ 
  
 ## Step 4: Conclusion 
 The person elected Class President is the one at the very top of our graph. 
-Final Answer: __dave__ was elected Class President. 
+Final Answer: __Danish__ was elected Class President. 
  
 ________________________________________________________________
 # The Problem  
-Courtney had 36 identical rectangular blocks. Her teacher instructed her to put the blocks  together to make larger rectangles so that short sides of the rectangles are only matched  up with short sides, and long sides of the rectangles are only matched up with long sides.  How many larger rectangles can Courtney make with the 36 blocks?  
+Halima had 36 identical rectangular blocks. Her teacher instructed her to put the blocks  together to make larger rectangles so that short sides of the rectangles are only matched  up with short sides, and long sides of the rectangles are only matched up with long sides.  How many larger rectangles can Halima make with the 36 blocks?  
  
 ## Step 1: Experiment with Smaller Numbers 
 Let's see how many ways we can arrange a small number of blocks. We can arrange them in rows and columns 
@@ -411,7 +411,7 @@ Key Discovery: The number of ways to arrange the blocks is equal to the number o
 Let's try the number 12. First, list all the factors of 12 
 (the numbers that divide evenly into 12): __1__, __2__, __3__, __4__, __6__, and __12__. 
 * How many factors did you list? __6__ 
-* Based on our pattern, how many different rectangles can Courtney make with 12 blocks? __6__ 
+* Based on our pattern, how many different rectangles can Halima make with 12 blocks? __6__ 
  
 ## Step 4: Solve the Original Problem 
 Now, let's solve for the full set of 36 blocks. To do this, we need to find every factor of 36. 
@@ -423,14 +423,14 @@ Now, let's solve for the full set of 36 blocks. To do this, we need to find ever
 * __6__×__6__ 
 * The complete list of factors is: __1__, __2__, __3__, __4__, __6__, __9__, __12__, __18__, __36__. 
 * Count the factors in that list. How many are there? ____ 
-Final Answer: Courtney can make __9__ different larger rectangles using her 36 blocks. 
+Final Answer: Halima can make __9__ different larger rectangles using her 36 blocks. 
 
 ________________________________________________________________
 # The Problem  
-Lisa, Rob, and Dave are playing a game with 3 dice. The object is to roll the 3 dice and  then use the 3 numerals rolled make as many unique 3-digit numbers as possible. Each  numeral can only be used once in the number (unless you roll more than one of a certain  number; i.e. if you roll 2 fives, your answer will contain 2 fives). A player scores 10  points for each different 3-digit number that he/she is able to form. In this game, the  players rolled the following:   
+Lisa, Rob, and Danish are playing a game with 3 dice. The object is to roll the 3 dice and  then use the 3 numerals rolled make as many unique 3-digit numbers as possible. Each  numeral can only be used once in the number (unless you roll more than one of a certain  number; i.e. if you roll 2 fives, your answer will contain 2 fives). A player scores 10  points for each different 3-digit number that he/she is able to form. In this game, the  players rolled the following:   
 Lisa rolled a 2, 4, and 6.   
 Rob  rolled a 3, 5, and 5.   
-Dave rolled a 1, 1, and 1.   
+Danish rolled a 1, 1, and 1.   
 Who earned the most points in the game? 
  
 ## Step 1: Understand the Rules 
@@ -452,18 +452,18 @@ Rob rolled a 3, 5, and 5. Because two of his numbers are the same, some combinat
 * Total unique numbers: 3 
 * Rob's Score: 3×10= __30__ points. 
  
-## Step 4: Dave's Turn (All Digits the Same) 
-Dave rolled a 1, 1, and 1. 
+## Step 4: Danish's Turn (All Digits the Same) 
+Danish rolled a 1, 1, and 1. 
 * No matter how you move the three "1s" around, the number is always: __111__. 
 * Total unique numbers: 1 
-* Dave's Score: 1×10= __10__ points. 
+* Danish's Score: 1×10= __10__ points. 
  
 ## Step 5: Final Comparison 
 Fill in the final scores to determine the winner: 
 Player 	Total Points 
 Lisa   => __60__
 Rob    => __30__
-Dave   => __10__
+Danish   => __10__
  
 Final Answer: __lisa__ earned the most points in the game. 
  
@@ -510,29 +510,29 @@ Final Answer: It took a total of __5__ trips to get everyone to the other side.
  
 ________________________________________________________________ 
 # The Problem  
-At the first meeting of the House of Eccentricities in the government of the Gnomes, each  member shook hands with each other member. There are 25 members of the House. How many handshakes took place?  
+At the first meeting of the House of Muncipal Assembly in the government of the Councillors, each  member shook hands with each other member. There are 25 members of the House. How many handshakes took place?  
  
 ## Step 1: Start Small 
-Imagine there are only 2 gnomes (Gnome A and Gnome B). 
-* Gnome A shakes hands with Gnome B. 
+Imagine there are only 2 Councillors (Councillor A and Councillor B). 
+* Councillor A shakes hands with Councillor B. 
 * Total handshakes: __2__ 
  
 ## Step 2: Add a Third Person 
-Now imagine there are 3 gnomes (A, B, and C). 
-* Gnome A shakes with B and C (2 handshakes). 
-* Gnome B has already shaken with A, so B only needs to shake with C (1 more handshake). 
-* Gnome C has already shaken with everyone! 
+Now imagine there are 3 Councillors (A, B, and C). 
+* Councillor A shakes with B and C (2 handshakes). 
+* Councillor B has already shaken with A, so B only needs to shake with C (1 more handshake). 
+* Councillor C has already shaken with everyone! 
 * Total handshakes: 2+1= __3__ 
  
 ## Step 3: Identify the Growing Pattern 
 Let's see what happens as the group gets larger: 
-* 2 gnomes: 1 handshake 
-* 3 gnomes: 1+2=3 handshakes 
-* 4 gnomes: 1+2+3=6 handshakes 
-* 5 gnomes: 1+2+3+4= __10__ 
+* 2 Councillors: 1 handshake 
+* 3 Councillors: 1+2=3 handshakes 
+* 4 Councillors: 1+2+3=6 handshakes 
+* 5 Councillors: 1+2+3+4= __10__ 
 The Rule: To find the total handshakes, you add up all the whole numbers starting from 1 up to the number that is one less than the total number of people. 
  
-## Step 4: Solve for 25 Gnomes 
+## Step 4: Solve for 25 Councillors 
 Since there are 25 members, we need to add all the numbers from 1 up to 24. 1+2+3+...+22+23+24= ? 
 A Helpful Shortcut (Gauss's Method): Pair the numbers from the outside in: 
 * __24__+__1__=25 
@@ -541,21 +541,21 @@ A Helpful Shortcut (Gauss's Method): Pair the numbers from the outside in:
 
 There are 12 of these pairs that all equal 25. 
 * Calculation: 12×25= __300__ 
-Final Answer: There were __300__ handshakes in the House of Eccentricities. 
+Final Answer: There were __300__ handshakes in the House of Muncipal Assembly. 
  
 ________________________________________________________________
 # The Problem  
-Jeremy likes Hondas. He owns some cars and some motorcycles. There are 9 Hondas all  together. They have a total of 26 tires. How many of the Hondas are motorcycles?  
+Junaid likes Hondas. He owns some cars and some motorcycles. There are 9 Hondas all  together. They have a total of 26 tires. How many of the Hondas are motorcycles?  
  
 ## Step 1: Establish the Facts 
-First, let's list what we know about Jeremy's collection: 
+First, let's list what we know about Junaid's collection: 
 * Total number of vehicles: 9 
 * Car tires: 4 per car 
 * Motorcycle tires: 2 per motorcycle 
 * Goal: The total number of tires must equal 26. 
  
 ## Step 2: Make Your First Guess 
-Let's start by guessing that Jeremy has mostly motorcycles. Suppose there are 2 cars and 7 motorcycles. (Notice that 2+7=9 total vehicles). 
+Let's start by guessing that Junaid has mostly motorcycles. Suppose there are 2 cars and 7 motorcycles. (Notice that 2+7=9 total vehicles). 
 * Car tires: 2×4= __8__ 
 * Motorcycle tires: 7×2= __14__ 
 * Total tires: __8__+__14__=__22__ 
@@ -580,7 +580,7 @@ Let's try 4 cars and 5 motorcycles.
  
 ## Step 5: Conclusion 
 Does the combined total in Step 4 match our target of 26 tires? 
-Final Answer: Jeremy owns __5__ motorcycles. 
+Final Answer: Junaid owns __5__ motorcycles. 
  
 ________________________________________________________________
 # The Problem  
@@ -690,7 +690,7 @@ Final Answer: There are __12__ different combinations of shirts and ties.
 
 ________________________________________________________________
 # The Problem  
-There was a war on the planet Grumble. It lasted 1,000 days. If the planet Grumble uses the same calendar that we use on Earth, and the 1,000-day war started on a Monday, what day of the week did the 1,000-day war end?  
+There was a war on the planet Venus. It lasted 1,000 days. If the planet Venus uses the same calendar that we use on Earth, and the 1,000-day war started on a Monday, what day of the week did the 1,000-day war end?  
  
 ## Step 1: Understand the Weekly Cycle 
 Imagine the war starts on a Monday (Day 1). Since there are 7 days in a week, the pattern will repeat every 7 days. 
