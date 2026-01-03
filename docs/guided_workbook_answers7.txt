@@ -1,0 +1,955 @@
+# The Problem  
+(1,234)² means 1,234 * 1,234; (1,234)³ means 1,234 * 1,234 * 1,234; and so forth. When  (1,234)²³ is completely multiplied out, what will the number be in the ones place?   
+ 
+## Step 1: Simplify the Problem 
+The problem asks for the ones place of (1,234)²³. Multiplying this out fully would take years! Since we only care about the ones place, we only need to look at the last digit of the base. 
+What is the digit in the ones place of 1,234? Answer: __4__ (Hint: Look at the very last digit on the right.) 
+ 
+## Step 2: Look for a Pattern 
+Let's multiply the ones digit by itself repeatedly and see what happens to the ones place of each result. 
+
+Exponent (Power) | Previous Ones Digit | Number Model 	|    Ones Digit 
+1 			- 			4 		  4 
+2 			4 			4×4=16 		__6__ 
+3 			6 			4×6=24 		__4__
+4 			4 			4×4=16 		__6__ 
+5 			6 			4×6=24 		__4__
+6 			4 			4×4=16 		__6__
+
+ 
+## Step 3: Analyze the Pattern 
+Look closely at the New Ones Digit column above. You should see the numbers alternating between 4 and 6. 
+*  When the exponent is even (2,4,6...), the ones digit is __6__. (Hint: Look at the table for power 2.) 
+*  When the exponent is odd (1,3,5...), the ones digit is  __4__. (Hint: Look at the table for power 3.) 
+ 
+## Step 4: Solve the Original Problem 
+Now, let's look at the actual exponent from our problem: 23. 
+1. Is the number 23 even or odd? Answer: __odd__ (Hint: Does it end in 0, 2, 4, 6, or 8?) 
+2. Based on your pattern analysis in Step 3, if the exponent is odd, the ones place must be: Final Answer: __4__
+ 
+________________________________________________________________
+# The Problem  
+A train leaves Mumbai City at an average speed of 50 Kilometers per hour and heads for Ratnagiri  
+City. Another train leaves Ratnagiri City at an average speed of 40 Kilometers per hour and  heads for Mumbai City. If the route is 360 Kilometers long, how many hours will it take for the 2  trains to meet?  
+## Step 1: Visualize the Problem 
+Imagine two cities, Mumbai City and Ratnagiri City, connected by a single track. 
+*  Total Distance: __360__ Kilometers 
+*  Train 1 (from Mumbai City): __50__ kph 
+*  Train 2 (from Ratnagiri City): __40__ kph 
+Key Concept: When the trains meet, the distance Train 1 has traveled plus the distance Train 2 has traveled must equal the __360__. (Hint: Look at the total length of the route.) 
+ 
+## Step 2: Guess and Check (Trial 1) 
+Let's test a small number of hours to see how far the trains get. Suppose they travel for 2 
+hours. 
+? Train 1 distance: 50 kph×2 hours= __100__ Kilometers. 
+? Train 2 distance: 40 kph×2 hours= __80__ Kilometers. 
+? Total distance covered: 100+80= __180__ Kilometers. 
+Analysis: Is 180 Kilometers the total distance between the cities? __No__ (Yes/No). Our guess was too low! 
+In fact, 180 is exactly __1/2__ of 360. (Hint: Think of a fraction like 1/2 or 1/4.) 
+ 
+## Step 3: Guess and Check (Trial 2) 
+Since our first guess was too small, let's try a larger number. Let's try 4 hours. 
+*  Train 1 distance: 50 kph×4 hours= __200__ Kilometers. 
+*  Train 2 distance: 40 kph×4 hours= __160__ Kilometers. ? Combined distance: 200+160= __360__ Kilometers. 
+ 
+## Step 4: Conclusion 
+Does the combined distance in Trial 2 match the total route length of 360 Kilometers? 
+Final Answer: It will take __4__ hours for the two trains to meet. 
+ 
+Bonus: The "Combined Speed" Shortcut 
+Did you notice that every hour, the trains get __50__ + __40__=__90__ Kilometers closer to each other? 
+*  If you divide the total distance (360) by their combined speed (90), what do you get? __360__÷__90__= __4__. 
+ 
+________________________________________________________________
+# The Problem  
+Solve for the variables A through F in the equations below, using the digits from 0  through 5. Every digit should be used only once. A variable has the same value  everywhere it occurs, and no other variable will have that value.   
+A + A + A = A²   
+B + C = B   
+D * E = D   
+A - E = B   
+B² = D   
+D + E = F  
+ 
+1: Find the "Identity" Patterns 
+Some math rules always work the same way. Let's look for equations that reveal a value immediately. 
+* Equation: B+C=B In math, what number can you add to B without changing its value? 
+  Answer: C= __0__ (Hint: Think of the "Additive Identity".) 
+* Equation: D×E=D In math, what number can you multiply D by so that D stays the same? 
+  Answer: E= __1__ (Hint: Think of the "Multiplicative Identity".) 
+ 
+## Step 2: Use Guess and Check 
+Now let's look at the first equation: A+A+A=A². This can also be written as 3×A=A². 
+* Try 2: 2+2+2=6. Does 2³=6? __No__ (Yes/No) 
+* Try 3: 3+3+3=9. Does 3³=9? __Yes__ (Yes/No) Answer: A= __3__ 
+ 
+## Step 3: Solve the Chain Reaction 
+Now that we have A, C, and E, we can plug them into the remaining equations like dominoes. 
+*  Equation: A-E=B Substitute your values: 3-1= __2__ Answer: B= __2__ ? 
+*  Equation: B²=D Substitute your value for B: (2)²= __2__ Answer: D= __4__ 
+ 
+## Step 4: Find the Final Variable 
+We have one letter left: F. We can solve it using the last equation or by looking at the only digit left unused. 
+* Digits used so far: 0, 1, 2, 3, 4. 
+* Equation: D+E=F Substitute your values: 4+1= __5__ Final Answer: F= __5__ 
+ 
+## Summary Table 
+Fill in your final results to check that you used every digit (0-5) exactly once: 
+Variable 
+Value 
+A => __3__
+B => __2__
+C => __0__
+D => __4__
+E => __1__
+F => __5__
+ 
+________________________________________________________________
+# The Problem  
+Aliza was paid ₹125 for babysitting five days after school for the Ansari family. Each day Mrs. Ansari paid her ₹3 more than the day before. How much money did she earn on the first day?  
+ 
+ 
+## Step 1: Understand the Goal 
+We need to find out Aliza's pay for the first day. Here is what we know: 
+* She worked for 5 days. 
+* Each day, she earned ₹3 more than the day before. ? The total for all five days is ₹125. 
+ 
+## Step 2: Make Your First Guess 
+Let's start by guessing that Aliza made ₹20 on the first day. To find the total, we add ₹3 to each consecutive day. 
+* Day 1: ₹__20__ 
+* Day 2: ₹__23__ 
+* Day 3: ₹__26__
+* Day 4: ₹__29__
+* Day 5: ₹__32__
+Total: ₹20 + ₹23 + ₹26 + ₹29 + ₹32= ₹__130__ (Hint: Is this sum 125, or is it higher?) 
+ 
+3: Adjust Your Guess 
+Our first guess was ₹130, which is too high. 
+This means Aliza must have earned less than ₹20 on the first day. Let's try guessing ₹15. 
+* Day 1: ₹__15__ 
+* Day 2: ₹__18__ 
+* Day 3: ₹__21__ 
+* Day 4: ₹__24__ 
+* Day 5: ₹__27__ 
+Total: ₹15 + ₹18 + ₹21 + ₹24 + 27= ₹__105__ (Hint: Compare this to the target of ₹125.) 
+ 
+## Step 4: Narrow It Down 
+Our second guess was ₹105, which is too low. Now we know the answer is between ₹15 and ₹20. Since ₹130 was very close to ₹125, let's try a number just slightly smaller than our first guess. 
+Let's try ₹19: 
+* Day 1: ₹__19__ 
+* Day 2: ₹__19__ + ₹3 = ₹__22__ 
+* Day 3: ₹__22__ + ₹3 = ₹__25__ 
+* Day 4: ₹__25__ + ₹3 = ₹__28__ 
+* Day 5: ₹__28__ + ₹3 = ₹__31__ 
+Final Check: ₹19 + ₹22 + ₹25 + ₹28 + 31= ₹__125__ 
+Final Answer: Aliza earned ₹__19__ on the first day. 
+
+________________________________________________________________ 
+# The Problem  
+Rubina and her friends formed a club named the Extremely Cool Club. They wanted to  assign a unique 4-digit secret code number to each member of the club. They decided to  use the digits 1, 3, 7, and 9 for their numbering system and each of these digits can  appear only once in every secret code number (i.e. 1379 is a valid number, but 1133 is  not a valid number). What is the maximum number of members who could join the club  if everyone is to be assigned a unique secret code number?  
+ 
+## Step 1: Understand the Constraints 
+A club is creating 4-digit secret codes using the digits: 1, 3, 7, and 9. Each digit must be used exactly once in every code. 
+ 
+## Step 2: Organize by the Thousands Place 
+To make sure we don't get confused, let's group our codes by the number they start with. 
+Codes starting with 1: 
+* __1379__, __1397__ 
+* __1739__, __1793__ 
+* __1937__, __1973__ 
+* Total: 6 combinations 
+
+Codes starting with 3: 
+* __3179__, __3197__ 
+* __3719__, __3791__ 
+* __3917__, __3971__ (Hint: Look at the pattern above. What is the last code starting with 39?) 
+ 
+## Step 3: Complete the Pattern 
+If there are 6 combinations starting with 1, and 6 combinations starting with 3, let's finish the list for 7 and 9. 
+Codes starting with 7: 
+* __7139__, __7193__ 
+* __7319__, __7391__ 
+* __7913__, __7931__ (Hint: Swap the last two digits of the previous number.) 
+
+Codes starting with 9: 
+* __9137__, __9173__ 
+* __9317__, __9371__ 
+* __9713__, __9731__ 
+ 
+## Step 4: Calculate the Total 
+Now, let's add up our groups: 
+* Codes starting with 1: __6__ 
+* Codes starting with 3: __6__ 
+* Codes starting with 7: __6__ 
+* Codes starting with 9: __6__ 
+Total: 6+6+6+6= __24__ 
+Final Answer: There are __24__ different unique combinations available for the club. 
+ 
+## Bonus: The Factorial Shortcut 
+When you have a set of unique items and want to know how many ways they can be arranged, you can use Factorials (!). 
+Since there are 4 unique digits, the math is: 4×3×2×1= __24__ 
+* 4 choices for the 1st digit. 
+* 3 choices left for the 2nd digit. 
+* 2 choices left for the 3rd digit. 
+* 1 choice left for the 4th digit. 
+What is the result of 4×3×2×1? __24__ 
+ 
+________________________________________________________________
+# The Problem  
+You have a list of 7 numbers. The average of the numbers is 9. 
+If you take away one of  the numbers, the average of the numbers is 8. What number did you take away?  
+ 
+## Step 1: Understand the Average Relationship 
+To find an average, you follow this formula: 
+How many numbers => Sum of all numbers/Total numbers = Average 
+If you know the Average and the How many, you can work backward to find the Sum by multiplying them. 
+ 
+## Step 2: Find the First Sum 
+Initially, we have a list of 7 numbers with an average of 9. 
+* Equation: Sum÷7= 9 
+* Calculation: 7×9= __63__ 
+* Total Sum 1: This is the total value of all 7 numbers combined. 
+ 
+## Step 3: Find the Second Sum 
+After one number is taken away, we are left with 6 numbers, and the new average is 8. 
+* Equation: Sum÷6=8 
+* Calculation: 6×8= __56__ 
+* Total Sum 2: This is the total value of the remaining 6 numbers. 
+ 
+## Step 4: Find the Difference 
+The number that was removed is the reason the total sum changed. To find it, we simply subtract the new sum from the original sum. 
+* Original Sum (from Step 2): __63__ 
+* New Sum (from Step 3): __48__ 
+* The Difference: 63-48= __15__ 
+Final Answer: The number that was taken away was __15__. 
+
+________________________________________________________________
+# The Problem  
+A basketball bounces back up about 1/2 the height from which it is dropped. If a basketball is dropped from 120 feet and keeps bouncing, what is its vertical height after it hits the floor for the 3rd time?  
+ 
+## Step 1: Understand the Rule 
+Every time the basketball hits the floor, it bounces back up to exactly half (1/2) of its previous height. 
+* Starting Height: __120__ feet 
+* The Rule: Divide the previous height by __2__ after every bounce. 
+ 
+## Step 2: Track the Bounces 
+Let's follow the ball's journey through each contact with the floor. 
+* Drop 1: The ball starts at 120 feet. It hits the floor for the 1st time. 
+* It bounces back up to: 120÷2= __60__ feet. 
+* Drop 2: The ball falls from 60 feet and hits the floor for the 2nd time. 
+* It bounces back up to: 60÷2= __30__ feet. 
+* Drop 3: The ball falls from 30 feet and hits the floor for the 3rd time. 
+* It bounces back up to: 30÷2= __15__ feet. 
+ 
+## Step 3: Conclusion 
+By drawing the path of the ball, we can see the height decreasing in a specific pattern: 
+120 => 60 => 30 => 15.
+Final Answer: After hitting the floor for the third time, the vertical height of the ball is __15__ feet. 
+
+________________________________________________________________
+# The Problem  
+Samadiya High School has a field day at the end of the school year in which  students compete in sporting events. A group of 5 friends wanted to determine who was  the "best" athlete of the day based on the results of 3 events - the Sprint, the mile  run, and the rope climb. The chart below shows their results in the 3 events. Each of the  events is of equal importance. Tell who you think is the "best" athlete of the day based on the results shown in the chart. Explain why you chose that person.  
+Names   | Sprint        | Running    	| Rope Climb 
+Ahmed  	| 8 seconds  	| 6.12 minutes  | 6 feet 
+Yusuf   | 10 seconds  	| 8 minutes  	| 7.5 feet 
+Dani    | 7.5 seconds   | 12 minutes   	| 5.8 feet 
+Eddie  	| 9 seconds  	| 5.59 minutes  | 4.3 feet 
+farhana	| 12.2 seconds  | 10 minutes  	| 8.2 feet 
+  
+## Step 1: Analyze the Data Types 
+Before we can find a winner, we have to understand what a "good" score looks like for each event. 
+* Sprint: To win a race, do you want a lower time or a higher time? 
+Answer: ___less___ (Hint: Does the fastest person take more or less time?) 
+* Running: To be the best, do you want the fewest minutes or the most minutes? 
+Answer: ___fewest___ minutes
+* Rope Climb: To be the best, do you want to climb fewer feet or more feet? 
+Answer: ___more___ feet
+ 
+## Step 2: Create a Scoring System 
+Since we can't add "seconds" to "feet," we will give each athlete points based on their rank: 
+* 5 points for the best performance in an event. 
+* 1 point for the worst performance in an event. 
+ 
+## Step 3: Fill in the Rankings 
+Let's look at the Running. The times are: Ahmed (6.12), Yusuf (8.0), Dani (12.0), Eddie (5.59), and farhana (10.0). 
+1. Who had the fastest time (the smallest number)? ___5.59___. They get 5 points. 
+2. Who had the slowest time (the largest number)? ___12.0___. They get 1 point. 
+ 
+## Step 4: Calculate the Total Scores 
+Now, we add up the rank points for each person across all three events. 
+Names   | Sprint  	| Running  	| Rope Climb 	| Total Score
+Ahmed  	| __4__	  	| __4__		| __3__			| __11__
+Yusuf 	| __2__	 	| __3__		| __4__			| __9__
+Dani    | __5__		| __1__	   	| __2__			| __8__
+Eddie  	| __3__	   	| __5__		| __1__			| __9__
+farhana	| __1__		| __2__	  	| __5__			| __8__
+ 
+(Hint: To find Yusuf's total, add 2+3+4. To find Eddie's, add 3+5+1.) 
+ 
+## Step 5: Conclusion 
+The "Best Athlete" is the person with the highest total points. 
+* Who has the highest total score? Answer: ___Ahmed___ 
+* What was their total score? Answer: ___11___ 
+
+________________________________________________________________
+# The Problem  
+There are a total of 12 bicycles and tricycles at the park. Together they have a total of 29  wheels. How many are bicycles and how many are tricycles?  
+ 
+## Step 1: Establish the Facts 
+Before we guess, let's write down what we know about the vehicles: 
+* Total number of vehicles: __12__ 
+* Bicycle wheels: __2__ per bike 
+* Tricycle wheels: __3__ per trike 
+* Goal: The total number of wheels must equal __29__. 
+ 
+## Step 2: Make Your First Guess 
+Let's start with an even split. Suppose there are 6 bicycles and 6 tricycles. 
+* Tricycle wheels: 6×3= __18__ 
+* Bicycle wheels: 6×2= __12__ 
+* Total wheels: 18+12= __30__ 
+Analysis: Is 30 the correct total? __No__ (Yes/No). Our guess is too high by exactly 1 wheel. 
+ 
+## Step 3: Adjust the Guess 
+Since we have too many wheels, we need to replace a vehicle that has more wheels with one that has fewer wheels. 
+* Which vehicle has fewer wheels? ___bicycle___ (Bicycle/Tricycle) 
+* To lower the total wheel count, should we have more bicycles or more tricycles? ___bicycle___ 
+
+Let's try 7 bicycles and 5 tricycles: (Notice that 7+5 still equals our total of 12 vehicles!) 
+* Bicycle wheels: 7×2= __14__ 
+* Tricycle wheels: 5×3= __15__ 
+ 
+## Step 4: Final Check 
+Add the wheels from Step 3 together: __14__+__15__= __29__ 
+Final Answer: There are __7__ bicycles and __5__ tricycles. 
+ 
+________________________________________________________________
+# The Problem  
+How many squares are there on a standard 8 x 8 checkerboard?  
+ 
+## Step 1: Start with a Simple Grid 
+To find a pattern, we start with very small boards. 
+* A 1×1 board: How many squares total? Answer: __1__ 
+* A 2×2 board: How many 1×1 squares? __4__ 
+               How many 2×2 squares? __1__
+Total: __4__+__1__= __5__ 
+ 
+## Step 2: Look for a Pattern 
+Let's look at a 3×3 board. We count the squares by their size. 
+* Size 1×1: There are 3×3= __9__ squares. 
+* Size 2×2: There are __4__ squares (they overlap!). 
+* Size 3×3: There is __1__ square (the whole board). 
+* Total: __9__+__4__+__1__= __14__ 
+ 
+## Step 3: Analyze the Numbers 
+Look at the totals we found for each board size: 
+* 1×1 board: __1__ 
+* 2×2 board: __4__+__1__ (which is 2²+1²) 
+* 3×3 board: __9__+__4__+__1__ (which is 3²+2²+1²) 
+
+Do you see the pattern? Each total is the sum of square numbers! 
+* What would be the total for a 4×4 board? Calculation: __4__²+__3__²+__2__²+__1__²=__16__+__9__+__4__+__1__ Total: ____ 
+ 
+## Step 4: Solve the 8×8 Problem 
+Now, apply this pattern to a full standard checkerboard (8×8). 
+You need to add up the squares of all numbers from 1 to 8. 
+* __1__²= __1__ 
+* __2__²= __4__ 
+* __3__²= __9__ 
+* __4__²= __16__ 
+* __5__²= __25__ 
+* __6__²= __36__ 
+* __7__²= __49__ 
+* __8__²= __64__ 
+
+Sum of all squares: __1__+__4__+__9__+__16__+__25__+__36__+__49__+__64__= __204__ 
+Final Answer: There are __204__ total squares on a standard checkerboard. 
+ 
+________________________________________________________________
+# The Problem  
+Tarique, Danish, Emily, and Thakur are running for Class President. When the election results  came in, Thakur received more votes than Emily. Danish received more votes than Thakur.  Tarique received less votes than Emily. Who was elected Class President? 
+ 
+## Step 1: Understand the Goal 
+We need to find out which candidate (Tarique, Danish, Emily, or Thakur) received the highest number of votes. 
+ 
+## Step 2: Plot the Clues 
+Let's build our graph step-by-step based on the election results. 
+* Clue 1: "Thakur received more votes than Emily." On your graph, Thakur's bar should be higher than Emily's bar. 
+* Clue 2: "Danish received more votes than Thakur." Since Thakur is already higher than Emily, and Danish is higher than Thakur, who is currently in the lead? Answer: ____ 
+* Clue 3: "Tarique received less votes than Emily." If Tarique has fewer votes than Emily, her bar will be the lowest one we have discussed so far. 
+ 
+## Step 3: Organize the Ranking 
+Based on the clues above, let's arrange the students from most votes to least votes: 
+1. Highest: __Danish__ (Hint: He had more than Thakur) 
+2. Second: __Thakur__  (Hint: He had more than Emily) 
+3. Third: __emily__  (Hint: She had more than Tarique) 
+4. Lowest: __Tarique__ 
+ 
+## Step 4: Conclusion 
+The person elected Class President is the one at the very top of our graph. 
+Final Answer: __Danish__ was elected Class President. 
+ 
+________________________________________________________________
+# The Problem  
+Halima had 36 identical rectangular blocks. Her teacher instructed her to put the blocks  together to make larger rectangles so that short sides of the rectangles are only matched  up with short sides, and long sides of the rectangles are only matched up with long sides.  How many larger rectangles can Halima make with the 36 blocks?  
+ 
+## Step 1: Experiment with Smaller Numbers 
+Let's see how many ways we can arrange a small number of blocks. We can arrange them in rows and columns 
+(for example, a 2×3 rectangle uses 6 blocks). 
+* If you have 2 blocks: You can make a __1__×__2__ or a __2__×__1__ rectangle. How many ways total? __2__ 
+* If you have 4 blocks: You can make a __1__×__4__, a __4__×__1__, or a __2__×__2___ square. How many ways total? __3__
+* If you have 6 blocks: You can make a __1__×__6__, __6__×__1__, __2__×__3__, or __3__×__2__. How many ways total? __4__ 
+(Hint: Count the arrangements listed.) 
+ 
+## Step 2: Identify the Pattern 
+Look at the relationship between the number of blocks and the number of ways to arrange them: 
+* 2 blocks: Factors are __1__ and __2__. (2 factors = 2 ways) 
+* 4 blocks: Factors are __1__, __2__, and __4__. (3 factors = 3 ways) 
+* 6 blocks: Factors are __1__, __2__, __3__, and __6__. (4 factors = 4 ways) 
+Key Discovery: The number of ways to arrange the blocks is equal to the number of __factors__ for that number. 
+(Hint: Think of the numbers you can multiply together to get that total.) 
+ 
+## Step 3: Test the Theory 
+Let's try the number 12. First, list all the factors of 12 
+(the numbers that divide evenly into 12): __1__, __2__, __3__, __4__, __6__, and __12__. 
+* How many factors did you list? __6__ 
+* Based on our pattern, how many different rectangles can Halima make with 12 blocks? __6__ 
+ 
+## Step 4: Solve the Original Problem 
+Now, let's solve for the full set of 36 blocks. To do this, we need to find every factor of 36. 
+* Factor Pairs for 36: 
+* __1__×__36__ 
+* __2__×__18__ 
+* __3__× __12__ 
+* __4__×__9__
+* __6__×__6__ 
+* The complete list of factors is: __1__, __2__, __3__, __4__, __6__, __9__, __12__, __18__, __36__. 
+* Count the factors in that list. How many are there? ____ 
+Final Answer: Halima can make __9__ different larger rectangles using her 36 blocks. 
+
+________________________________________________________________
+# The Problem  
+Lisa, Rob, and Danish are playing a game with 3 dice. The object is to roll the 3 dice and  then use the 3 numerals rolled make as many unique 3-digit numbers as possible. Each  numeral can only be used once in the number (unless you roll more than one of a certain  number; i.e. if you roll 2 fives, your answer will contain 2 fives). A player scores 10  points for each different 3-digit number that he/she is able to form. In this game, the  players rolled the following:   
+Lisa rolled a 2, 4, and 6.   
+Rob  rolled a 3, 5, and 5.   
+Danish rolled a 1, 1, and 1.   
+Who earned the most points in the game? 
+ 
+## Step 1: Understand the Rules 
+* Use the 3 digits rolled to make unique 3-digit numbers. 
+* Each different number is worth 10 points. 
+* The goal is to see who earned the most points. 
+ 
+## Step 2: Lisa's Turn (All Digits Different) 
+Lisa rolled a 2, 4, and 6. Since all her numbers are different, she has the most options. 
+* Numbers starting with 2: __246__, __264__ 
+* Numbers starting with 4: __426__, __462__ 
+* Numbers starting with 6: __624__, __642__ (Hint: Swap the 2 and 4.) 
+* Total unique numbers: 6 
+* Lisa's Score: 6×10= __60__ points. 
+
+## Step 3: Rob's Turn (Two Digits the Same) 
+Rob rolled a 3, 5, and 5. Because two of his numbers are the same, some combinations will look identical, so we don't count them twice! 
+* __355__, __535__ => __553__ (Hint: Put the 3 at the very end.) 
+* Total unique numbers: 3 
+* Rob's Score: 3×10= __30__ points. 
+ 
+## Step 4: Danish's Turn (All Digits the Same) 
+Danish rolled a 1, 1, and 1. 
+* No matter how you move the three "1s" around, the number is always: __111__. 
+* Total unique numbers: 1 
+* Danish's Score: 1×10= __10__ points. 
+ 
+## Step 5: Final Comparison 
+Fill in the final scores to determine the winner: 
+Player 	Total Points 
+Lisa   => __60__
+Rob    => __30__
+Danish   => __10__
+ 
+Final Answer: __lisa__ earned the most points in the game. 
+ 
+________________________________________________________________
+## Step 1: Understand the Constraints 
+Before we start moving people, let's look at the weights: 
+* The Boat's Capacity: 200 lbs 
+* The Father: 200 lbs 
+* Boy 1: 100 lbs 
+* Boy 2: 100 lbs 
+
+Crucial Logic: Can the father and one boy ride in the boat at the same time? __no__ 
+(Hint: Does 200+100 fit in a 200 lb boat?) 
+Can both boys ride in the boat at the same time? __yes__ 
+(Hint: Does 100+100 fit?) 
+ 
+## Step 2: The First Crossing 
+If the father goes across first, he is stuck on the other side with the boat. 
+To get the boat back, someone has to be there to row it! Therefore, the boys must go first. 
+* Trip 1: Boy 1 and Boy 2 cross the lake. 
+* Who is on the far side now? __boys__ 
+* Who is on the starting side? __father__ 
+ 
+## Step 3: Getting the Boat Back 
+Now the boat is on the far side, but the father is still at the start. 
+* Trip 2: One boy must row the boat back to the father. 
+* Trip 3: The boy stays at the start, and the Father rows across alone. 
+Where are we now? The __Father__ is on the far side, and one boys are at the start. Another at the far side.
+Boat is with the father! 
+ 
+## Step 4: Rescuing the Boys 
+The father is across, but he needs to send the boat back for his sons. 
+* Trip 4: The boy who was already on the far side (from Step 2) rows the boat back to the start. 
+* Trip 5: Now both boys are at the start with the boat. They row across together one last time. 
+ 
+## Step 5: Final Count 
+Let's review the trips: 
+1. Boys go across. 
+2. One boy returns. 
+3. Father goes across. 
+4. The other boy returns. 
+5. Both boys go across. 
+Final Answer: It took a total of __5__ trips to get everyone to the other side. 
+ 
+________________________________________________________________ 
+# The Problem  
+At the first meeting of the House of Muncipal Assembly in the government of the Councillors, each  member shook hands with each other member. There are 25 members of the House. How many handshakes took place?  
+ 
+## Step 1: Start Small 
+Imagine there are only 2 Councillors (Councillor A and Councillor B). 
+* Councillor A shakes hands with Councillor B. 
+* Total handshakes: __2__ 
+ 
+## Step 2: Add a Third Person 
+Now imagine there are 3 Councillors (A, B, and C). 
+* Councillor A shakes with B and C (2 handshakes). 
+* Councillor B has already shaken with A, so B only needs to shake with C (1 more handshake). 
+* Councillor C has already shaken with everyone! 
+* Total handshakes: 2+1= __3__ 
+ 
+## Step 3: Identify the Growing Pattern 
+Let's see what happens as the group gets larger: 
+* 2 Councillors: 1 handshake 
+* 3 Councillors: 1+2=3 handshakes 
+* 4 Councillors: 1+2+3=6 handshakes 
+* 5 Councillors: 1+2+3+4= __10__ 
+The Rule: To find the total handshakes, you add up all the whole numbers starting from 1 up to the number that is one less than the total number of people. 
+ 
+## Step 4: Solve for 25 Councillors 
+Since there are 25 members, we need to add all the numbers from 1 up to 24. 1+2+3+...+22+23+24= ? 
+A Helpful Shortcut (Gauss's Method): Pair the numbers from the outside in: 
+* __24__+__1__=25 
+* __23__+__2__=25 
+* __22__+__3__=25 
+
+There are 12 of these pairs that all equal 25. 
+* Calculation: 12×25= __300__ 
+Final Answer: There were __300__ handshakes in the House of Muncipal Assembly. 
+ 
+________________________________________________________________
+# The Problem  
+Junaid likes Hondas. He owns some cars and some motorcycles. There are 9 Hondas all  together. They have a total of 26 tires. How many of the Hondas are motorcycles?  
+ 
+## Step 1: Establish the Facts 
+First, let's list what we know about Junaid's collection: 
+* Total number of vehicles: 9 
+* Car tires: 4 per car 
+* Motorcycle tires: 2 per motorcycle 
+* Goal: The total number of tires must equal 26. 
+ 
+## Step 2: Make Your First Guess 
+Let's start by guessing that Junaid has mostly motorcycles. Suppose there are 2 cars and 7 motorcycles. (Notice that 2+7=9 total vehicles). 
+* Car tires: 2×4= __8__ 
+* Motorcycle tires: 7×2= __14__ 
+* Total tires: __8__+__14__=__22__ 
+Analysis: Is 22 the correct total? __no__ (Yes/No). Our guess is too low. 
+
+To get more tires, we need to replace a motorcycle with a car. 
+ 
+## Step 3: Adjust the Guess 
+Let's try 3 cars and 6 motorcycles. (Again, 3+6=9). 
+* Car tires: 3×4= __12__ 
+* Motorcycle tires: 6×2= __12__ 
+* Total tires: __12__+__12__=__24__ 
+Analysis: We are getting closer! But 24 is still not 26. 
+
+We need to add one more car and remove one more motorcycle. 
+
+## Step 4: Final Check 
+Let's try 4 cars and 5 motorcycles. 
+* Car tires: 4×4= __16__ 
+* Motorcycle tires: 5×2= __10__ 
+* Combined Total: __16__+__10__= __26__ 
+ 
+## Step 5: Conclusion 
+Does the combined total in Step 4 match our target of 26 tires? 
+Final Answer: Junaid owns __5__ motorcycles. 
+ 
+________________________________________________________________
+# The Problem  
+How many different whole numbers less than 10,000 can be made from the set of digits  {2, 4, 6, 8}? 
+(NOTE: It's okay to use a digit more than once in a number.)
+ 
+## Step 1: Single-Digit Numbers 
+First, let's look at numbers with only one place value. We can only use the digits 2, 4, 6, and 8. 
+* Possible numbers: 2, 4, 6, 8 
+* Total: __4__ 
+ 
+## Step 2: Two-Digit Numbers 
+Now let's look at numbers with a tens place and a ones place. Each place has 4 possibilities (2, 4, 6, or 8). 
+* Calculation: 4 choices for tens × 4 choices for ones= ____ 
+* List Check: 22, 24, 26, 28, 42, 44, 46, 48, 62... (There are 16 total). 
+ 
+## Step 3: Three-Digit Numbers 
+Following our pattern, for a three-digit number, we have 4 choices for the hundreds, 4 for the tens, and 4 for the ones. 
+* Calculation: 4×4×4= __64__ 
+* Pattern Tip: Notice that each time we add a digit, we multiply the previous total by 4. 
+ 
+## Step 4: Four-Digit Numbers 
+The problem asks for numbers up to 10,000. A four-digit number is still less than 10,000. 
+* Calculation: 4×4×4×4= __256__ ? 	Hint: 64×4=? 
+ 
+## Step 5: The Grand Total 
+To find every possible number less than 10,000, we add the totals from every category together. 
+Category 
+Count 
+1-Digit => Numbers __4__ 
+2-Digit => Numbers __16__
+3-Digit => Numbers __64__
+4-Digit => Numbers __256__
+TOTAL   => Numbers __340__
+ 
+Final Answer: There are __340__ whole numbers using only {2, 4, 6, 8} that are less than 10,000. 
+ 
+________________________________________________________________
+# The Problem  
+Monica was given a container of plastic square blocks. She was instructed to make a  series of consecutively larger squares by adding blocks each time. The first thing Monica did was put down 1 block to make a 1 x 1 square. 
+Next, Monica added 3 more blocks to make a 2 x 2 square. 
+Then she added 5 more blocks to get a 3 x 3 square, and so on and so forth. 
+What is the size of the square in front of Monica if she has just added 27 blocks?
+ 
+## Step 1: Visualize the Growth 
+Monica starts with one block and "wraps" more blocks around the corner to keep the shape a square. 
+* 1st Square (1×1): Total blocks = 1. 
+* 2nd Square (2×2): Monica adds 3 blocks. Total = __1__+__3__=__4__. 
+* 3rd Square (3×3): Monica adds 5 blocks. Total = __1__+__3__+__5__= __9__.
+ 
+## Step 2: Identify the Pattern 
+Look at the numbers being added: 1, 3, 5, 7... These are called __odd__ numbers. 
+(Hint: They are numbers that cannot be divided evenly by 2.) 
+Now look at the Total Blocks: 
+* 2nd Square (2×2) = 4 blocks 
+* 3rd Square (3×3) = 9 blocks 
+* 4th Square (4×4) = 16 blocks 
+The Pattern: The number of blocks added is always an odd number, and the total is always a perfect square. 
+ 
+## Step 3: Connect the "Added Number" to the "Square Size" 
+Let's see if we can find which odd number corresponds to which square size: 
+* To make a 2x2 square, the last number added was 3. 
+* To make a 3x3 square, the last number added was 5. 
+* To make a 4x4 square, the last number added was 7. 
+Formula Hint: If the square size is n, the number of blocks added to create that layer is (2×n)-1. 
+* Example: For a 5×5 square, we add (2×5)-1= __9__. 
+ 
+## Step 4: Solve the Big Problem 
+Monica just added 27 blocks. We need to find what size square (n) she just finished. 
+1. Using our rule: 2×n-1=27 
+2. Add 1 to both sides: 2×n=28 
+3. Divide by 2: n= __14__. 
+The Square Size is __14__ × __14__. 
+ 
+## Step 5: Find the Total Blocks 
+Now that we know the square is a 14x14 square, we can find the total number of blocks by squaring the size. 
+* Calculation: 14×14= __196__. 
+Final Answer: Monica is looking at a square made of __196__ blocks. 
+ 
+________________________________________________________________
+# The Problem  
+Mr. Mayer has 3 shirts and 4 ties. How many different combinations of shirts and ties  can he make?  
+ 
+## Step 1: Identify the Options 
+Mr. Mayer is getting dressed and needs to pick one shirt and one tie. 
+* Number of Shirts: 3 (Let's call them S1, S2, and S3) 
+* Number of Ties: 4 (Let's call them T1, T2, T3, and T4) 
+ 
+## Step 2: Create a Tree Diagram 
+A tree diagram helps you see how one choice "branches" out into other choices. Imagine starting with a shirt, and then drawing a line to every possible tie you could wear with it. 
+* If Mr. Mayer picks Shirt 1, how many ties can he choose from? __T1__ __T2__  __T3__ __T2__
+* If he picks Shirt 2, how many ties can he choose from? __T1__ __T2__  __T3__ __T2__
+* If he picks Shirt 3, how many ties can he choose from? __T1__ __T2__  __T3__ __T2__
+ 
+## Step 3: Make an Organized List 
+We can also group the combinations to make sure we don't skip any. 
+Group 1: Shirt 1 
+* S1 + __T1__, S1 + __T2__, S1 + __T3__, S1 + __T4__ (4 outfits) 
+Group 2: Shirt 2 
+* S2 + __T1__, S2 + __T2__, S2 + __T3__, S2 + __T4__ (Hint: What is the last tie?) 
+Group 3: Shirt 3 
+* S3 + __T1__, S3 + __T2__, S3 + __T3__, S3 + __T4__ (4 outfits) 
+ 
+## Step 4: Calculate the Total 
+Now, add the number of combinations from each shirt group together: 4+4+4= __12__ 
+Final Answer: There are __12__ different combinations of shirts and ties. 
+
+________________________________________________________________
+# The Problem  
+There was a war on the planet Venus. It lasted 1,000 days. If the planet Venus uses the same calendar that we use on Earth, and the 1,000-day war started on a Monday, what day of the week did the 1,000-day war end?  
+ 
+## Step 1: Understand the Weekly Cycle 
+Imagine the war starts on a Monday (Day 1). Since there are 7 days in a week, the pattern will repeat every 7 days. 
+* If Day 1 is Monday, what is Day 7? Sunday 
+* If Day 7 is Sunday, what is Day 14? Sunday 
+* The Pattern: Every multiple of 7 (7,14,21,28...) will land on a __sunday__. 
+ 
+## Step 2: Simplify the Large Number 
+We need to find out where Day 1,000 lands. To do this, we find the closest multiple of 7 to 1,000 without going over. 
+1. Divide: 1,000÷7=__142__ with a remainder. 
+2. Multiply: 142×7= __994__ (Hint: This is the last "Sunday" before the war ends.) 
+ 
+## Step 3: Count the Remaining Days 
+Now that we know Day 994 is a Sunday, we can simply count forward to Day 1,000. 
+Day Number => Day of the Week 
+Day 994    => __sunday__
+Day 995    => __monday__ 
+Day 996    => __tuesday__ 
+Day 997    => __wednesday__
+Day 998    => __thursday__
+Day 999    => __friday__
+Day 1,000  => __saturday__
+
+________________________________________________________________
+# The Problem  
+If you continue with the pattern shown below, what would the 20thfigure look like?  
+Figure 1  	Figure 2  	Figure 3  	Figure 4  
+º º 		º º º  		º º º º  	º º º º º 
+			º º º 		º º º º  	º º º º º 
+						º º º º 	º º º º º 
+									º º º º º
+
+## Step 1: Analyze the Dimensions 
+Let's look at the "width" (columns) and the "height" (rows) of each figure. 
+* Figure 1: 1 row  by 2 columns. (1×2=2 dots) 
+* Figure 2: 2 rows by 3 columns. (2×3=6 dots) 
+* Figure 3: 3 rows by 4 columns. (3×4=12 dots) 
+* Figure 4: 4 rows by 5 columns. (4×5=20 dots) 
+Do you see the pattern? 
+The number of rows is the same as the Figure Number, and the number of columns is always one more than the Figure Number. 
+ 
+## Step 2: Test the Pattern 
+Let's use our "Rows × Columns" rule to find the number of dots for Figure 5 and Figure 6. 
+* Figure 5: __5__ rows × __6__ columns = __30__ dots. 
+* Figure 6: __6__ rows × __7__ columns = __42__ dots. 
+(Hint: For Figure 6, it should be 6×7. Does that match the 42 dots in the original chart?) 
+ 
+## Step 3: Solve for the 20th Figure 
+Instead of adding up all the dots in a long table, we can now use our rule for any figure number (n). 
+The formula is: Total Dots =n×(n+1) 
+
+For the 20th Figure: 
+* Number of rows (n): 20 
+* Number of columns (n+1): 21 
+Calculation: 20×21= __420__ 
+ 
+## Step 4: Conclusion 
+By discovering the relationship between the figure number and its dimensions, we saved a lot of time! 
+Final Answer: The 20th figure is a rectangle with 20 rows and 21 columns, containing __420__ dots. 
+ 
+________________________________________________________________
+# The Problem  
+A restaurant has a total of 60 tables. Some of the tables can seat 4 people and some can  seat 2 people. All of the seats are occupied when there are 160 people seated. How many tables for 4 are there?  
+ 
+## Step 1: Identify the Known Facts 
+Before guessing, let's write down the "rules" of the restaurant: 
+* Total Tables: __60__ 
+* Large Tables: __4__ seats per table 
+* Small Tables: __2__ seats per table 
+* Goal: The total number of people must equal __160__. 
+ 
+## Step 2: The First Guess (Equal Split) 
+Let's start right in the middle. If there are 60 tables, what if 30 are large and 30 are small? 
+* Large Table seats: __30__×__4__= __120__ 
+* Small Table seats: __30__×__2__= __60__ 
+* Total People: __120__+__60__=__180__ 
+Analysis: Our goal is 160. Is 180 too high or too low? __high__ 
+Because our guess is too high, we need to replace some "4-seaters" with "2-seaters." 
+ 
+## Step 3: Adjust the Guess 
+Let's try 25 large tables and 35 small tables. (Check: 25+35 still equals 60). 
+* Large Table seats: __25__×__4__= __100__ 
+* Small Table seats: __35__×__2__= __70__ 
+* Total People: __100__+__70__=__170__ 
+Analysis: We are getting closer! We dropped from 180 to 170. 
+How many more people do we need to "remove" to get to 160? __10__ 
+ 
+## Step 4: Final Check 
+Let's try 20 large tables and 40 small tables. 
+* Large Table seats: __20__×__4__= __80__ 
+* Small Table seats: __40__×__2__= __80__ 
+* Total People: __80__+__80__= __160__ 
+ 
+## Step 5: Conclusion 
+The total now matches our goal of 160 people. 
+Final Answer: There are __20__ tables for 4 and __40__ tables for 2. 
+
+________________________________________________________________
+# The Problem  
+Sam, the soccer man, has soccer balls for sale. He travels to the first soccer field and sells half of the soccer balls plus a half of a ball. Then he travels to the next soccer field and sells half of the remaining balls and half of a ball. He travels to a third soccer field and sells half of the remaining soccer balls and a half of a ball. Finally, he returns home with no soccer balls left. Sam accomplishes all of this without cutting any of the balls in half. How many soccer balls did Sam start with?  
+ 
+## Step 1: The "Half-Ball" Mystery 
+The problem says Sam sells "half of the balls plus half of a ball" without ever cutting a ball. 
+* The Secret: This only works if Sam has an odd number of balls. ? 
+Example: If Sam has 5 balls, half is 2.5. 2.5+0.5=3 whole balls. 
+ 
+## Step 2: Strategy A - Guess and Check 
+Let's test the number 7. We need to see if we can visit 3 fields and end up with zero. 
+* Field 1: Start with 7. 
+* Half of 7 is __3.5__. Add __0.5__? Sam sells __4__ balls. 
+* Remainder: __7__ - __4__ =  __3__ ? 
+
+* Field 2: Start with 3. 
+* Half of __3__ is __1.5__. Add __0.5__? Sam sells __2__ balls. 
+* Remainder: __3__ - __2__ =  __1__ ? 
+
+* Field 3: Start with 1. 
+* Half of __1__ is __0.5__. Add __0.5__? Sam sells __1__ ball. 
+* Remainder: __1__ - __1__ = __0__. 
+It works! Sam returns home with 0 balls. 
+ 
+## Step 3: Strategy B - Working Backwards 
+What if we didn't want to guess? We can start at the end (0 balls) and "undo" Sam's sales. 
+* To go forward: We took half and added 0.5. 
+* To go backward: We add 0.5 and then double it. 
+
+1. Home: Sam has __0__ balls. 
+2. Back to Field 3: __0__+ 0.5 = __0.5__. Double it ? __1__ ball. 
+3. Back to Field 2: __1__+ 0.5 = __1.5__. Double it ? __3__ balls. 
+4. Back to Field 1: __3__+ 0.5 = __3.5__. Double it ? __7__ balls. 
+Final Answer: Sam started with __7__ soccer balls. 
+
+________________________________________________________________
+# The Problem  
+A slug is at the bottom of a slanted sidewalk which is 10-feet long. 
+The slug crawls 3- feet each day, but slides backwards 1-foot each evening. 
+How many days will it take the  slug to make its way to the end of the sidewalk?  
+ 
+## Step 1: Analyze the Daily Movement 
+Let's look at the slug's cycle over a 24-hour period: 
+* Daytime: The slug crawls +3 feet. 
+* Evening: The slug slides -1 foot. 
+* Net Progress: __3__-__1__=__2__ feet per full day. 
+ 
+## Step 2: Track the Daily Progress 
+Let's follow the slug's position at the end of each evening. 
+* Day 1: __3__-__1__= __2__ feet 
+* Day 2: __2__+__2__= __4__ feet 
+* Day 3: __4__+__2__= __6__ feet 
+* Day 4: __6__+__2__= __8__ feet 
+At the end of the 4th evening, the slug is sitting at the __8__-foot mark. 
+ 
+## Step 3: The "Finish Line" Moment 
+This is where we have to be careful. The sidewalk is 10 feet long. Let's see what happens on the morning of Day 5. 
+* Start of Day 5: The slug is at 8 feet. 
+* Daytime Crawl: The slug moves up 3 feet. ? 	Position: 8+3=11 feet. 
+Wait! The sidewalk is only 10 feet long. Once the slug reaches the 10-foot mark, he has reached the end and is on flat ground. He won't slide back 1 foot because he isn't on the slant anymore! 
+ 
+## Step 4: Correcting the Calculation 
+Many people think the answer is 5 days because 10÷2=5. However, let's look closer at Day 4: 
+* At the end of Day 4, the slug is at 7 feet (Day 4 crawl to 9ft, slide back to 8ft). 
+* Wait, let's re-calculate even more carefully: 
+	* 	Day 1: Up to 3, back to 2. 
+	* 	Day 2: Up to 5, back to 4. 
+	* 	Day 3: Up to 7, back to 6. 
+	* 	Day 4: Up to 9, back to 8. 
+	* 	Day 5: Up to 11... FINISHED! 
+In this specific case, 5 days is correct because the slug hadn't quite reached the 10-foot mark on Day 4. 
+ 
+## Step 5: What if the Sidewalk was 9 feet? 
+If the sidewalk were __9__ feet long, the slug would reach the top during the daytime of Day __4__ 
+(starting at 6ft and crawling +3ft). He would finish in __4__ days, not 4.5! 
+Final Answer: It will take the slug __5__ days to get to the end of the 10-foot sidewalk. 
+
+________________________________________________________________
+# The Problem  
+In the 3 equations below, each of the shapes represents a number. Each shape represents  the same number everywhere it occurs. What is the numerical value of the square?  
+□+◯+△=24 
+□+◯+◯=20 
+□+◯+△+△=34 
+ 
+## Step 1: Understand the Equations 
+We have three clues. Each shape stands for a specific number: 
+□+◯+△=24 
+□+◯+◯=20  
+□+◯+△+△=34
+ 
+## Step 2: Strategy A - Comparison (The Fast Way) 
+Look closely at Equation 1 and Equation 3. What is the only difference between them? 
+* Eq 1: □+◯+△=24 
+* Eq 3: □+◯+△+△=34 
+
+* Eq 3: __24__+△=34 
+* Eq 3: △= __24__ 
+
+ 
+## Step 3: Find the Square using Differences 
+Now look at Equation 1 and Equation 2. 
+* Eq 1: □+◯+△=24  
+* Eq 2: □+◯+◯=20 
+
+* Eq 1: □+◯+__10__=24  <== Substitute for △
+
+Now look at Equation 1 and Equation 2. 
+* Eq 1: □+◯=__14__  
+* Eq 2: □+◯+◯=20 
+
+* Eq 2: __14__+◯=20 
+* Eq 2: ◯=__6__ 
+
+## Step 3: Now look at equation 1 and substitute values
+* Eq 1: □+◯+△=24  
+* Eq 1: □+__6__+__10__=24  
+* Eq 1: □+__16__=24  
+* Eq 1: □=__8__  
+
+________________________________________________________________
+# The Problem  
+A group of 4 soccer players, each from a different team, stopped at the same restaurant to  eat after a tournament. They began to discuss how their teams did at the tournament.  Determine what order their teams placed in the 4-team tournament (1stthrough 4th place)  based on the discussion below. (Note: The players from the 1st and 2nd place team did not want to brag about their victories, so the statements they made are NOT truthful!)   
+Player A: "We did not come in last place."   
+Player B: "We did not come in 1st place."   
+Player C: "We came in 3rd place."   
+Player D: "My team did not come in 3rd place."  
+ 
+## Step 1: Establish the "Rules of the Game" 
+Before we look at the statements, let's look at the special rule for this tournament: 
+* 1st and 2nd Place: These players are LYING. 
+* 3rd and 4th Place: These players are TRUTHFUL. 
+ 
+## Step 2: Test the Truth 
+Let's look at Player A: "We did not come in last place." 
+* If Player A is lying: Then they must have come in last (4th). But if they are in 4th, they must tell the truth. This is a contradiction! 
+* If Player A is truthful: Then they are in 3rd or 4th. Since they say they weren't in last, they must be in __3__ place. 
+Finding: Player A is in __3__ Place. (This means Player A is a truth-teller). 
+ 
+## Step 3: Use the Power of Elimination 
+Now let's look at Player C: "We came in 3rd place." 
+* We already know Player A is in 3rd place. 
+* Therefore, Player C is lying. 
+* Since Player C is lying, they must be in __1__ or __2__ place. 
+ 
+## Step 4: Solving for Player D 
+Player D says: "My team did not come in 3rd place." 
+* We know Player A is in 3rd. So Player D is telling the truth. 
+* Since Player D is telling the truth, they must be in __3__ or __4__. 
+* Since they aren't in 3rd, Player D must be in __4__ Place. 
+ 
+## Step 5: The Final Standings 
+Now we only have 1st and 2nd place left for Players B and C. 
+* Player B says: "We did not come in 1st place." 
+* If Player B were in 2nd (a lying position), their statement "We did not come in 1st" would be true. 
+  But 2nd place players must lie! 
+* Therefore, Player B must be in __1__ Place. 
+ (His statement that he didn't come in 1st is a lie, which fits the rule!) 
+* That leaves __2__ Place for Player C. 
+ 
+Final Answer: 	Position __1__: Player B, 
+		Position __2__: Player C, 
+		Position __3__: Player A, 
+		Position __4__: Player D. 
+ 
+________________________________________________________________

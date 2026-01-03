@@ -35,29 +35,29 @@ Ex. 6: Total of 2 and 4, increased by 10
 __2__ + __4__ + __10__ = 16 ← Answer
 _________________________________________________________________
 Ex. 7: Sum of x and y, evaluated at x=2 and y=10
-Step 1 (Translate): "Sum of x and y" → __x__ + __y__
-Step 2 (Substitute): Plug in the values → __2__ + __10__
-Step 3 (Solve): __2__ + __10__ = 12 ← Answer
+1. (Translate): "Sum of x and y" → __x__ + __y__
+2. (Substitute): Plug in the values → __2__ + __10__
+3. (Solve): __2__ + __10__ = 12 ← Answer
 _________________________________________________________________
 ## Basic Substraction
 _________________________________________________________________
 Ex. 1: 2 decreased by 1
-Write the first number → __2__
-"Decreased by" means subtraction (−)
-Write the second number → __1__
-__2__ − __1__ = 1 ← Answer
+1. Write the first number → __2__
+2. "Decreased by" means subtraction (−)
+3. Write the second number → __1__
+4. __2__ − __1__ = 1 ← Answer
 _________________________________________________________________
 Ex. 2: x decreased by 25
-Write the variable → __x__
-"Decreased by" means subtraction (−)
-Write the number → __25__
-__x__ − __25__ ← Answer
+1. Write the variable → __x__
+2. "Decreased by" means subtraction (−)
+3. Write the number → __25__
+4. __x__ − __25__ ← Answer
 _________________________________________________________________
 Ex. 3: x diminished by 7
-Write the variable → __x__
-"Diminished by" means subtraction (−)
-Write the number → __7__
-__x__ − __7__ ← Answer
+1. Write the variable → __x__
+2. "Diminished by" means subtraction (−)
+3. Write the number → __7__
+4. __x__ − __7__ ← Answer
 _________________________________________________________________
 Ex. 4: z take away p
 Write the first variable → __z__
@@ -96,27 +96,27 @@ __z__ − __p__ − __a__ ← Answer
 _________________________________________________________________
 Modifying a Single Group
 Ex. 1: Sum of x and y, decreased by 10
-Step 1: Translate the "package" (sum of x and y) → (__x__ + __y__)
-Step 2: "Decreased by" means subtract 10 from that package.
+1. Translate the "package" (sum of x and y) → (__x__ + __y__)
+2. "Decreased by" means subtract 10 from that package.
 (__x__ + __y__) − __10__ ← Answer
 _________________________________________________________________
 Ex. 2: 10 decreased by the sum of x and z
-Step 1: Start with the first number → __10__
-Step 2: Translate the "package" to be subtracted (sum of x and z) → (__x__ + __z__)
+1. Start with the first number → __10__
+2. Translate the "package" to be subtracted (sum of x and z) → (__x__ + __z__)
 __10__ − (__x__ + __z__) ← Answer
 Self-Check: Why use parentheses? Because you are subtracting the whole sum, not just the x.
 _________________________________________________________________
 Working with Two Groups
 Ex. 3: Sum of x and z, decreased by the sum of a and b
-Step 1: Translate the first "package" → (__x__ + __z__)
-Step 2: Translate the second "package" → (__a__ + __b__)
-Step 3: Use subtraction to connect them.
+1. Translate the first "package" → (__x__ + __z__)
+2. Translate the second "package" → (__a__ + __b__)
+3. Use subtraction to connect them.
 (__x__ + __z__) − (__a__ + __b__) ← Answer
 _________________________________________________________________
 Ex. 4: Difference of x and y less the sum of z and p
-Step 1: Translate the first "package" (difference means subtraction) → (__x__ − __y__)
-Step 2: Translate the second "package" (sum means addition) → (__z__ + __p__)
-Step 3: Use "less" (subtraction) to connect them.
+1. Translate the first "package" (difference means subtraction) → (__x__ − __y__)
+2. Translate the second "package" (sum means addition) → (__z__ + __p__)
+3. Use "less" (subtraction) to connect them.
 (__x__ − __y__) − (__z__ + __p__) ← Answer
 _________________________________________________________________
 ## Common Multipliers
@@ -180,9 +180,9 @@ Connect with "diminished by" (−)
 __xy__ - (__d__ + __p__) ← Answer
 _________________________________________________________________
 Ex. 3: Double the difference of x and y, increased by p
-Step 1: Translate "difference of x and y" → (__x__ - __y__)
-Step 2: "Double" that whole group → 2(__x__ - __y__)
-Step 3: "Increase" the result by p → + __p__
+Translate "difference of x and y" → (__x__ - __y__)
+"Double" that whole group → 2(__x__ - __y__)
+"Increase" the result by p → + __p__
 2(__x__ - __y__) + __p__ ← Answer
 _________________________________________________________________
 ## Division
@@ -193,8 +193,8 @@ Write the second number (denominator) → __3__
 __5/3__ ← Answer
 _________________________________________________________________
 Ex. 5: The sum of x and p, divided by 5
-Step 1: Create the "package" for the top → (__x__ + __p__)
-Step 2: Place it over the divisor → / __5__
+1. Create the "package" for the top → (__x__ + __p__)
+2. Place it over the divisor → / __5__
 (__x__ + __p__)/__5__ ← Answer
 _________________________________________________________________
 Ex. 6: Ratio of x and y less the sum of z and p
