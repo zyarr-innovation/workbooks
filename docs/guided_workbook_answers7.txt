@@ -31,6 +31,7 @@ ________________________________________________________________
 # The Problem  
 A train leaves Mumbai City at an average speed of 50 Kilometers per hour and heads for Ratnagiri  
 City. Another train leaves Ratnagiri City at an average speed of 40 Kilometers per hour and  heads for Mumbai City. If the route is 360 Kilometers long, how many hours will it take for the 2  trains to meet?  
+
 ## Step 1: Visualize the Problem 
 Imagine two cities, Mumbai City and Ratnagiri City, connected by a single track. 
 *  Total Distance: __360__ Kilometers 
@@ -70,7 +71,7 @@ A - E = B
 B² = D   
 D + E = F  
  
-1: Find the "Identity" Patterns 
+## Step 1: Find the "Identity" Patterns 
 Some math rules always work the same way. Let's look for equations that reveal a value immediately. 
 * Equation: B+C=B In math, what number can you add to B without changing its value? 
   Answer: C= __0__ (Hint: Think of the "Additive Identity".) 
@@ -85,7 +86,7 @@ Now let's look at the first equation: A+A+A=A². This can also be written as 3×
 ## Step 3: Solve the Chain Reaction 
 Now that we have A, C, and E, we can plug them into the remaining equations like dominoes. 
 *  Equation: A-E=B Substitute your values: 3-1= __2__ Answer: B= __2__ ? 
-*  Equation: B²=D Substitute your value for B: (2)²= __2__ Answer: D= __4__ 
+*  Equation: B²=D Substitute your value for B: (2)²= __4__ Answer: D= __4__ 
  
 ## Step 4: Find the Final Variable 
 We have one letter left: F. We can solve it using the last equation or by looking at the only digit left unused. 
@@ -212,7 +213,7 @@ Initially, we have a list of 7 numbers with an average of 9.
 ## Step 3: Find the Second Sum 
 After one number is taken away, we are left with 6 numbers, and the new average is 8. 
 * Equation: Sum÷6=8 
-* Calculation: 6×8= __56__ 
+* Calculation: 6×8= __48__ 
 * Total Sum 2: This is the total value of the remaining 6 numbers. 
  
 ## Step 4: Find the Difference 
@@ -258,11 +259,11 @@ farhana	| 12.2 seconds  | 10 minutes  	| 8.2 feet
 ## Step 1: Analyze the Data Types 
 Before we can find a winner, we have to understand what a "good" score looks like for each event. 
 * Sprint: To win a race, do you want a lower time or a higher time? 
-Answer: ___less___ (Hint: Does the fastest person take more or less time?) 
+Answer: __lower__ (Hint: Does the fastest person take more or less time?) 
 * Running: To be the best, do you want the fewest minutes or the most minutes? 
-Answer: ___fewest___ minutes
+Answer: __fewest__ minutes
 * Rope Climb: To be the best, do you want to climb fewer feet or more feet? 
-Answer: ___more___ feet
+Answer: __more__ feet
  
 ## Step 2: Create a Scoring System 
 Since we can't add "seconds" to "feet," we will give each athlete points based on their rank: 
@@ -271,8 +272,8 @@ Since we can't add "seconds" to "feet," we will give each athlete points based o
  
 ## Step 3: Fill in the Rankings 
 Let's look at the Running. The times are: Ahmed (6.12), Yusuf (8.0), Dani (12.0), Eddie (5.59), and farhana (10.0). 
-1. Who had the fastest time (the smallest number)? ___5.59___. They get 5 points. 
-2. Who had the slowest time (the largest number)? ___12.0___. They get 1 point. 
+1. Who had the fastest time (the smallest number)? __5.59__. They get 5 points. 
+2. Who had the slowest time (the largest number)? __12.0__. They get 1 point. 
  
 ## Step 4: Calculate the Total Scores 
 Now, we add up the rank points for each person across all three events. 
@@ -287,8 +288,8 @@ farhana	| __1__		| __2__	  	| __5__			| __8__
  
 ## Step 5: Conclusion 
 The "Best Athlete" is the person with the highest total points. 
-* Who has the highest total score? Answer: ___Ahmed___ 
-* What was their total score? Answer: ___11___ 
+* Who has the highest total score? Answer: __Ahmed__ 
+* What was their total score? Answer: __11__ 
 
 ________________________________________________________________
 # The Problem  

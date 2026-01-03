@@ -31,6 +31,7 @@ ________________________________________________________________
 # The Problem  
 A train leaves Mumbai City at an average speed of 50 Kilometers per hour and heads for Ratnagiri  
 City. Another train leaves Ratnagiri City at an average speed of 40 Kilometers per hour and  heads for Mumbai City. If the route is 360 Kilometers long, how many hours will it take for the 2  trains to meet?  
+
 ## Step 1: Visualize the Problem 
 Imagine two cities, Mumbai City and Ratnagiri City, connected by a single track. 
 *  Total Distance: __360__ Kilometers 
@@ -70,7 +71,7 @@ A - E = B
 B² = D   
 D + E = F  
  
-1: Find the "Identity" Patterns 
+## Step 1: Find the "Identity" Patterns 
 Some math rules always work the same way. Let's look for equations that reveal a value immediately. 
 * Equation: B+C=B In math, what number can you add to B without changing its value? 
   Answer: C= __0__ (Hint: Think of the "Additive Identity".) 
@@ -85,7 +86,7 @@ Now let's look at the first equation: A+A+A=A². This can also be written as 3×
 ## Step 3: Solve the Chain Reaction 
 Now that we have A, C, and E, we can plug them into the remaining equations like dominoes. 
 *  Equation: A-E=B Substitute your values: 3-1= __2__ Answer: B= __2__ ? 
-*  Equation: B²=D Substitute your value for B: (2)²= __2__ Answer: D= __4__ 
+*  Equation: B²=D Substitute your value for B: (2)²= __4__ Answer: D= __4__ 
  
 ## Step 4: Find the Final Variable 
 We have one letter left: F. We can solve it using the last equation or by looking at the only digit left unused. 
@@ -212,7 +213,7 @@ Initially, we have a list of 7 numbers with an average of 9.
 ## Step 3: Find the Second Sum 
 After one number is taken away, we are left with 6 numbers, and the new average is 8. 
 * Equation: Sum÷6=8 
-* Calculation: 6×8= __56__ 
+* Calculation: 6×8= __48__ 
 * Total Sum 2: This is the total value of the remaining 6 numbers. 
  
 ## Step 4: Find the Difference 
@@ -258,11 +259,11 @@ farhana	| 12.2 seconds  | 10 minutes  	| 8.2 feet
 ## Step 1: Analyze the Data Types 
 Before we can find a winner, we have to understand what a "good" score looks like for each event. 
 * Sprint: To win a race, do you want a lower time or a higher time? 
-Answer: ___less___ (Hint: Does the fastest person take more or less time?) 
+Answer: __lower__ (Hint: Does the fastest person take more or less time?) 
 * Running: To be the best, do you want the fewest minutes or the most minutes? 
-Answer: ___fewest___ minutes
+Answer: __fewest__ minutes
 * Rope Climb: To be the best, do you want to climb fewer feet or more feet? 
-Answer: ___more___ feet
+Answer: __more__ feet
  
 ## Step 2: Create a Scoring System 
 Since we can't add "seconds" to "feet," we will give each athlete points based on their rank: 
@@ -271,8 +272,8 @@ Since we can't add "seconds" to "feet," we will give each athlete points based o
  
 ## Step 3: Fill in the Rankings 
 Let's look at the Running. The times are: Ahmed (6.12), Yusuf (8.0), Dani (12.0), Eddie (5.59), and farhana (10.0). 
-1. Who had the fastest time (the smallest number)? ___5.59___. They get 5 points. 
-2. Who had the slowest time (the largest number)? ___12.0___. They get 1 point. 
+1. Who had the fastest time (the smallest number)? __5.59__. They get 5 points. 
+2. Who had the slowest time (the largest number)? __12.0__. They get 1 point. 
  
 ## Step 4: Calculate the Total Scores 
 Now, we add up the rank points for each person across all three events. 
@@ -287,8 +288,8 @@ farhana	| __1__		| __2__	  	| __5__			| __8__
  
 ## Step 5: Conclusion 
 The "Best Athlete" is the person with the highest total points. 
-* Who has the highest total score? Answer: ___Ahmed___ 
-* What was their total score? Answer: ___11___ 
+* Who has the highest total score? Answer: __Ahmed__ 
+* What was their total score? Answer: __11__ 
 
 ________________________________________________________________
 # The Problem  
@@ -310,8 +311,8 @@ Analysis: Is 30 the correct total? __No__ (Yes/No). Our guess is too high by exa
  
 ## Step 3: Adjust the Guess 
 Since we have too many wheels, we need to replace a vehicle that has more wheels with one that has fewer wheels. 
-* Which vehicle has fewer wheels? ___bicycle___ (Bicycle/Tricycle) 
-* To lower the total wheel count, should we have more bicycles or more tricycles? ___bicycle___ 
+* Which vehicle has fewer wheels? __bicycle__ (bicycle/tricycle) 
+* To lower the total wheel count, should we have more bicycles or more tricycles? __bicycle__ 
 
 Let's try 7 bicycles and 5 tricycles: (Notice that 7+5 still equals our total of 12 vehicles!) 
 * Bicycle wheels: 7×2= __14__ 
@@ -346,7 +347,7 @@ Look at the totals we found for each board size:
 * 3×3 board: __9__+__4__+__1__ (which is 3²+2²+1²) 
 
 Do you see the pattern? Each total is the sum of square numbers! 
-* What would be the total for a 4×4 board? Calculation: __4__²+__3__²+__2__²+__1__²=__16__+__9__+__4__+__1__ Total: ____ 
+* What would be the total for a 4×4 board? Calculation: __4__²+__3__²+__2__²+__1__²=__16__+__9__+__4__+__1__ Total: __30__ 
  
 ## Step 4: Solve the 8×8 Problem 
 Now, apply this pattern to a full standard checkerboard (8×8). 
@@ -373,14 +374,14 @@ We need to find out which candidate (Tarique, Danish, Emily, or Thakur) received
 ## Step 2: Plot the Clues 
 Let's build our graph step-by-step based on the election results. 
 * Clue 1: "Thakur received more votes than Emily." On your graph, Thakur's bar should be higher than Emily's bar. 
-* Clue 2: "Danish received more votes than Thakur." Since Thakur is already higher than Emily, and Danish is higher than Thakur, who is currently in the lead? Answer: ____ 
+* Clue 2: "Danish received more votes than Thakur." Since Thakur is already higher than Emily, and Danish is higher than Thakur, who is currently in the lead? Answer: __Danish__ 
 * Clue 3: "Tarique received less votes than Emily." If Tarique has fewer votes than Emily, her bar will be the lowest one we have discussed so far. 
  
 ## Step 3: Organize the Ranking 
 Based on the clues above, let's arrange the students from most votes to least votes: 
 1. Highest: __Danish__ (Hint: He had more than Thakur) 
 2. Second: __Thakur__  (Hint: He had more than Emily) 
-3. Third: __emily__  (Hint: She had more than Tarique) 
+3. Third: __Emily__  (Hint: She had more than Tarique) 
 4. Lowest: __Tarique__ 
  
 ## Step 4: Conclusion 
@@ -422,7 +423,7 @@ Now, let's solve for the full set of 36 blocks. To do this, we need to find ever
 * __4__×__9__
 * __6__×__6__ 
 * The complete list of factors is: __1__, __2__, __3__, __4__, __6__, __9__, __12__, __18__, __36__. 
-* Count the factors in that list. How many are there? ____ 
+* Count the factors in that list. How many are there? __9__ 
 Final Answer: Halima can make __9__ different larger rectangles using her 36 blocks. 
 
 ________________________________________________________________
@@ -463,11 +464,17 @@ Fill in the final scores to determine the winner:
 Player 	Total Points 
 Lisa   => __60__
 Rob    => __30__
-Danish   => __10__
+Danish => __10__
  
-Final Answer: __lisa__ earned the most points in the game. 
+Final Answer: __Lisa__ earned the most points in the game. 
  
 ________________________________________________________________
+# The Problem
+There are 2 boys and their father trying to cross the lake in a boat. Each of the boys
+weighs 100 pounds, and the father weighs 200 pounds. The boat can only hold 200
+pounds at a time. How many trips will it take them to get everyone over to the other
+side?
+
 ## Step 1: Understand the Constraints 
 Before we start moving people, let's look at the weights: 
 * The Boat's Capacity: 200 lbs 
@@ -559,7 +566,7 @@ Let's start by guessing that Junaid has mostly motorcycles. Suppose there are 2 
 * Car tires: 2×4= __8__ 
 * Motorcycle tires: 7×2= __14__ 
 * Total tires: __8__+__14__=__22__ 
-Analysis: Is 22 the correct total? __no__ (Yes/No). Our guess is too low. 
+Analysis: Is 22 the correct total? __No__ (Yes/No). Our guess is too low. 
 
 To get more tires, we need to replace a motorcycle with a car. 
  
@@ -594,7 +601,7 @@ First, let's look at numbers with only one place value. We can only use the digi
  
 ## Step 2: Two-Digit Numbers 
 Now let's look at numbers with a tens place and a ones place. Each place has 4 possibilities (2, 4, 6, or 8). 
-* Calculation: 4 choices for tens × 4 choices for ones= ____ 
+* Calculation: 4 choices for tens × 4 choices for ones= __16__ 
 * List Check: 22, 24, 26, 28, 42, 44, 46, 48, 62... (There are 16 total). 
  
 ## Step 3: Three-Digit Numbers 
@@ -671,9 +678,9 @@ Mr. Mayer is getting dressed and needs to pick one shirt and one tie.
  
 ## Step 2: Create a Tree Diagram 
 A tree diagram helps you see how one choice "branches" out into other choices. Imagine starting with a shirt, and then drawing a line to every possible tie you could wear with it. 
-* If Mr. Mayer picks Shirt 1, how many ties can he choose from? __T1__ __T2__  __T3__ __T2__
-* If he picks Shirt 2, how many ties can he choose from? __T1__ __T2__  __T3__ __T2__
-* If he picks Shirt 3, how many ties can he choose from? __T1__ __T2__  __T3__ __T2__
+* If Mr. Mayer picks Shirt 1, how many ties can he choose from? __T1__ __T2__  __T3__ __T4__
+* If he picks Shirt 2, how many ties can he choose from? __T1__ __T2__  __T3__ __T4__
+* If he picks Shirt 3, how many ties can he choose from? __T1__ __T2__  __T3__ __T4__
  
 ## Step 3: Make an Organized List 
 We can also group the combinations to make sure we don't skip any. 
@@ -884,7 +891,7 @@ Look closely at Equation 1 and Equation 3. What is the only difference between t
 * Eq 3: □+◯+△+△=34 
 
 * Eq 3: __24__+△=34 
-* Eq 3: △= __24__ 
+* Eq 3: △= __10__ 
 
  
 ## Step 3: Find the Square using Differences 
