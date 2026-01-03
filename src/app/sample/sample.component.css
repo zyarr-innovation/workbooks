@@ -25,13 +25,6 @@
   margin: 0 auto 25px auto;
 }
 
-.problem-line { 
-  display: flex; 
-  align-items: center; 
-  margin-bottom: 15px; 
-  flex-wrap: wrap; 
-  line-height: 2;       /* Adds a bit of vertical breathing room for wrap-around lines */
-}
 
 .math-input-field { 
   width: 90px; 
@@ -61,4 +54,26 @@
   color: red;
   font-size: 10px;
   font-weight: bold;
+}
+
+
+
+.math-text {
+  /* This ensures spaces and \t are not collapsed by the browser */
+  white-space: pre-wrap; 
+  
+  /* This defines how wide the \t character actually is */
+  tab-size: 4; 
+  -moz-tab-size: 4;
+  
+  /* Optional: ensures text aligns properly if it wraps */
+  display: inline-block; 
+}
+
+.problem-line {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  /* Ensure the line doesn't collapse if it only contains spaces */
+  min-height: 1.5em; 
 }

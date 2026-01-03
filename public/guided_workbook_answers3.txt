@@ -1,0 +1,212 @@
+_________________________________________________________________
+## Rate, Distance, and Time Problems
+_________________________________________________________________
+ex. 3: Car A travels 50 mph for 3 hours. Car B travels 60 mph for 5 hours. How much farther does car B go?
+ 1. distance formula: distance = __speed__ × __time__
+ 2. Car A distance = __50__ × __3__ = __150__ miles
+ 3. Car B distance = __60__ × __5__ = __300__ miles
+ 4. difference = __300__ − __150__ = __150__ miles ← Answer
+_________________________________________________________________
+
+ ## Speed vs Velocity (Concept Check)
+_________________________________________________________________
+ex. 4: What’s the difference between speed and velocity?
+ speed → magnitude only (__speed__ or __rate__)
+ velocity → magnitude **and** __direction__
+ East → __positive__ sign
+ West → __negative__ sign ← Answer
+_________________________________________________________________
+
+## Relative Motion
+_________________________________________________________________
+ex. 9: Troll A runs at 5 ft/s. Troll B starts 1 second later at 6 ft/s. Do they meet?
+ 1. Troll A distance = __5__ __t__
+ 2. Troll B distance = __6__ (__t__ − __1__)
+ 3. meeting condition: __5t__ = __6__(__t__ − ___1__)
+ 4. solve: __t__ = __6__ seconds ← Answer
+_________________________________________________________________
+
+## Percent Problems
+_________________________________________________________________
+ex. 4: A tie costs x dollars. Discounted by 10% then 20%. Final price?
+ 1. first discount: __0.9__ __x__
+ 2. second discount: __0.8__(__0.9__ __x__)
+ 3. final price = __0.72x__ ← Answer
+_________________________________________________________________
+ex. 6: a number increased by p percent of itself is 10. what is the number?
+ 1. let the number be __x__
+ 2. p percent (decimal form) = __p/100__
+ 3. increase term = __p/100__ __x__
+ 4. equation: __x__ + __p/100__ __x__ = __10__
+ 5. factor the variable: __x__(__1__ + __p/100__) = __10__
+ 6. solve: __x__ = __10__ / (__1__ + __p/100__) ← Answer
+ _________________________________________________________________
+ 
+## Successive Discounts
+_________________________________________________________________
+ex. 10: a tie costs x dollars, discounted by 10% then 20%. final price?
+ 1. original price = __x__
+ 2. after 10% discount: __0.9__ __x__
+ 3. after 20% discount: __0.8__(__0.9__ __x__)
+ 4. simplify: __0.72x__ ← Answer
+_________________________________________________________________
+ex. 11: a tie costs x dollars, discounted by p% then z%. final price?
+ 1. p and z written in decimal form
+ 2. first discount: (__1__ − __p/100__) __x__
+ 3. second discount: (__1__ − __z/100__)(__1__ − __p/100__) __x__ ← Answer
+_________________________________________________________________
+ex. 12: a tie costs x dollars. discounted by p% of x and z% of x. final price is a. find x.
+ 1. discount amounts: __p/100__ __x__ and __z/100__ __x__
+ 2. equation: __x__ − __p/100__ __x__ − __z/100__ __x__ = __a__
+ 3. factor: __x__(__1__ − __p/100__ − __z/100__) = __a__
+ 4. solve: __x__ = __a__ / (__1__ − __p/100__ − __z/100__) ← Answer 
+_________________________________________________________________
+## Geometry with Variables
+_________________________________________________________________
+ex. 1: one side of a triangle is a, another is b, the third is c. the perimeter is 12.
+ 1. perimeter formula: __a__ + __b__ + __c__
+ 2. equation: __a__ + __b__ + __c__ = __12__ ← Answer
+_________________________________________________________________
+ex. 2: if side a is decreased by 1 and side c is increased by 1, keep perimeter 12
+ 1. new sides: __a__ − __1__, __b__, __c__ + __1__
+ 2. equation: ( __a__ − __1__ ) + __b__ + ( __c__ + __1__ ) = __12__ ← Answer
+_________________________________________________________________
+ex. 3: triangle sides are x, x+2, and x+4. find the average length.
+ 1. average formula: ( ___ ) / ___
+ 2. sum of sides: __x__ + ( __x__ + __2__ ) + ( __x__ + __4__ )
+ 3. simplify sum: __3__ __x__ + __6__
+ 4. average: ( __3__ __x__ + __6__ ) / __3__
+ 5. simplified average: __x__ + __2__ ← Answer
+_________________________________________________________________
+
+## Motion with Delays
+_________________________________________________________________
+ex. 1: Troll A walks at 6 ft/s. Troll B walks at 4 ft/s but starts 1 second earlier.
+ 1. let time for Troll A = __t__
+ 2. Troll A distance = __6__ __t__
+ 3. Troll B time = __t__ + __1__
+ 4. Troll B distance = __4__ ( __t__ + __1__ )
+ 5. meeting condition: __6__ __t__ = __4__ ( __t__ + __1__ )
+ 6. solve: __t__ = __2__ seconds ← Answer
+ 7. distance at meeting: __12__ ft ← Answer
+ _________________________________________________________________
+ ## Word Problems with Variables
+_________________________________________________________________
+ex. 9: a taxi charges a base fee of 5 dollars plus 2 dollars per mile. write an expression for the total cost.
+ 1. let miles = __m__
+ 2. base fee = __5__
+ 3. cost per mile = __2__ __m__
+ 4. total cost expression: __5__ + __2__ __m__ ← Answer
+_________________________________________________________________
+ex. 10: a phone plan charges $30 plus $10 per gigabyte. how many gigabytes are used if the bill is $120?
+ 1. let gigabytes = __g__
+ 2. fixed fee = __30__
+ 3. variable charge = __10__ __g__
+ 4. equation: __30__ + __10__ __g__ = __120__
+ 5. solve: __g__ = __9__ ← Answer
+_________________________________________________________________
+## Final Capstone Problem
+_________________________________________________________________
+ex. 11: twice the square of a number minus three times the number is 10. find the number.
+ 1. let the number be __x__
+ 2. square of the number = __x__²
+ 3. twice the square = __2__ __x__²
+ 4. three times the number = __3__ __x__
+ 5. equation: __2__ __x__² − __3__ __x__ = __10__
+ 6. solve the quadratic
+ 7. solutions: __5__, __−1__ ← answers
+_________________________________________________________________## Final Capstone Problem
+
+ex. 11: twice the square of a number minus three times the number is 10. find the number.
+ 1. let the number be __x__
+ 2. square of the number = __x__²
+ 3. twice the square = __2__ __x__²
+ 4. three times the number = __3__ __x__
+ 5. equation: __2__ __x__² − __3__ __x__ = __10__
+ 6. solve the quadratic
+ 7. solutions: __5__, __−1__ ← answers
+_________________________________________________________________
+
+ex. 3: 1 inch = 2.54 centimeters. derive two other facts.
+ 1. original fact:
+     __1__ inch = __2.54__ cm
+ 2. multiply both sides by __2__:
+     __2__ inches = __5.08__ cm ← **new fact**
+ 3. divide both sides by __2__:
+     __0.5__ inches = __1.27__ cm ← **new fact**
+
+_________________________________________________________________
+ex. 6: a room has m men and w women. women increase by a. how should men change?
+ 1. original ratio: __m__ / __w__
+ 2. let x = men added
+ 3. new ratio: ( __m__ + **x** ) / ( **w** + __a__ )
+ 4. set equal:
+     __m__ / __w__ = ( __m__ + **x** ) / ( **w** + __a__ )
+ 5. solve:
+     x = __ma__ / __w__ ← Answer
+_________________________________________________________________
+
+ex. 9: quantity increases from a to 2a.
+ 1. formula:
+     ( ___2a___ − ___a___ ) / ___a___ × 100%
+ 2. simplify:
+     ___100___% ← Answer
+_________________________________________________________________
+
+ex. 10: quantity changes from a to ba.
+ 1. formula:
+     ( ___ba___ − ___a___ ) / ___a___ × 100%
+ 2. factor:
+     ( ___b___ − ___1___ ) × 100%
+ 3. result:
+     ___100(b − 1)___% ← Answer
+_________________________________________________________________
+ex. 6: general linear model
+ Final = ___initial___ + ( ___rate___ × ___time___ )
+_________________________________________________________________
+ ##Mixture Problems (Guided Structure)
+_________________________________________________________________
+ex. 1: 20 oz of 10% OJ mixed with x oz of 20% OJ → 15%
+ 1. OJ from first mixture: ___20 × 0.10 = 2___
+ 2. OJ from second mixture: ___x × 0.20 = 0.2x___
+ 3. total volume: ___20 + x___
+ 4. equation:
+     ___2___ + ___0.2x___ = ___0.15(20 + x)___
+ 5. solve:
+     x = ___10___ oz ← Answer
+_________________________________________________________________
+ex. 6: general mixture formula
+ Final concentration =
+  ( ___amount1 × concentration1___ + ___amount2 × concentration2___ ) / ( ___amount1 + amount2___ ) ← Answer
+_________________________________________________________________
+##Work Problems
+_________________________________________________________________
+ex. 1: Bob (3 hr), Jerry (2 hr)
+ 1. Bob’s rate: ___1/3___ job per hour
+ 2. Jerry’s rate: ___1/2___ job per hour
+ 3. equation:
+     ___(1/3)t___ + ___(1/2)t___ = ___1___
+ 4. solve:
+     t = ___6/5___ hours ← Answer
+_________________________________________________________________
+ex. 4: Bob takes x hours, Amin takes 2x hours, together 2 hours
+ 1. rates: ___1/x___ and ___1/(2x)___
+ 2. equation:
+     ___(1/x) × 2___ + ___(1/(2x)) × 2___ = ___1___
+ 3. solve:
+     Bob = ___4/3___ hr, Amin = ___8/3___ hr ← Answer
+_________________________________________________________________
+##Simple Interest
+_________________________________________________________________
+ex. 1: $1000 at 5% for 3 months
+ 1. formula: I = ___P × r × t___
+ 2. substitute: ___1000 × 0.05 × 0.25___
+ 3. interest earned: ___12.50___ ← Answer
+ 4. final amount: ___1012.50___ ← Answer
+_________________________________________________________________
+ex. 4: final amount is $1200 at 4% for 6 months
+ 1. equation:
+     ___1200___ = ___P___ + ___P × 0.04 × 0.5___
+ 2. solve:
+     initial investment = ___1176.47___ ← Answer
+_________________________________________________________________

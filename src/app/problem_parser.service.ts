@@ -18,14 +18,14 @@ export interface Section {
   providedIn: 'root'
 })
 export class ProblemParserService {
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
   // This function reads the file and pipes it through the parser
   getWorkbookData(filePath: string): Observable<Section[]> {
     return this.http.get(filePath, { responseType: 'text' }).pipe(
       map(rawText => this.parseText(rawText))
     );
   }
-  
+
   parseText(rawText: string): Section[] {
     const sections: Section[] = [];
     const lines = rawText.split('\n');
@@ -34,14 +34,16 @@ export class ProblemParserService {
     let currentExample: Example | null = null;
 
     for (let line of lines) {
-      line = line.trim();
+      // 1. Create a trimmed version for identification logic ONLY
+      // We use trimEnd() for the actual storage to preserve leading tabs/spaces
+      const trimmedLine = line.trim();
 
-      // 1. Skip separators or empty lines
-      if (!line || line.startsWith('____')) continue;
+      // Skip horizontal separators or completely empty lines
+      if (!trimmedLine || trimmedLine.startsWith('____')) continue;
 
-      // 2. Identify Headings (e.g., ## Header)
-      if (line.startsWith('#')) {
-        const match = line.match(/^(#+)\s*(.*)/);
+      // 2. Identify Headings (e.g., # Header)
+      if (trimmedLine.startsWith('#')) {
+        const match = trimmedLine.match(/^(#+)\s*(.*)/);
         if (match) {
           currentSection = {
             title: match[2],
@@ -49,30 +51,57 @@ export class ProblemParserService {
             examples: []
           };
           sections.push(currentSection);
-          currentExample = null; // Reset example context for new section
+
+          // Start an 'Intro' block to catch text appearing before the first 'Step'
+          currentExample = {
+            id: 'Intro',
+            description: 'Problem Description',
+            lines: []
+          };
+          currentSection.examples.push(currentExample);
         }
-      } 
-      
-      // 3. Identify Examples (e.g., Ex. 1: Description)
-      else if (line.startsWith('Ex') || line.startsWith('ex')) {
+      }
+
+      // 3. Identify Example or Step start (e.g., "Step 1: ...")
+      // We use the trimmed version to check the prefix
+      else if (/^(ex|step)/i.test(trimmedLine)) {
         const separatorIndex = line.indexOf(':');
+
         if (separatorIndex !== -1) {
           currentExample = {
             id: line.substring(0, separatorIndex).trim(),
             description: line.substring(separatorIndex + 1).trim(),
             lines: []
           };
-          if (currentSection) {
-            currentSection.examples.push(currentExample);
-          }
+        } else {
+          // Fallback if there is no colon
+          currentExample = {
+            id: trimmedLine,
+            description: '',
+            lines: []
+          };
         }
-      } 
-      
-      // 4. Everything else is a sub-line of an example
+
+        if (currentSection) {
+          currentSection.examples.push(currentExample);
+        }
+      }
+
+      // 4. Content Lines
       else if (currentExample) {
-        currentExample.lines.push(line);
+        /* CRITICAL CHANGE: 
+           We push the original 'line' (not trimmedLine) to preserve 
+           the tab characters (\t) and leading spaces for alignment.
+           We use trimEnd() just to clean up the trailing newline artifacts.
+        */
+        currentExample.lines.push(line.trimEnd());
       }
     }
+
+    // Final Clean up: Remove 'Intro' blocks if they remained empty
+    sections.forEach(s => {
+      s.examples = s.examples.filter(e => e.id !== 'Intro' || e.lines.length > 0);
+    });
 
     return sections;
   }
