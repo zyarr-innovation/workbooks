@@ -1,351 +1,740 @@
+## Basic Operations
 _________________________________________________________________
-## Rate, Distance, and Time Problems
+ex. 1:
+ -5  + ( -3)   Same sign, add 5 + 3, keep the negative
+       __-8__  Our Solution
 _________________________________________________________________
-ex. 1: A man walks at a rate of 5 feet per second. How far does the man walk in 10 seconds?
- 1. what to find: __distance__
- 2. needed fact: distance = __speed__ × __time__
- 3. speed = __5__ ft/s
- 4. time = __10__ s
- 5. distance = __5__ × __10__ = __50__ feet ← Answer
+ex. 2:
+ -7  + ( -5)   Same sign, add 7 + 5, keep the negative
+      __-12__  Our Solution
 _________________________________________________________________
-ex. 2: A man walks at a rate of 5 feet per second. How long does it take to walk 1000 feet?
- 1. what to find: __time__
- 2. needed fact: distance = __speed__ × __time__
- 3. speed = __5__ ft/s
- 4. time = __t__ (unknown)
- 5. equation: __1000__ = __5__ × __t__
- 6. solve: __1000__ / __5__ = __200__ seconds ← Answer
+ex. 3:
+     -7 + 2    Different signs, subtract 7 -2, use sign from bigger number, negative
+       __-5__  Our  Solution
 _________________________________________________________________
+ex. 4:
+ -4  + 6       Different signs, subtract 6 -4, use sign from bigger number, positive
+     __2__     Our Solution
+_________________________________________________________________
+ex. 5:
+ 4 + ( -3)     Different signs, subtract 4 -3, use sign from bigger number, positive
+      __1__    Our Solution
+_________________________________________________________________
+ex. 6:
+ 7 + ( -10)    Different signs, subtract 10 -7, use sign from bigger number, negative
+      __-3__   Our Solution
+_________________________________________________________________
+ex. 7:
+ 8 - 3         Add the opposite of 3
+ 8 + ( -3)     Different signs, subtract 8 -3, use sign from bigger number, positive
+      __5__    Our Solution
+_________________________________________________________________
+ex. 8:
+ -4  - 6          Add the opposite of 6
+ -4  + (__-6__)   Same sign, add 4 + 6, keep the negative
+        __-10__   Our Solution
+_________________________________________________________________
+ex. 9:
+ 9 - ( - 4)    Add the opposite of -4
+ 9 +  __4__    Same  sign, add 9 + 4, keep the positive
+     __13__    Our Solution
+_________________________________________________________________
+ex. 10:
+ -6  -( -2)    Add the opposite of -2
+ -6  + __2__   Different sign, subtract 6 -2, use sign from bigger number, negative
+      __-4__   Our Solution
+ 
+_________________________________________________________________
+ex. 11:
+ (4)( -6)      Signs do not match, answer is negative
+   __-24__     Our Solution
+_________________________________________________________________
+ex. 12:
+   -36         Signs match, answer is positive
+ -------
+   -9
 
-## Relative Motion
+  __4__        Our  Solution
 _________________________________________________________________
-ex. 6: Car A travels East at 50 mph. Car B travels West at 60 mph. After 3 hours, how far apart are they?
- 1. displacement formula: __displacement__ = __velocity__ × __time__
- 2. Car A displacement = __50__ × __3__ = __150__ miles
- 3. Car B displacement = __60__ × __3__ = __180__ miles
- 4. distance apart = __150__ + __180__ = __330__ miles ← Answer
+ex. 13:
+ -2( -6)       Signs match, answer is positive
+  __12__       Our Solution
 _________________________________________________________________
-ex. 7: Man A walks at 4 ft/s. Man B jogs at 9 ft/s. How long until they are 25 feet apart?
- 1. let time = __t__
- 2. Man A distance = __4__ __t__
- 3. Man B distance = __9__ __t__
- 4. equation: __9t__ − __4t__ = __25__
- 5. solve: __t__ = __5__ seconds ← Answer
-_________________________________________________________________
-ex. 8: At noon, a woman is 5 miles from home and drives 60 mph. How far from home at 3 PM?
- 1. initial distance = __5__ miles
- 2. speed = __60__ mph
- 3. time = __3__ hours
- 4. equation: d = __5__ + __60__ __3__
- 5. d = __5__ + __180__ = __185__ miles ← Answer
-_________________________________________________________________
+ex. 14:
+   15
+ ------
+   -3          Signs do not match, answer is negative
 
-## Geometry Applications
-_________________________________________________________________
-ex. 2: Rectangle with vertical side is 4 and perimeter 16. Find h.
- 1. formula: __2__h + __2__(__4__) = __16__
- 2. __2__h + __8__ = __16__
- 3. __2__h = __8__
- 4. h = __4__ ← Answer
-_________________________________________________________________
-ex. 3: Rectangle where horizontal side is twice vertical. Perimeter is 24.
- 1. let vertical side = __x__
- 2. horizontal side = __2__ __x__
- 3. equation: __2x__ + __4x__ = __24__
- 4. solve: __x__ = __4__
- 5. sides: v = __4__, h = __8__ ← answers
-_________________________________________________________________
-## Triangle Angle Problems
-_________________________________________________________________
-ex. 4: Triangle angles are x, 2x, and 3x. Find all angles.
- 1. triangle sum = __180__ degrees
- 2. equation: __x__ + __2x__ + __3x__ = __180__
- 3. __6x__ = __180__
- 4. x = __30__ degrees ← Answer
- 5. angles: __30__°, __60__°, __90__° ← answers
-_________________________________________________________________
-ex. 5: Smallest angle is x. Second is 30 more. Third is triple.
- 1. angles: __x__, __x__ + __30__, __3__ __x__
- 2. equation: __x__ + (__x__ + __30__) + __3x__ = __180__
- 3. solve: __x__ = __30__
- 4. angles: __30__°, __60__°, __90__° ← answers
-_________________________________________________________________
-## Percent Problems
-_________________________________________________________________
-ex. 1: 10 is 2% of a number. Find the number.
- 1. let number = __x__
- 2. 2% = __0.02__
- 3. equation: __10__ = __0.02__ × __x__
- 4. solve: __10__ / __0.02__ = __500__ ← Answer
-_________________________________________________________________
-ex. 2: What number is 25% of 200?
- 1. let number = __x__
- 2. equation: __x__ = __0.25__ × __200__
- 3. solve: __x__ = __50__ ← Answer
-_________________________________________________________________
-ex. 13: 10 is what percent of 80?
- 1. “what percent” becomes __p__
- 2. equation: __10__ = __p__ __80__
- 3. solve: __p__ = __10__ / __80__
- 4. decimal form: __0.125__
- 5. percent form: __12.5__% ← Answer
-_________________________________________________________________
-ex. 14: a number increased by 20% of itself is 20. what is the number?
- 1. let the number be __x__
- 2. 20% in decimal form = __0.2__
- 3. equation: __x__ + __0.2__ __x__ = __20__
- 4. combine like terms: __1.2__ __x__ = __20__
- 5. solve: __x__ = __20__ / __1.2__ ← Answer
-_________________________________________________________________
-ex. 5: a number decreased by 10% of 20 is 50. what is the number?
- 1. let the number be __x__
- 2. 10% in decimal form = __0.1__
- 3. 10% of 20 = __0.1__ × __20__ = __2__
- 4. “decreased by” means subtraction
- 5. equation: __x__ − __2__ = __50__
- 6. solve: __x__ = __52__ ← Answer
-_________________________________________________________________
-ex. 7: a number increased by p percent of itself is a. what is the number?
- 1. let the number be __x__
- 2. equation: __x__ + __p/100__ __x__ = __a__
- 3. factor: __x__(__1__ + __p/100__) = __a__
- 4. solve: __x__ = __a__ / (__1__ + __p/100__) ← Answer
-_________________________________________________________________
-## Successive Discounts
-_________________________________________________________________
-ex. 8: a shirt costs 20 dollars and goes on sale for 15 dollars. find the discount rate.
- 1. original price = __20__
- 2. sale price = __15__
- 3. discount amount = __20__ − __15__ = __5__
- 4. equation: __r__ __20__ = __5__
- 5. solve: __r__ = __5__ / __20__
- 6. convert to percent: __25__% ← Answer
-_________________________________________________________________
-ex. 9: notebooks cost $1.20 wholesale and sell for $1.50. find the rate of increase.
- 1. original price = __1.20__
- 2. final price = __1.50__
- 3. increase amount = __1.50__ − __1.20__ = __0.30__
- 4. equation: __r__ __1.20__ = __0.30__
- 5. solve: __r__ = __0.30__ / __1.20__
- 6. convert to percent: __25__% ← Answer
-_________________________________________________________________
+ __-5__        Our Solution
 
-## Systems & Relationships
-_________________________________________________________________
-ex. 1: double x equals triple y. find the ratio of x to y.
- 1. “double x” becomes __2__ __x__
- 2. “triple y” becomes __3__ __y__
- 3. equation: __2__ __x__ = __3__ __y__
- 4. divide both sides by __2__
- 5. x = __3/2__ __y__
- 6. ratio x/y = __3__ / __2__ ← Answer
-_________________________________________________________________
-ex. 2: the area of a rectangle is 4x. what is 3/4 of the area?
- 1. area = __4x__
- 2. multiply by __3__ / __4__
- 3. calculation: ( __3__ / __4__ ) × __4x__
- 4. result: __3x__ ← Answer
-_________________________________________________________________
 
-## Angle Relationships
+ ## Fractions
 _________________________________________________________________
-ex. 1: one angle is 90°, another is half the third
- 1. let the third angle be __x__
- 2. second angle = __1/2__ __x__
- 3. triangle sum: __90__ + __1/2__ __x__ + __x__ = __180__
- 4. equation: __90__ + __1.5__ __x__ = __180__
- 5. solve: __x__ = __60__° ← Answer
- 6. remaining angle: __30__° ← Answer
-_________________________________________________________________
-ex. 2: one angle is 30°. ratio of other two is 5.
- 1. let angles be __x__ and __y__
- 2. ratio equation: __y__ / __x__ = __5__
- 3. express larger angle: __y__ = __5__ __x__
- 4. triangle sum: __30__ + __x__ + __5__ __x__ = __180__
- 5. solve: __x__ = __25__° ← Answer
- 6. other angle: __125__° ← Answer
-_________________________________________________________________
+ex. 15:
+         36
+        -----           Both numerator and denominator are divisible by 4
+         84
 
-## Geometry – Algebra Connection
-_________________________________________________________________
-ex. 8: the length of a rectangle is 3 more than twice its width. the perimeter is 54.
- 1. let width = __w__
- 2. length = __2__ __w__ + __3__
- 3. perimeter formula: __2__ ( __w__ + __2__ __w__ + __3__ )
- 4. equation: __2__ ( __3__ __w__ + __3__ ) = __54__
- 5. solve: __w__ = __8__
- 6. dimensions: width = __8__, length = __19__ ← answers
-_________________________________________________________________
+ 36 ÷ __4__    __9__    Both numerator and denominator are still divisible by 3
+ ----------- = ------
+ 84 ÷ __4__    __21__
 
-##Ratios & Proportions
+  9 ÷ __3__    __3__   
+ ----------- = ---      Our Soultion
+ 21 ÷ __3__    __7__  
 _________________________________________________________________
-ex. 1: one inch on a map corresponds to 20 miles. how many miles do 5 inches represent?
- 1. given conversion:
-     1 inch = __20__ miles
- 2. identify scale factor:
-     5 inches = __5__ × 1 inch
- 3. apply the scale factor to miles:
-     __5__ × __20__ miles
- 4. conclusion:
-  5 inches = __100__ miles ← Answer
-_________________________________________________________________
-ex. 2: a recipe needs 3 cups of sugar for 27 cookies. how many cups are needed for twice as many cookies?
- 1. original cookies: __27__
- 2. twice as many cookies: __2__ × __27__ = __54__
- 3. let x = cups of sugar needed
- 4. set up proportion:
-     __3__ / __27__ = __x__ / __54__
- 5. cross-multiply:
-     __3__ × __54__ = __27__ × __x__
- 6. solve:
-     x = __6__ cups ← Answer
+ex. 16:
+   6      3             Multiply numerators across and denominators across
+ ---- * ----
+   7      5
 
+ __18__
+ -------                Our Solution
+ __35__   
 _________________________________________________________________
-ex. 4: a room has a ratio of 2 men to 4 women. if women increase to 6, how many men must there be to keep the ratio?
- 1. original ratio:
-     __2__ men / __4__ women
- 2. let x = total men needed
- 3. set ratios equal:
-     __2__ / __4__ = __x__ / __6__
- 4. cross-multiply:
-     __2__ × __6__ = __4__ × __x__
- 5. solve:
-     x = __3__ (total men)
- 6. men added:
-     __3__ − __2__ = __1__ ← Answer
-_________________________________________________________________
-ex. 5: a room has a ratio of 2 men to 4 women. men change by y+1, women by y. ratio stays the same.
- 1. original ratio: __2__ / __4__
- 2. new men: __2__ + __y__ + __1__
- 3. new women: __4__ + __y__
- 4. new ratio:
-     ( __2__ + **y** + __1__ ) / ( **4** + __y__ )
- 5. set ratios equal:
-     __2__ / __4__ = ( __3__ + **y** ) / ( **4** + __y__ )
- 6. cross-multiply and solve:
-     y = __1__ ← Answer
+ex. 17:
+  25      32
+ ---- *  ----           Reduce 25 and 55 by dividing by 5. Reduce 32 and 24 by dividing by 8
+  24      55    
 
+ __5__      __4__
+ ------  *  ------      Multiply numerators across and denominators across
+ __3__      __11__
+
+ __20__                 Our Solution
+ -------
+ __33__
 _________________________________________________________________
-##Percent Change
+ex. 18:
+  21       28
+ ----  ÷  ----          Multiply by the reciprocal
+  16        6
+
+  21      __6__         Reduce 21 and 28 by dividing by 7. Reduce 6 and 16 by dividing by 2
+ ----- *  ------
+  16      __28__
+
+ __3__     __3__
+ ------ * ------        Multiply numerators across and denominators across
+ __8__     __4__
+
+ __9__                  Our Soultion
+ ------
+ __32__   
+
+  ## Fractions Addition
 _________________________________________________________________
-ex. 7: snow increases from 5 inches to 8 inches. find percent change.
- 1. percent change formula:
-     ( ___8___ − ___5___ ) / ___5___ × 100%
- 2. substitute values:
-     ( ___8___ − ___5___ ) / ___5___ × 100%
- 3. compute:
-     ___60___% ← Answer
+ex. 19:
+ Find the LCD of 8 and 12   Test multiples of 12
+ 12?    12  
+       ----             Can′t divide 12 by 8
+         8
+      
+ 24?  __24__  
+     -------   = __3__  Yes! We can divide 24 by 8!
+      __8__
+
+     __24__             Our Soultion
 _________________________________________________________________
-ex. 8: snow melts from 5 inches to 3 inches. find percent change.
- 1. substitute values:
-     ( ___3___ − ___5___ ) / ___5___ × 100%
- 2. compute:
-     ___−40___%
- 3. interpretation:
-     negative sign means a ___decrease___ ← Answer
+ex. 20:
+   7      3   
+ ---- + ----            Same denominator, add numerators 7 + 3
+   8      8
+
+     __10__
+     ------             Reduce answer, dividing by 2
+      __8__
+
+      __5__
+     ------             Our Solution
+      __4__
+_________________________________________________________________
+ex. 21:
+  13      9
+ ---- - -----           Same denominator, subtract numerators 13 -9
+   6      6
+
+      __4__   
+     ------             Reduce answer, dividing by 2
+      __6__
+
+      __2__   
+     ------             Our Solution
+      __3__
+_________________________________________________________________
+ex. 22:
+   5      4
+ ---- + ----            LCD  is 18.
+   6      9
+
+ 5 * __3__      4 * __2__ 
+ ----------  +  ---------   Multiply  first fraction by 3 and the second by 2
+ 6 * __3__      9 * __2__
+
+  __15__    __8__   
+ -------- + -------         Same denominator, add numerators, 15 + 8
+  __18__    __18__
+
+  __23__
+ --------                   Our Solution
+  __18__   
+_________________________________________________
+ex. 23:
+   2      1
+ ---- - ----            LCD  is 6
+   3      6
+
+  2 * __2__      __1__  
+ -----------  -  ------     Multiply  rst fraction by 2, the second already has a denominator of 6
+  2 * __3__      __6__
+
+  __4__     __1__   
+ ------- - -------          Same denominator, subtract numerators, 4 -1
+  __6__     __6__
+
+  __3__
+ -------                    Reduce answer, dividing by 3
+  __6__ 
+
+  __1__
+ -------                    Our Solution
+  __2__
+
+ 
+ ##Order     of  Operations
+ _________________________________________________________________
+ex. 24:
+ 2 + 5 * 3    Add First       2 + 5 * 3    Multiply
+     7 * 3    Multiply        2 + 15       Add
+         21   Solution            17       Solution
+
+ _________________________________________________________________
+Order  of Operations:
+    Parenthesis  (Grouping)
+    Power
+    Multiply  and  Divide  (Left to Right)
+    Add   and  Subtract  (Left to Right)
+_________________________________________________________________
+ex. 25:
+ 2 + 3(9 -4)²   Parenthesis  first
+
+ 2 + 3(__5__)²  Exponents
+
+ 2 + 3(__25__)  Multiply
+
+ 2 + __75__     Add
+
+ __77__         Our Solution
+_________________________________________________________________
+ex. 26:
+ 30 ÷ 3 * 2     Divide  first (left to right!)
+ 
+__10__ * __2__  Multiply
+
+__20__          Our Solution
+_________________________________________________________________
+ex. 27:
+ 2{8² -7[32 -4(3²+ 1)]( -1)}      Inner most parenthesis, exponents  first 3²
+                 
+ 2{8² -7[32 -4(__9__ + 1)]( -1)}   Add inside those parenthesis 9 + 1
+                 
+ 2{8² -7[32 -4(__10__)]( -1)}      Multiply inside inner most parenthesis -4 * 10
+             
+ 2{8² -7[32 __-40__]( -1)}         Subtract inside those parenthesis 32 - 40
+         
+ 2{8² -7[ __-8__ ]( -1)}           Multiply left to right, sign with the number
+
+ 2{8² + __56__( -1)}               Finish multiplying
+         
+ 2{8² - __56__}                    Exponent
+         
+ 2{__64__ - 56}                    Subtract
+     
+ 2{__8__}                          Final Multiply
+ 
+ __16__                            Our Solution
+_________________________________________________________________
+ex. 28:
+ 2⁴ -( -8) * 3
+--------------                    Exponent in the numerator, divide in denominator
+   15 ÷ 5 - 1
+
+ __16__ -( -8) * 3
+-------------------               Multiply in the numerator, subtract in denominator
+     __3__ -1
+
+ 16 -( __-24__)
+ ---------------                  Add the opposite to simplify numerator, denominator is done.
+     __2__
+
+  __40__                          Reduce, divide
+ --------
+     2
+
+  __20__                          Our Solution
+
+## Properties      of  Algebra
 
 _________________________________________________________________
-ex. 11: original depth is 25 feet. percent change is 200%. find final depth.
- 1. formula:
-     ( ___f___ − ___25___ ) / ___25___ × 100% = ___200___%
- 2. convert percent to decimal: ___2___
- 3. solve:
-     f = ___75___ feet ← Answer
+ex. 30:
+ p(q + 6)    when p = 3 and q = 5   Replace p with 3 and q with 5
+
+ (__3__)((__5__) + 6)               Evaluate parenthesis
+
+ (3)(__11__)                        Multiply
+
+ __33__                             Our Solution
 _________________________________________________________________
-ex. 12: 200% increase from 25 feet
- 1. increase amount:
-     ___200___% of ___25___ = ___50___
- 2. final value:
-     ___25___ + ___50___ = ___75___ feet ← Answer
+ex. 32:
+ 5x -2y -8x  + 7y    Combine like terms 5x -8x and -2y + 7y
+
+__-3__x  + __5__y    Our Solution
 _________________________________________________________________
-##Consecutive Integer Problems
+ex. 33:
+ 8x² -3x + 7 -2x² + 4x -3    Combine  like terms 8x² -2x² and -3x + 4x and 7 -3
+
+ __6__x² + __1__x + __4__    Our Solution
+
+ ## Distributive  Property a(b +  c) = ab + ac
 _________________________________________________________________
-ex. 1: two consecutive integers sum to 41.
- 1. let first integer = ___x___
- 2. next integer = ___x___ + ___1___
- 3. equation:
-     ___x___ + ( ___x___ + ___1___ ) = ___41___
- 4. solve:
-     integers = ___20___ and ___21___ ← Answer
+ex. 34:
+ 4(2x -7)               Multiply each term by 4
+
+ __8__x -__28__         Our Solution
 _________________________________________________________________
-ex. 2: two consecutive even integers sum to 98.
- 1. pattern: ___x___, ___x___ + ___2___
- 2. equation:
-     ___x___ + ( ___x___ + ___2___ ) = ___98___
- 3. solve:
-     integers = ___48___ and ___50___ ← Answer
+ex. 35:
+ -7(5x -6)                    Multiply each term by -7
+
+ __-35__x + __42__            Our Solution
 _________________________________________________________________
-ex. 3: two consecutive odd integers sum to 240.
- 1. pattern: ___x___, ___x___ + ___2___
- 2. equation:
-     ___x___ + ( ___x___ + ___2___ ) = ___240___
- 3. solve:
-     integers = ___119___ and ___121___ ← Answer
+ex. 36:
+ -(4x -5y  + 6)               Negative can be thought of as -1
+
+ -1(4x -5y  + 6)              Multiply each term by -1
+
+ __-4__x + __5__y  - __6__     Our Solution
 _________________________________________________________________
-ex. 4: sum of two consecutive integers is 3 more than the first.
- 1. pattern: ___x___, ___x___ + ___1___
- 2. equation:
-     ___x___ + ( ___x___ + ___1___ ) = ___x___ + ___3___
- 3. solve:
-     integers = ___2___ and ___3___ ← Answer
+ex. 37:
+ 5 + 3(2x -4)                 Distribute 3, multipling each term
+
+ 5 + __6__x -__12__           Combine  like terms 5 -12
+
+     __6__x -__7__            Our Solution
 _________________________________________________________________
-ex. 5: sum of three consecutive integers is twice the third.
- 1. pattern: ___x___, ___x___ + ___1___, ___x___ + ___2___
- 2. equation:
-     ___x___ + ( ___x___ + ___1___ ) + ( ___x___ + ___2___ ) = ___2___ ( ___x___ + ___2___ )
- 3. solve:
-     integers = ___3___, ___4___, ___5___ ← Answer
+ex. 38:
+ 3x -2(4x -5)                 Distribute -2, multilpying each term
+
+ 3x -__8__x + __10__          Combine like terms 3x -8x
+
+ __-5__x  + __10__            Our Solution
 _________________________________________________________________
-ex. 6: sum of two consecutive integers is s.
- 1. equation:
-     ___x___ + ( ___x___ + ___1___ ) = ___s___
- 2. solve:
-     first = ___ (s − 1)/2 ___
-     second = ___ (s + 1)/2 ___
-     ⚠️ Note: s must be ___odd___.
+ex. 39:
+ 2(5x -8) -6(4x + 3)                Distribute 2 into  rst parenthesis and -6 into second
+
+ __10__x -__16__ -__24__x -__18__   Combine like terms 10x -24x and -16 -18
+
+__-14__x - __34__                   Our Solution
 _________________________________________________________________
-ex. 7: sum of three consecutive odd integers is 243.
- 1. pattern: ___x___, ___x___ + ___2___, ___x___ + ___4___
- 2. equation:
-     ___x___ + ( ___x___ + ___2___ ) + ( ___x___ + ___4___ ) = ___243___
- 3. solve:
-     integers = ___79___, ___81___, ___83___ ← Answer
+ex. 40:
+ 4(3x -8) -(2x -7)                      Negative (subtract) in middle can be thought of as -1
+
+  4(3x -8) -1(2x -7)                    Distribute 4 into  rst parenthesis, -1 into second
+
+ __12__x - __32__ - __2__x  + __7__     Combine like terms 12x -2x and -32 + 7
+
+ __10__x - __25__                       Our Solution
+
+
+ ## One Step Equations
 _________________________________________________________________
-##Rates & Linear Models
+ex. 41:
+     4x + 16 = -4
 _________________________________________________________________
-ex. 1: car travels 50 miles every hour.
- 1. formula: speed = ___distance___ / ___time___
- 2. substitute:
-     ___50___ / ___1___ ← Answer
+ex. 42:
+    4x + 16 = -4 
+    4( -5) + 16 = -4   Multiply 4( -5)
+      -20  + 16 = -4   Add  -20 + 16
+             -4 =  -4   True!
 _________________________________________________________________
-ex. 2: bug travels 10 inches in 5 minutes.
- 1. rate: ___10___ / ___5___
- 2. reduce: ___2___ in/min ← Answer
+ex. 43:
+    4x + 16 = -4
+    4(3) + 16 = -4  Multiply 4(3)
+    12   + 16 = -4  Add  12 + 16
+          28  = -4   False!
+
+
+ ### Addition/Subtraction  Problems
 _________________________________________________________________
-ex. 3: 20 cans cost 20 cents each.
- 1. rate: ___20___ / ___1___
- 2. total cost: ___400___ cents ← Answer
+ex. 44:
+ x    +7    =   -5        The 7 is added to the x
+    __-7__    __-7__      Subtract 7 from both sides to get rid of it
+ --------------------
+ x          = __-12__     Our solution!
 _________________________________________________________________
-ex. 8: pool fills from 30,000 ft³ to 50,000 ft³ at 250 ft³/min.
- 1. equation:
-     ___50000___ = ___30000___ + ___250___t
- 2. solve:
-     t = ___80___ minutes ← Answer
+ex. 45a:
+    4    + x =    8                 
+ __-4__        __-4__                 
+ ---------------------
+           x =  __4__
+
+ex. 45b:                
+    7    =  x +    9                 
+ __-9__         __-9__                
+ ----------------------
+ __-2__  =  x                   
+
+ex. 45c:                
+    5    =    8   +  x
+ __-8__    __-8__
+ ----------------------
+ __-3__  =           x
 _________________________________________________________________
-##Averages
+ex. 46:
+ x   -5    =    4     The 5 is negative, or subtracted from x
+   __+5__    __+5__   Add 5 to both sides
+ -------------------
+ x         = __9__    Our Solution!
 _________________________________________________________________
-ex. 1: average of 2, 3, and 4
- 1. formula: ( ___2___ + ___3___ + ___4___ ) / ___3___
- 2. compute: ___3___ ← Answer
+ex. 47a:
+   -6    + x =   -2                   
+ __+6__        __+6__                   
+ ---------------------
+           x = __4__                     
+
+ex. 47b:
+  -10    = x   -7                  
+ __+7__      __+7__                
+ ------------------
+   -3    = x                    
+
+ex. 47c:
+    5    =   -8 + x
+ __+8__    __+8__
+ -------------------
+   13    =        x
+
+
+ ##Multiplication  Problems
 _________________________________________________________________
-ex. 2: average of x, 2x, 3x
- 1. sum: ___x___ + ___2x___ + ___3x___ = ___6x___
- 2. average: ___6x___ / ___3___ = ___2x___ ← Answer
+ex. 48:
+    4x   =  20
+
+    4x        20     Variable is multiplied by 4
+ ------- = ------ 
+  __4__     __4__    Divide both sides by 4
+
+    x    = __5__     Our solution!
 _________________________________________________________________
-ex. 6: quiz average problem
- 1. let x = ___score of missing quiz___
- 2. equation:
-     ( ___85___ + ___90___ + ___75___ + ___x___ ) / ___4___ = ___88___
- 3. solve:
-     x = ___102___ ← Answer
+ex. 49a:
+  -5x    =    30 
+
+  -5x         30       Variable is multiplied by -5
+ ------  =  ------
+ __-5__     __-5__     Divide both sides by -5
+
+  x   = -6    Our Solution!
+
+ex. 49b:
+    8x    =  -24
+
+    8x       -24                
+  ------- =  ------
+   __8__     __8__                  
+
+     x    =  __-3__                    
+    
+ex. 49c:
+   -4x   =    -20 
+
+   -4x        -20                 
+ ------  =  -------
+ __-4__      __-4__
+
+    x    =   __5__
+
+ex. 49d:
+    42      =   7x
+
+    42          7x
+   ------   =  -----
+   __7__       __7__
+
+   __6__    =    x
+
+
+## Division Problems:
 _________________________________________________________________
+ex. 50:
+  x
+ ---  = -3                Variable is divided by 5
+  5
+
+ (__5__)x
+ --------- = -3(__5__)    Multiply both sides by 5
+    5 
+
+    x      = __-15__      Our Solution!
+_________________________________________________________________
+ex. 51a:
+  x 
+ --- = -2                      
+ -7 
+
+ (__-7__)x                        
+ ----------  = -2( __-7__ )             
+  __-7__  
+
+     x       = __14__
+
+ex. 52b:                      
+  x   
+ --- = 5                   
+  8 
+
+  (__8__) x                      
+ ----------- = 5(__8__)
+     8 
+
+     x       = __40__
+
+ex. 52c
+
+  x  
+ ---- = 9
+  -4 
+
+ ( __-4__ )x 
+ ------------ = 9( __-4__ ) 
+     -4
+
+      x = __-36__
+
+
+## Two-Step       Equations
+_________________________________________________________________
+ex. 52:
+ 4x -20  = -8
+
+ 4x   -20    =   -8       Start by focusing on the subtract 20
+    __+20__    __+20__    Add 20 to both sides
+ ----------------------
+ 4x          =    12      Now  we focus on the 4 multiplied by x
+
+    4x             12
+ -------     =   ------
+  __4__          __4__     Divide both sides by 4
+
+    x        =   __3__  Our Solution!
+
+ Notice in our next example  when  we replace the x with 3  we get a true state-
+ ment.
+ 4(3) -20 = -8    Multiply 4(3)
+
+  12  -20 = -8    Subtract 12 -20
+  
+      -8  = -8    True!
+_________________________________________________________________
+ex. 53:
+ 5x    +7    =   7           Start by focusing on the plus 7
+     __-7__   __-7__         Subtract 7 from both sides
+ --------------------
+ 5x              0           Now  focus on the multiplication by 5
+
+   5x            0
+ ------      = -------
+ __5__          __5__        Divide both sides by 5
+
+   x         =  __0__        Our Solution!
+_________________________________________________________________
+ex. 54:
+    4    -2x =    10         Start by focusing on the positive 4
+ __-4__         __-4__       Subtract 4 from both sides
+ ----------------------
+         -2x     __6__       Negative (subtraction) stays on the 2x
+
+           -2x        6
+        -------  = ------    Divide by -2
+         __-2__    __-2__    
+
+           x     = __-3__    Our Solution!
+_________________________________________________________________
+ex. 55:
+    8    -x =     2          Start by focusing on the positive 8
+ __-8__        __-8__        Subtract 8 from both sides
+ ---------------------
+         -x =  __-6__        Negative (subtraction) stays on the x
+
+         -1x         -6      Remember,  no number in front of variable means 1
+        -----   = -------
+        __-1__     __-1__    Divide both sides by -1
+
+           x     =  __6__    Our Solution!
+_________________________________________________________________
+ex. 56a:
+ -3x    +7    =   -8                 
+      __-7__    __-7__ 
+ ---------------------                 
+ -3x              -15                      
+  
+     -3x           15
+   ------    =   ------
+   __-3__        __-3__
+
+      x      =   __5__
+
+ex. 56b:                        
+   -2    + 9x =     7                   
+ __+2__          __+2__   
+ ----------------------             
+           9x       9                 
+
+           9x       9
+          -----  = -----
+          __9__    __9__                 
+
+            x    = __1__
+
+ex. 56c:
+
+     8     = 2x  +    10
+ __-10__           __-10__
+ --------------------------
+    -2       2x
+
+    -2         2x
+   -----  = ------
+   __2__     __2__
+
+   __-1__ = x
+
+ex. 56d:   
+    7    -5x  =    17               
+ __-7__          __-7__                 
+ ----------------------                                
+         -5x =   __10__
+
+         -5x      __10__
+        -----  =  -------                   
+        __-5__    __-5__                     
+
+           x   =  __-2__                      
+
+ex. 56e:
+   -5   -3x  =    -5           
+ __+5__         __+5__           
+ ----------------------                         
+        -3x        0            
+
+        -3x        0
+      ------ =   ---
+      __-3__    __-3__
+
+         x   = __0__
+
+ 
+## General      Equations
+_________________________________________________________________
+ex. 57:
+ 4(2x -6) = 16   Distribute 4 through parenthesis
+
+   __8__x  - __24__  =    16      Focus on the subtraction first
+             __+24__   __+24__    Add 24 to both sides
+   ---------------------------
+     8x                 __40__    Now focus on the multiply by 8
+
+     8x                   40
+   -------           =  -------
+   __8__                 __8__    Divide both sides by 8
+
+     x               =   __5__    Our Solution!
+_________________________________________________________________
+ex. 58:
+   3(2x -4) + 9 =  15              Distribute the 3 through the parenthesis
+
+   __6__x - __12__ + 9 =   15      Combine  like terms, -12 + 9
+
+     6x - __3__        =   15      Focus on the subtraction  rst
+
+     6x -   3
+         __+3__          __+3__    Add  3 to both sides
+    ----------------------------
+     6x                    18      Now  focus on multiply by 6
+
+      6x                   18
+    -------    =         ------
+     __6__                __6__    Divide both sides by 6
+
+      x        =          __3__    Our Solution
+_________________________________________________________________
+ex. 59:
+   4x -6 = 2x + 10   Notice the variable on both sides
+  -2x     -2x          Subtract 2x from both sides
+  -----------------
+   2x -6  =     10       Focus on the subtraction  rst
+      +6        +6       Add 6 to both sides
+  ----------------
+   2x     =    16       Focus on the multiplication by 2
+  ----        ---- 
+    2           2       Divide both sides by 2
+        x = 8           Our Solution!
+_________________________________________________________________
+ex. 60:
+ 4(8) -6 = 2(8) + 10  Multiply 4(8) and 2(8)  first
+
+   32 -6 = 16 + 10    Add and Subtract
+
+      26 = 26        True!
+_________________________________________________________________
+ex. 61:
+     -3x  + 9    =     6x    -27     Notice the variable on both sides, -3x is smaller
+   __+3x__          __+3x__          Add 3x to both sides
+   ------------------------------
+            9    =     9x    -27     Focus on the subtraction by 27
+
+            9    =     9x    -27
+         __+27__           __+27__   Add 27 to both sides
+       ----------------------------
+            36         9x            Focus on the mutiplication by 9
+
+            36         9x
+           ------- = -------
+           __9__      __9__          Divide both sides by 9
+
+           __4__   = x      Our Solution
+_________________________________________________________________
+ex. 62:
+  2(x -5) + 3x = x + 18               Distribute the 2 through parenthesis
+
+  __2__x - __10__ + 3x =    x + 18      Combine like terms 2x + 3x
+
+  __5__x -   10        =    x + 18      Notice the variable is on both sides
+    __-x__               __-x__         Subtract x from both sides
+  --------------------------------
+  __4__x -   10        =      18        Focus on the subtraction of 10
+          __+10__          __+10__      Add 10 to both sides
+  ---------------------------------
+    4x                        28        Focus on multiplication by 4
+
+    4x                        28
+   ------               =   -------
+   __4__                     __4__      Divide both sides by 4
+
+     x                  =    __7__      Our Solution
+_________________________________________________________________
+ex. 63:
+  3(4x -5) -4(2x + 1) =  5                          Distribute 3 and -4 through parenthesis
+
+  __12__x - __15__ - __8__x - __4__  =     5        Combine like terms 12x -8x and -15 -4
+
+  __4__x - __19__                    =     5        Focus on subtraction of 19
+
+    4x   -   19 
+           __+19__                      __+19__     Add 19 to both sides
+ -----------------------------------------------
+    4x                               =  __24__      Focus on multiplication by 4
+
+    4x                                   24
+   ------                            = --------
+   __4__                                __4__       Divide both sides by 4
+
+     x                               =  __6__       Our Solution

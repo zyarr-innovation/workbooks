@@ -39,7 +39,7 @@ export class ProblemParserService {
       const trimmedLine = line.trim();
 
       // Skip horizontal separators or completely empty lines
-      if (!trimmedLine || trimmedLine.startsWith('____')) continue;
+      if (trimmedLine.startsWith('____')) continue;
 
       // 2. Identify Headings (e.g., # Header)
       if (trimmedLine.startsWith('#')) {

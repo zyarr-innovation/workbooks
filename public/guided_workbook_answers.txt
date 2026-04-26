@@ -337,7 +337,7 @@ ex. 3: a number increased by twice itself is 30
  “twice itself” becomes __2__ __x__
  “is 30” becomes = __30__
   __x__ + __2__ __x__ = __30__ ← equation
-  x = __10/__ ← Answer
+  x = __10__ ← Answer
 _________________________________________________________________
 ex. 4: twice the sum of x and 4 is 5 times x
  “sum of x and 4” → __x__ + __4__
@@ -482,4 +482,57 @@ ex. 7: the sum of three consecutive integers is 72
  4. sum equation: __x__ + ( __x__ + __1__ ) + ( __x__ + __2__ ) = __72__
  5. simplify: __3__ __x__ + __3__ = __72__
  6. solve: __x__ = __23__ ← Answer
+_________________________________________________________________
+
+
+_________________________________________________________________
+## Additional Keyword Variations
+_________________________________________________________________
+Ex. 1: 5 added to x
+Write the variable first → __x__
+"Added to" means addition (+)
+Write the number → __5__
+__x__ + __5__ ← Answer
+_________________________________________________________________
+Ex. 2: 3 more than y
+Note: "More than" reverses order
+Write the variable first → __y__
+Add the number → __3__
+__y__ + __3__ ← Answer
+_________________________________________________________________
+Ex. 3: product of 5 and x increased by 2
+Translate product → __5__ __x__
+"Increased by 2" → + __2__
+__5x__ + __2__ ← Answer
+_________________________________________________________________
+## Multiplication Keywords
+_________________________________________________________________
+Ex. 1: 5 times x
+"Times" means multiplication
+__5x__ ← Answer
+_________________________________________________________________
+Ex. 2: twice the sum of x and y
+Sum → (__x__ + __y__)
+Twice → 2(__x__ + __y__)
+__2__(__x__ + __y__) ← Answer
+_________________________________________________________________
+## Division Keywords
+_________________________________________________________________
+Ex. 1: x per y
+"Per" means division
+__x__ / __y__ ← Answer
+_________________________________________________________________
+Ex. 2: a divided among b
+"Divided among" means division
+__a__ / __b__ ← Answer
+_________________________________________________________________
+## Order Clarification
+_________________________________________________________________
+Ex. 1: 7 less than x
+Note: reverse order
+__x__ − __7__ ← Answer
+_________________________________________________________________
+Ex. 2: 4 subtracted from p
+Note: reverse order
+__p__ − __4__ ← Answer
 _________________________________________________________________
