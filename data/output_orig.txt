@@ -1,0 +1,2266 @@
+                 Example    1.
+                                 -5 +  (-3)    Same  sign,add 5 + 3,keep the negative
+                                         -8    Our  Solution
+
+                 Example    2.
+                                                     sign,        5,
+                                 -7 +  (-5)    Same       add 7 +   keep the negative
+                                        -12    Our  Solution
+
+                 Example    3.
+                    -7  + 2   Different  signs, subtract 7-2,  usesign from bigger number,  negative
+                         -5    Our  Solution
+
+                 Example    4.
+                    -4  + 6    Di erent signs,subtract 6 -4, use signfrom bigger number,  positive
+                          2    Our Solution
+                                                            7
+                 Example    5.
+                   4 + (-3)     Di erent signs,subtract 4 -3, use signfrom bigger number,  positive
+                            1   Our Solution
+
+                 Example    6.
+                  7+  (-10)     Di erent signs,subtract 10 -7, use signfrom bigger number,  negative
+                         -3     Our Solution
+
+                 Example    7.
+                        8-3     Add  theopposite of3
+                   8 + (-3)     Di erent signs,subtract 8 -3, use signfrom bigger number,  positive
+                            5   Our Solution
+                 Example    8.
+                                     -4  -6    Add  the opposite of6
+                                 -4 +  (-6)    Same  sign,add 4 + 6,keep the negative
+                                        -10    Our  Solution
+                 Example    9.
+                                  9-(  -4)     Add the opposite of-4
+                                      9 + 4    Same sign, add 9+ 4, keep thepositive
+                                         13    Our Solution
+                 Example    10.
+                  -6  -(  -2)    Add  the oppositeof -2
+                       -6  + 2   Di erent  sign,subtract 6-2,  usesign from bigger number, negative
+                           -4    Our  Solution
+                                                            8
+                 Example    11.
+                                  (4)( -6)    Signs do not match, answer isnegative
+                                      -24     Our  Solution
+                 Example    12.
+                                        -36
+                                        ---
+                                         -9     Signs match, answer  ipositive
+                                            4   Our Solution
+                 Example    13.
+                                      -2( -6)     Signs match, answer ispositive
+                                             12   Our Solution
+                 Example    14.
+                                      15
+                                      ---
+                                     -3     Signs donot match,  answer isnegative
+                                     -5     Our Solution
+
+                 21.
+                                                            9
+                                         0.1   Practice       - Integers
+                 Evaluate   each  expression.
+                 1)1 -3                                      2) 4 -( -1)
+                 3)( -6) -(  -8)                             4) (-6)  + 8
+                 5)( -3) -3                                  6) (-8)  -(  -3)
+                 7)3 -(  -5)                                 8) 7 -7
+                 9)( -7) -(  -5)                             10) (-4)  + ( -1)
+                 11) 3-(  -1)                                12)  (-1)  + (-6)
+                 13) 6-3                                     14) (-8)  + ( -1)
+                 15) (-5)  + 3                               16) (-1)  -8
+                 17) 2-3                                     18) 5 -7
+                 19) (-8)  -( -5)                            20) (-5)  + 7
+                 21) (-2)  + (-5)                            22) 1 + (-1)
+                 23) 5-(  -6)                                24) 8 -( -1)
+                 25) (-6)  + 3                               26) (-3)  + ( -1)
+                 27) 4-7                                     28) 7 -3
+                 29) (-7)  + 7                               30) (-3)  + ( -5)
+                 Find  each  product.
+                 31) (4)(-1)                                 32) (7)(-5)
+                 33) (10)(-8)                                34) (-7)(  -2)
+                 35) (-4)(  -2)                              36) (-6)(  -1)
+                 37) (-7)(8)                                 38) (6)(-1)
+                 39) (9)(-4)                                 40) (-9)(  -7)
+                 41) (-5)(2)                                 42) (-2)(  -2)
+                 43) (-5)(4)                                 44) (-3)(  -9)
+                                                           10
+                 45) (4)(-6)
+                 Find  each  quotient.
+                 46)  30                                     47) -49
+                     -10                                          -7
+                 48) -12                                         -2
+                     -4                                      49) -1
+                     30                                          20
+                 50) 6                                       51) 10
+                     27                                          -35
+                 52) 3                                       53)
+                                                                  -5
+                     80
+                 54) -8                                      55) -8
+                                                                 -2
+                     50
+                 56) 5                                       57) -16
+                                                                   2
+                     48
+                 58) 8                                       59)  60
+                                                                 -10
+                     54
+                 60) -6
+                                                           11
+                 0.2
+
+                 Example    15.
+                                  36
+                                  --
+                                  84     Both  numerator  and denominator  are divisibleby 4
+                                  
+                        36 ÷ 4    9
+                        ------    =       Both  numerator  and denominator  are stildivisibleby 3
+                        84 ÷ 4    21
+                                                           12
+                          9 ÷ 3    3
+                                =      Our  Soultion
+                          21 ÷  3   7
+
+                 Example    16.
+                             6 *3
+                             7  5    Multiply numerators  across and denominators  across
+                               18
+                               35    Our Solution
+
+                 Example    17.
+                     25 *32                                   5.
+                     24  55    Reduce 25 and 55 by dividing by   Reduce  32and 24 by dividing by 8
+                      5 *4
+                      3  11    Multiply numerators  acrossand  denominators  across
+                         20
+                         33    Our Solution
+
+                                                           13
+                 Example    18.
+                     21 ÷ 28    Multiply by the reciprocal
+                     16    6
+                      21 *6     Reduce  21and  28by dividing by 7.Reduce  6and 16 by dividing by 2
+                      16  28
+                        3 *3    Multiply numerators  across and denominators  across
+                        8  4
+                           9    Our Soultion
+                          32
+
+
+                 Example    19.
+                                Find the LCD  of 8and 12    Test multiplesof 12
+                                                      12    Can′t
+                                                  12?  8          divide12 by 8
+                                                  24
+                                              24?    =  3   Yes!We  can divide 24by 8!
+                                                   8
+                                                      24    Our Soultion
+
+                 Example    20.
+                                  7    3
+                                    +      Same  denominator,  add numerators  7 + 3
+                                  8    8
+                                     10
+                                           Reduce  answer, dividing by 2
+                                      8
+                                       5
+                                           Our  Solution
+                                       4
+
+                 Example    21.
+                               13 -9     Same  denominator,  subtractnumerators  13 -9
+                               6    6
+                                    4    Reduce  answer, dividingby 2
+                                    6
+                                    2    Our Solution
+                                    3
+
+                 Example    22.
+                                   5   4
+                                     +      LCD  is18.
+                                   6   9
+                             3 *5   4 *2
+                                  +         Multiply  rstfraction by 3and the second by 2
+                             3 *6   9 *2
+                                15     8
+                                   +        Same  denominator, add  numerators, 15 + 8
+                                18    18
+                                      23
+                                            Our Solution
+                                      18
+                 Example    23.
+                      2 -1
+                               LCD  is6
+                      3   6
+                   2 *2 -1
+                               Multiply  rst fractionby 2,the second already has adenominator  of 6
+                   2 *3   6
+                      4 -1
+                               Same  denominator,  subtract numerators, 4 -1
+                      6   6
+                          3
+                               Reduce  answer, dividingby 3
+                          6
+                          1
+                               Our Solution
+                          2
+                                                           15
+                                        0.2   Practice       - Fractions
+                 Simplify  each.  Leave   your  answer   as an  improper    fraction.
+                 1) 42                                       2) 25
+                    12                                          20
+                    35                                          24
+                 3) 25                                       4)  9
+                    54                                          30
+                 5) 36                                       6) 24
+                    45                                          36
+                 7) 36                                       8) 27
+                    27                                           48
+                 9)                                          10)
+                    18                                           18
+                 11) 40                                      12) 48
+                     16                                          42
+                 13) 63                                      14) 16
+                     18                                          12
+                 15) 80                                      16) 72
+                     60                                          48
+                 17) 72                                      18) 126
+                     60                                          108
+                 19) 36                                      20) 160
+                     24                                          140
+                 Find  each  product.
+                         8                                              -5
+                 21) (9)(9)                                  22) (-2)(     6)
+                         -2                                             1
+                 23) (2)(  9)                                24) (-2)(  3)
+                           13                                     3  1
+                 25) (-2)(   )                               26) (2)(2)
+                            8
+                 27) (-65)( -11 )                            28) (-3 7)(-11  )
+                               8                                           8
+                 29) (8)(2)                                  30) (-2)(  -9 7)
+                 31) (3)(4)                                  32) (-17  )(-3 5)
+                                                                     9
+                 33 (2)(2)                                   34) (17)(-3 5)
+                                                                   9
+                 35) (2)(-7 5)                               36) (2)(7)
+                                                           16
+                 Find  each  quotient.
+                 37) -2  ÷ 7                                 38) -12 ÷  -9
+                           4                                       7     5
+                 39) -1 ÷ -1                                 40)  -2 ÷  -3
+                      9    2                                             2
+                     -3   13                                     5   7
+                 41)  2 ÷  7                                 42) 3 ÷ 5
+                 43) -1  ÷ 2                                 44) 10 ÷ -6
+                           3                                      9
+                 45) 8÷  1                                   46) 1 ÷ -5
+                     9   5                                       6    3
+                 47) -9 ÷ 1                                  48) -13 ÷  -15
+                      7   5                                        8     8
+                 49) -2 ÷ -3                                 50) -4 ÷  -13
+                      9    2                                      5     8
+                     1    3                                      5   5
+                 51) 10÷  2                                  52) 3 ÷ 3
+                 Evaluate   each  expression.
+                 53) 1+  (-43)                               54) 1 + (-11  )
+                     3                                           7       7
+                 55) 3-1                                     56) 1 + 5
+                     7   7                                       3   3
+                 57) 11+  7                                  58) (-2)  + ( -15 )
+                     6    6                                                   8
+                 59) 3+  5                                   60) (-1)  -2
+                     5   4                                                3
+                     2   5                                       12 -9
+                 61) 5+  4                                   62)  7   7
+                 63) 9+  (-27)                               64) (-2)  +  5
+                     8                                                    6
+                                                                 1 -11
+                 65) 1+ ( -13)                               66)
+                                                                 2    6
+                      -1     3                               68) 11 -1
+                 67) (  2) + 2                                    8   2
+                 69) 1+  3                                   70) 6 -8
+                     5   4                                       5   5
+                      -5   -15                                    -1       -8
+                 71) (  7)                                   72) (   3)+  (  5)
+                              8
+                 73) 6-8                                     74) (-6)  + ( -53)
+                         7
+                 75) 3-15                                    76) (-1)  -(  -13)
+                     2   8
+                      -15     5                              78) 3 + 9
+                 77) (   8) + 3                                  2   7
+                 79) (-1)  -( -1 6)                          80) (-1 2)-(  -35)
+                     5    -1                                     9    -5
+                 81) 3-(    3)                               82) 7 -(    3)
+                                                           17
+
+                 Example    24.
+                                     2+ 5 *3  Add  First        2+ 5 *3  Multiply
+                                      7 *3    Multiply          2 + 15     Add
+                                       21     Solution            17     Solution
+
+                                               Order   ofOperations:
+                                             Parenthesis    (Grouping)
+                                                     Exponents
+                                      Multiply   and  Divide   (Left to  Right)
+                                       Add   and  Subtract   (Left  to Right)
+
+                 Example    25.
+                                           2 + 3(9 -4)2    Parenthesis  rst
+                                               2 + 3(5)2   Exponents
+                                               2+ 3(25)    Multiply
+                                                  2+ 75    Add
+                                                     77    Our Solution
+                 Itisvery  important  to remember   tomultiply  and divide from  from left toright!
+                 Example    26.
+                                         30÷  3*2   Divide   rst(lefttoright!)
+                                            10 *2   Multiply
+                                               20   Our  Solution
+                 Example    27.
+                     2{82        -4(32                            parenthesis,
+                          -7[32        ̃ + 1)](-1)}     Innermost              exponents   rst
+                      2{82
+                           -7[32  -4(9  + 1)](-1)}     Add inside thoseparenthesis
+                         2{82 -7[32-4(10)](   -1)}     Multiply insideinner most parenthesis
+                            2{82 -7[32 -40](  -1)}     Subtract insidethose parenthesis
+                               2{82 -7[  -8]( -1)}     Exponents  next
+                                   ̃
+                               2{64-7[   -8]( -1)}     Multiply lefttoright,signwith the number
+                                   2{64 + 56( -1)}     Finishmultiplying
+                                         2{64 -56}     Subtract insideparenthesis
+                                               2{8}    Multiply
+                                                 16    Our Solution
+                 Example    28.
+                     24 ̃
+                       -(  -8)  *3
+                      15 ÷ 5 -1      Exponent  in thenumerator,  divide indenominator
+                     16-(  -8)  *3   Multiply in thenumerator,  subtract indenominator
+                         3-1
+                      16 -( -24)     Add  theopposite to simplifynumerator,  denominator  isdone.
+                           2
+                               40
+                                     Reduce,  divide
+                                2
+                                20   Our  Solution
+
+                 Example    29.
+                    1 + 3|-42  -( -8)|  + 2|3+  (-5)2|    Evaluate absolute values  rst,exponents
+                              ̃
+                        1 + 3|-16  -( -8)|  + 2|3+  25|   Add  insideabsolute values
+                                     1 + 3|-8|  + 2|28|   Evaluate absolute values
+                                       1+  3(8)+ 2(28)    Multiply lefttoright
+                                         1+ 24 + 2(28)    Finish multiplying
+                                            1+ 24 + 56    Add  lefto right
+                                               25 + 56    Add
+                                                    81    Our Solution
+
+                 Solve.
+                 1) -6  *4(-1)                               2) (-6  ÷ 6)3
+                 3)3 + (8) ÷ |4|                             4) 5(-5  + 6) *62
+                 5)8 ÷ 4 *2                                  6) 7 -5 +  6
+                 7)[-9  -(2  -5)] ÷  (-6)
+                                                             8) (-2  *23 *2)÷ ( -4)
+                                           
+                 9) -6  + (-3  -3)2  ÷                       10) (-7  -5)  ÷ [-2  -2  -( -6)]
+                            32     
+                 11) 4-2     -16
+                                                             12) -10-6  -5
+                                                                  (-2)2
+                 13) [-1 -(  -5)]|3 + 2|
+                                                             14)  -3 -{3  -[  -3(2  + 4)-(  -2)]}
+                          7 22  
+                 15) 2+ 4 +                                                                22       
+                      4*2+5*3                        )       16)  -4 -[2  + 4(-6)  -4  -     -5 *2
+                 17) [6*2+  2-(  -6)]( -5  +  -18
+                                               6             18) 2 *(-3)  + 3 -6[ -2  -( -1  -3)]
+                 19)          -13-2
+                     2-( -1)3+(-6) -[-1 -(-3)]               20)  -52+ (-5)2
+                                                                 |42-25|-2*3
+                 21) 6*-8 -4 + (-4)-[-4 -( -3)]
+                              (42+32)÷ 5                     22)    -9*2-(3 -6)
+                                                                 1-( -2 +1)-( -3)
+                                2+ 4
+                 23) -18-6 + (-4)-[-5( -1)(-5)]                       -3)2
+                                                             24) 13+ (    + 4-3) +1 -[-10-( -6)]
+                          32                                        {[+ 5÷ [4-32(4-3) -8]}+12
+                 25)    5+  -24÷   22
+                     [+ 3(2-5)]+   -5|2
+                                                           21
+
+                 Example    30.
+                             p(q           p         q               p            q
+                                 + 6)when    = 3and   = 5    Replace   with 3and   with 5
+                                             (3)((5) + 6)    Evaluate parenthesis
+                                                 (3)(11)     Multiply
+                                                       33    Our Solution
+
+                 Example    31.
+                                 x  
+                  x + zx(3 -z)       when  x=  -6 and  z= -2     Replace allx′s with 6and z ′swith 2
+                                  3                 (        
+                                                       -6)
+                   (-6)  + (-2)(  -6)(3  -(  -2))       3        Evaluate parenthesis
+                                  -6  + ( -2)(  -6)(5)(   -2)    Multiply lefttoright
+                                            -6  + 12(5)(  -2)    Multiply lefttoright
+                                               -6 +  60( -2)     Multiply
+                                                   -6  -120      Subtract
+                                                        -126     Our Solution
+                                                           22
+
+                 Example    32.
+                            5x -2y  -8x  + 7y    Combine  liketerms 5x -8x  and  -2y  + 7y
+                                    -3x  + 5y    Our Solution
+                 Example    33.
+                 8x2 -3x  +  7-2x2  + 4x -3     Combine  liketerms 8x2 -2x2  and -3x  +  4x and 7-3
+                                  6x2+  x+  4   Our Solution
+
+                 Example    34.
+                                         4(2x -7)     Multiply each term by 4
+                                           8x -28     Our Solution
+                 Example    35.
+                                       -7(5x  -6)     Multiply each term by -7
+                                         -35  + 42    Our Solution
+
+
+                 Example    36.
+                                  -(4x  -5y  + 6)    Negative can be thought ofas -1
+                                 -1(4x  -5y  + 6)    Multiply each term by -1
+                                    -4x  + 5y -6     Our Solution
+
+                 Example    37.
+                                  5 + 3(2x -4)    Distribute 3,multipling each term
+                                    5+  6x -12    Combine   liketerms 5-12
+                                       -7  + 6x   Our  Solution
+                 Example    38.
+                                3x -2(4x  -5)    Distribute -2,  multilpying each term
+                                  3x -8x  + 10   Combine   liketerms 3x -8x
+                                     -5x  + 10   Our  Solution
+
+                 Example    39.
+                     2(5x -8)  -6(4x  + 3)   Distribute 2 into rstparenthesis and -6  into second
+                      10x -16  -24x  -18     Combine   liketerms 10x -24x  and -16  -18
+                               -14x  -34     Our  Solution
+                 Example    40.
+                     4(3x -8)  -(2x  -7)     Negative (subtract) inmiddle can be thought  ofas-1
+                    4(3x -8)  -1(2x  -7)     Distribute 4into  rstparenthesis,-1  into second
+                        12x      -2x                            12x -2x
+                            -32       +  7   Combine  liketerms           and -32  + 7
+                                 10x -25     Our Solution
+                                                           24
+                              0.4   Practice       - Properties        of  Algebra
+                 Evaluate   each  using  the values   given.
+                 1) p+ 1 + q -m;  use m = 1, p=  3,q=  4     2) y2 + y -z; use y=  5,z=  1
+                 3) p-pq  ;usep = 6 and q = 5                4) 6+ z-y ;use y=  1,z=  4
+                        6                                          3
+                 5)c2 -(a  -1); use a= 3 and c = 5           6) x + 6z -4y;  usex = 6,y = 4, z= 4
+                         kh
+                 7)5j +  2 ;use h=  5,j=  4,k = 2            8) 5(b+  a)+ 1 + c;use a = 2,b=  6,c= 5
+                    4-(p-m)                                            -(12)3;
+                 9)    2     + q;use m =  4,p=  6,q = 6      10) z + x         usex = 5, z= 4
+                 11) m + n + m  + 2;use m  = 1and  n=  2     12) 3 + z -1 +  y-1;  use y= 5, z= 4
+                 13) q-p  -(q  -1  -3); use p = 3,q = 6
+                 14) p+  (q-r)(6  -p); use p = 6,q = 5,r = 5
+                 15) y-[4  -y  -(z  -x)]; use x = 3,y = 1,z = 6
+                 16) 4z-(x  +  x-(z  -z)); use x = 3,z = 2
+                 17) k*  32-(j  + k) -5; use j=  4,k=  5     18) a3(c2-c);  usea = 3,c = 2
+                 19) zx -(z -4  + x);use x= 2, z= 6
+                                6                            20) 5 + qp + pq -q;  usep = 6, q= 3
+                 Combine    Like  Terms
+                 21) r-9  + 10                               22)  -4x  + 2-4
+                 23) n+  n                                   24) 4b + 6+  1+ 7b
+                 25) 8v+  7v                                 26)  -x +  8x
+                 27) -7x  -2x                                28)  -7a  -6 +  5
+                 29) k-2  + 7                                30)  -8p  + 5p
+                 31) x-10  -6x   + 1                         32) 1 -10n  -10
+                 33) m -2m                                   34) 1 -r -6
+                 35) 9n -1 +  n+  4                          36)  -4b +  9b
+                                                           25
+                 Distribute
+                 37) -8(x  -4)                               38) 3(8v + 9)
+                 39) 8n(n + 9)                               40)  -( -5  + 9a)
+                 41) 7k(-k  +  6)                            42) 10x(1 + 2x)
+                 43) -6(1  + 6x)                             44)  -2(n  + 1)
+                 45) 8m(5 -m)                                46)  -2p(9p  -1)
+                 47) -9x(4  -x)                              48) 4(8n -2)
+                 49) -9b(b  -10)                             50)  -4(1 +  7r)
+                 51) -8n(5  +  10n)                          52) 2x(8x -10)
+                 Simplify.
+                 53) 9(b+ 10) + 5b                           54) 4v -7(1  -8v)
+                 55) -3x(1  -4x)  -4x2                       56)  -8x  + 9(-9x   + 9)
+                     -4k2
+                 57)       -8k  (8k + 1)                     58)  -9 -10(1  +  9a)
+                 59) 1-7(5  + 7p)                            60)  -10(x  -2)  -3
+                 61) -10  -4(n  -5)                          62)  -6(5 -m)   + 3m
+                 63) 4(x+  7)+ 8(x + 4)                      64)  -2r(1  + 4r)+  8r(-r  + 4)
+                 65) -8(n  + 6) -8n(n  +  8)                 66) 9(6b + 5)-4b(b  + 3)
+                 67) 7(7+ 3v) + 10(3 -10v)                   68)  -7(4x  -6)  + 2(10x -10)
+                 69) 2n(-10n   + 5) -7(6 -10n)               70)  -3(4 +  a)+ 6a(9a +  10)
+                 71) 5(1-6k)  + 10(k  -8)                    72)  -7(4x  + 3)-10(10x   + 10)
+                 73) (8n2-3n)  -(5  + 4n2)                   74) (7x2 -3)  -(5x2 +  6x)
+                 75) (5p-6)  + (1 -p)                        76) (3x2 -x)  -(7 -8x)
+                 77) (2-4v2)  + (3v2 + 2v)                   78) (2b -8) +  (b-7b2)
+                       -2k2)       -2k2)                         (7a2       -(6a2
+                 79) (4       + (8                           80)      + 7a)       +  4a)
+                 81) (x2-8)  + (2x2 -7)                      82) (3 -7n2)  + (6n2 + 3)
+                                                           26
+
+                 Example    41.
+                                                    4x + 16 = -4
+
+                 Example    42.
+                                         4(-5)  + 16 = -4    Multiply  4(-5)
+                                           -20  + 16 = -4    Add  -20  + 16
+                                                 -4  = -4    True!
+                 Now  the  equation  comes  out  to a  true statement!   Notice also  that if another
+                 number,  for example,  3, was  plugged  in, we  would  not get  a true statement  as
+                 seen inExample   3.
+                 Example    43.
+                                           4(3) + 16 = -4    Multiply  4(3)
+                                             12 + 16 = -4    Add  12 + 16
+                                                  28   -4    False!
+                 Example    44.
+                                x + 7 = -5    The  7isadded  tothe x
+                                 -7    -7     Subtract  7from both  sidestoget ridofit
+                                   x = -12    Our  solution!
+
+                 Example    45.
+                           4+ x = 8                     7=  x+  9                   5 = 8 + x
+                         -4     -4                   -9      -9                   -8   -8
+                              x = 4                   -2  = x                     -3  = x
+                                              Table 1.
+
+                 Example    46.
+                                  x -5  = 4   The  5isnegative, orsubtracted from  x
+                                   + 5 +  5   Add  5 toboth sides
+                                      x = 9   Our  Solution!
+
+
+                 Example    47.
+                     -6 +  x=  -2                      -10  = x -7                     5=  -8 +  x
+                    +  6      + 6                       + 7    + 7                  +  8  + 8
+                           x=  4                        -3  = x                       13=  x
+
+                 Example    48.
+                                          4x = 20   Variable ismultiplied by 4
+                                          4    4    Divide both  sidesby 4
+                                            x = 5   Our  solution!
+
+                 Example    49.
+                                      -5x   =  30   Variable ismultiplied by -5
+                                       -5    -5     Divide both  sidesby -5
+                                          x = -6    Our  Solution!
+
+                 Example    50.
+                                                           30
+                          8x = -24                    -4x  = -20                   42  = 7x
+                           8      8                    -4     -4                    7     7
+                          x = -3                        x = 5                        6 = x
+
+                 Example    51.
+                                          x = -3        Variable isdivided by 5
+                                          5
+                                      (5)x
+                                          5 = -3(5)     Multiply both  sidesby 5
+                                           x
+                                            = -15       Our  Solution!
+
+                 Example    52.
+                         x  = -2                         x = 5                        x  = 9
+                         -x                              8x                          -4x
+                   (-7)   -7 = -2(  -7)               (8) 8=  5(8)              (-4)  -4 =  9(-4)
+                          x = 14                         x = 40                        x = -36
+
+                         1.1    Practice          -  One       Step      Equations
+                 Solve  each  equation.
+                 1)v +  9= 16                                2) 14 = b+  3
+                   x
+                 3)  -11  = -16                              4) -14  =  x-18
+                 5)30 = a +  20                              6) -1  +  k=  5
+                 7)x -7  = -26                               8) -13  +  p= -19
+                        n
+                 9)13 =   -5                                 10) 22 = 16 + m
+                 11) 340 = -17x                              12) 4r = -28
+                            n
+                 13) -9  =                                   14) 5 = b
+                           12                                    9   9
+                 15) 20v = -160                              16)  -20x  = -80
+                 17) 340 = 20n
+                                                             18) 1 = a
+                                                                 2   8
+                 19) 16x = 320
+                                                             20)  k = -16
+                            n                                    13
+                 21) -16  +   = -13
+                                                             22) 21 = x + 5
+                 23) p -8 =  -21
+                                                                 m
+                                                             24)    -4 =  -13
+                 25) 180 = 12x
+                                                             26) 3n = 24
+                 27) 20b=  -200
+                                                             28)  -17 =  x
+                 29) r =  5                                              12
+                     14   14
+                                                             30) n + 8 = 10
+                 31) -7  = a + 4
+                                                             32) v -16  = -30
+                 33) 10=  x-4
+                                                             34)  -15 =  x -16
+                 35) 13a = -143
+                                                             36)  -8k  = 120
+                 37) p = -12
+                     20                                      38)  -15 =  x
+                                                                         9
+                 39) 9+ m  = -7
+                                                             40)  -19 =  n
+                                                                         20
+                 Example    53.
+                                                   4x -20  = -8
+                                 4x -20  =  -8    Start by focusingon the subtract 20
+                                    + 20  + 20    Add  20 toboth sides
+                                  4x      =  12   Now  we focus on the4 multiplied by x
+                                   4         4    Divide both sides by 4
+                                          x = 3   Our  Solution!
+
+                                          4(3)-20  = -8     Multiply 4(3)
+                                           12 -20  = -8     Subtract 12 -20
+                                               -8  = -8     True!
+                                                           33
+
+                 Example    54.
+                                  5x+  7=   7    Startby focusing on the plus7
+                                    -7    -7     Subtract 7 from both sides
+                                   5x    =  0    Now  focuson the multiplication by5
+                                    5      5     Divide both sidesby 5
+                                      x =   0    Our Solution!
+
+                 Example    55.
+                                   4-2x  = 10    Start byfocusing on the positive4
+                                -4        -4     Subtract 4 from both sides
+                                    -2x   =  6   Negative (subtraction) stays on the2x
+                                    -2    -2     Divide by -2
+                                      x = -3     Our Solution!
+
+                 Example    56.
+                              8-x  = 2    Startby focusing on the positive8
+                           -8      -8     Subtract 8 from both sides
+                             -x  = -6     Negative (subtraction) stayson the x
+                            -1x  = -6     Remember,   no number  infront ofvariablemeans  1
+                                                           34
+                             -1    -1     Divide both sidesby -1
+                                  x= 6    Our Solution!
+                 Solving  two-step  equations  is a very  important   skill to master,  as  we  study
+                 algebra. The   rst step is to add or subtract,  the second  isto multiply  or divide.
+                 This pattern is seen ineach  ofthe following examples.
+                 Example    57.
+                    -3x  + 7 = -8                    -2 +  9x=  7                     8 = 2x + 10
+                         -7   -7                     + 2     +  2                  -10      -10
+                       -3x  = -15                         9x =  9                   -2  = 2x
+                        -3     -3                         9    9                     2    2
+                          x = 5                            x = 1                   -1  = x
+                      7-5x  =  17                  -5 -3x   = -5                   -3  = x -4
+                   -7        -7                   +  5       + 5                         5
+                                                                                   + 4    +  4
+                       -5x  = 10                      -3x   = 0                    (5)(1)=  5(5)
+                        -5   -5                        -3   -3
+                          x                               x                           5 = x
+                           =  -2                           = 0
+
+                 Example    58.
+                                         1     1   1       √
+                 3x2 + 4 -x  + 6            +    =           5x -5  + 1 = x       log5(2x -4) =  1
+                                       x-8     x   3
+
+                         1.2     Practice          -  Two-Step            Problems
+                 Solve  each  equation.
+                       n                                     2) -2  = -2m   + 12
+                 1)5 +  4= 4
+                 3)102 =  -7r  + 4                           4) 27 = 21 -3x
+                 5) -8n  + 3 = -77                           6) -4  -b  = 8
+                 7)0 = -6v                                   8) -2  +  x= 4
+                                                                       2
+                 9) -8  = x -6                                          a
+                          5                                  10)  -5 =  4-1
+                               k
+                 11) 0=  -7 +                                12)  -6 =  15+  3p
+                               2
+                 13) -12  + 3x = 0
+                                                             14)  -5m  +  2=  27
+                 15) 24=  2n -8                              16)  -37 =  8+  3x
+                 17) 2= -12  +  2r                                      n
+                                                             18)  -8 +    = -7
+                                                                        12
+                 19) b+  7= 10                               20) x -8  = -8
+                     3                                           1
+                           8n
+                 21) 152 =    + 64                           22)  -11 =  -8  + v
+                                                                               2
+                 23) -16  = 8a + 64
+                                                             24)  -2x  -3  = -29
+                 25) 56+  8k=  64
+                                                             26)  -4 -3n   = -16
+                 27) -2x  + 4 = 22
+                                                             28) 67 = 5m  -8
+                 29) -20  = 4p + 4
+                                                             30) 9 = 8+  x
+                               n                                         6
+                 31) -5  = 3 + 2                                 m
+                                                             32)   -1  =  -2
+                 33) r-6  = -5                                    4
+                     8                                       34)  -80 =  4x -28
+                 35) -40  = 4n -32
+                                                             36) 33 = 3b + 3
+                 37) 87=  3-7v
+                                                             38) 3x -3  = -3
+                 39) -x  + 1 = -11
+                                                             40) 4 + a = 1
+                                                                     3
+
+                 Example    59.
+                                  4(2x
+                                       -6)  = 16    Distribute4 through parenthesis
+                                    8x -24  = 16    Focus on thesubtraction  rst
+                                      + 24 +  24    Add 24 to both sides
+                                         8x = 40    Now  focuson the multiply by 8
+                                          8   8     Divide both sidesby 8
+                                           x = 5    Our Solution!
+
+                 Example    60.
+                             3(2x -4) +  9= 15    Distribute the3 through the parenthesis
+                              6x -12  +  9= 15    Combine  liketerms, -12  + 9
+                                   6x -3  = 15    Focus on the subtraction  rst
+                                       + 3 +  3   Add  3to both sides
+                                       6x = 18    Now  focuson multiply by 6
+                                                           37
+                                        6    6    Divide both sidesby 6
+                                          x=  3   Our Solution
+
+                 Example    61.
+                                                 4x -6  = 2x + 10
+
+                                   4x -6  = 2x + 10   Notice the variableon both sides
+                                -2x      -2x          Subtract  2x from both sides
+                                    2x -6  = 10       Focus  on thesubtraction  rst
+                                       + 6 +  6       Add  6 toboth sides
+                                        2x = 16       Focus  on themultiplication by 2
+                                         2    2       Divide  both sidesby 2
+                                         x = 8        Our  Solution!
+
+                 Example    62.
+                                  4(8) -6  = 2(8)+  10   Multiply 4(8) and 2(8)  rst
+                                    32 -6  = 16 + 10     Add  and Subtract
+                                        26 = 26          True!
+
+                 Example    63.
+                         -3x  + 9 = 6x -27     Notice thevariable on both sides,-3x  issmaller
+                        +  3x    +  3x         Add 3x to both sides
+                                9 = 9x -27     Focus on thesubtraction by 27
+                             + 27     +  27    Add 27 to both sides
+                                36 = 9x        Focus on themutiplication by 9
+                                9    9         Divide both sidesby 9
+                                 4 = x         Our Solution
+
+                 Example    64.
+                            2(x -5)  + 3x = x + 18    Distribute the2 through parenthesis
+                             2x -10  + 3x = x + 18    Combine  liketerms 2x + 3x
+                                  5x        x
+                                     -10  =   + 18    Notice thevariable ison both sides
+                                -x        -x          Subtract x from both sides
+                                   4x -10  = 18       Focus on the subtraction of10
+                                    +  10 +  10       Add 10 to both sides
+                                        4x = 28       Focus on multiplication by4
+                                        4    4        Divide both sidesby 4
+                                          x=  7       Our Solution
+
+                 Example    65.
+                        3(4x -5)  -4(2x  + 1) = 5   Distribute 3 and -4  through parenthesis
+                            12x -15  -8x  -4  = 5   Combine   liketerms 12x -8x  and -15  -4
+                                    4x -19    = 5   Focus  on subtraction of19
+                                      +  19 +  19   Add  19 toboth  sides
+                                          4x = 24   Focus  on multiplicationby 4
+                                                           39
+                                          4    4    Divide  both sidesby 4
+                                            x = 6   Our  Solution
+
+                 Example    66.
+                       4(2x -6)  + 9=  3(x -7) + 8x    Distribute 4and  3through  parenthesis
+                         8x -24  +  9= 3x -21  + 8x    Combine   likterms  -24  + 9and  3x+  8x
+                             8x         11x
+                                -15  =      -21        Notice the variableison both sides
+                          -8x         -8x              Subtract 8x from both  sides
+                                -15  =  3x-21          Focus on subtraction of 21
+                                + 21      + 21         Add  21 toboth sides
+                                    6=  3x             Focus on multiplication by 3
+                                    3   3              Divide both sides by3
+                                    2 = x              Our  Solution
+                 Check:
+                  4[2(2)-6]  + 9=  3[(2)-7] +  8(2)   Plug 2 inforeach x.Multiply  insideparenthesis
+                     4[4-6]  + 9=  3[-5] +  8(2)      Finish parentesison leftmultiply on right
+                                                           40
+                      4[-2]  + 9 = -15  + 8(2)        Finish multiplicationon both sides
+                         -8  + 9 = -15  + 16          Add
+                               1 = 1                  True!
+
+                 Example    67.
+                                3(2x -5)  = 6x -15     Distribute 3through  parenthesis
+                                  6x -15  = 6x -15     Notice thevariable on both sides
+                               -6x       -6x           Subtract 6x from both sides
+                                     -15  = -15        Variable isgone!True!
+
+                 Example    68.
+                             2(3x -5)  -4x  = 2x + 7   Distribute 2 through parenthesis
+                               6x -10  -4x  = 2x + 7   Combine   liketerms 6x -4x
+                                    2x -10  = 2x + 7   Notice the variableison both sides
+                                 -2x       -2x                   2x
+                                                       Subtract     from both sides
+                                       -10    7        Variable isgone! False!
+
+                                                           41
+                           1.3   Practice      -  General       Linear     Equations
+                 Solve  each  equation.
+                 1)2 -(  -3a  -8) =  1                       2) 2(-3n   + 8)=  -20
+                 3) -5(  -4 +  2v)= -50                      4) 2 -8( -4  + 3x) = 34
+                 5)66 = 6(6 + 5x)                            6) 32 = 2-5(  -4n  +  6)
+                 7)0 = -8(p  -5)                             8) -55  =  8+ 7(k -5)
+                 9) -2  + 2(8x -7)  = -16                    10)  -(3 -5n)  =  12
+                 11) -21x  +  12= -6  -3x                    12)  -3n  -27  = -27  -3n
+                 13) -1  -7m   = -8m   + 7                   14) 56p -48  = 6p +  2
+                 15) 1-12r  =  29-8r                         16) 4 + 3x = -12x  +  4
+                 17) 20-7b  = -12b  +  30                    18)  -16n  + 12 = 39 -7n
+                 19) -32  -24v  = 34 -2v                     20) 17 -2x  = 35 -8x
+                 21) -2  -5(2  -4m)   = 33+  5m              22)  -25 -7x   = 6(2x -1)
+                 23) -4n  +  11=  2(1-8n)  +  3n             24)  -7(1 +  b)= -5  -5b
+                 25) -6v  -29  = -4v  -5(v  +  1)            26)  -8(8r  -2) =  3r+ 16
+                 27) 2(4x -4) =  -20  -4x                    28)  -8n  -19  = -2(8n  -3)  + 3n
+                 29) -a  -5(8a  -1)  = 39 -7a                30)  -4 +  4k=  4(8k -8)
+                 31) -57  = -(  -p  + 1)+  2(6+ 8p)          32) 16 = -5(1  -6x)  + 3(6x + 7)
+                 33) -2(m   -2)  + 7(m -8)  = -67            34) 7 = 4(n -7)  + 5(7n + 7)
+                 35) 50=  8(7 + 7r)-(4r  + 6)                36)  -8(6 +  6x)+  4(-3  + 6x) = -12
+                 37) -8(n  -7)  + 3(3n -3)  = 41             38)  -76 =  5(1+  3b)+ 3(3b -3)
+                 39) -61  = -5(5r  -4)  + 4(3r -4)           40)  -6(x  -8) -4(x  -2)  = -4
+                 41) -2(8n  -4)  = 8(1 -n)                   42)  -4(1 +  a)= 2a -8(5  + 3a)
+                 43)                                         44)  -6(x  -3) +  5= -2  -5(x  -5)
+                     -3( -7v  + 3)+ 8v = 5v -4(1 -6v)
+                 45) -7(x  -2)  = -4  -6(x  -1)              46)  -(n +  8)+ n = -8n   + 2(4n -4)
+                 47) -6(8k  + 4) = -8(6k  +  3)-2            48)  -5(x  + 7)= 4( -8x  -2)
+                 49) -2(1  -7p)  = 8(p -7)                   50) 8( -8n  + 4) = 4(-7n   + 8)
+
+                 Example    69.
+                                          3  -7     5
+                                          4x   2 =  6   Focus on subtraction
+                                              7    7         7
+                                           +  2  + 2    Add  2 toboth sides
+                 Notice we will need to get a common    denominator  to add  5 + 2. Notice we  have a
+                                                                             6         
+                 common   denominator   of 6. So we  build up  the denominator,   7 3   =  21,and  we
+                                                                                  2 3      6
+                 can now  add the fractions:
+                             3   -21     5
+                             4x       =      Same  problem, with common   denominator   6
+                                    6    6
+                                 21    21         21
+                              +     +        Add     to both sides
+                                  6     6          6
+                                  3    26            26    13
+                                  4x =       Reduce     to
+                                        6             6     3
+                                  3    13                               3
+                                  4x =       Focus on multiplication by
+                                        3                               4
+                                     3                              3
+
+                                      4   3        4   
+                                                13
+                                          4x  =            Multiply by reciprocal
+                                       3         3   3
+                                                52
+                                            x=             Our  solution!
+                                                 9
+
+                 Example    70.
+                                         3   -7    5
+                                         4x      =      LCD  =  12,multiply each term by 12
+                                               2   6
+                           (12)3   -(12)7      (12)5
+                                 x          =           Reduce  each 12with denominators
+                             4          2        6
+                                (3)3x  -(6)7  = (2)5    Multiply out each term
+                                        9x -42  =  10   Focus on subtraction by 42
+                                          + 42  + 42    Add  42to both sides
+                                             9x =  52   Focus on multiplication by 9
+                                              9    9    Divide both sidesby 9
+                                                  52
+                                              x =  9    Our Solution
+
+                 Example    71.
+                                        2         3    1
+                                        3x -2  =  2x +      LCD  = 6,multiply each term  by6
+                                                       6
+                          (6)2  -(6)2      (6)3     (6)1
+                               x        =      x +          Reduce  6with each denominator
+                           3         1      2        6
+                           (2)2x  -(6)2  = (3)3x  + (1)1    Multiply out each term
+                                        4x -12  = 9x + 1    Notice variableon both sides
+                                     -4x        -4x         Subtract 4x from both sides
+                                           -12  = 5x + 1    Focus on addition of1
+                                            -1       -1     Subtract 1from  both sides
+                                            -13  = 5x       Focus on multiplicationof 5
+                                              5     5       Divide both sidesby 5
+                                           -13
+                                                 = x        Our Solution
+                                              5
+
+                                                           44
+                 Example    72.
+                             5          
+                           3         4                    3
+                              9x +       = 3   Distribute   through  parenthesis,reducing ifpossible
+                           2        27                    2
+                                 5     2
+                                 6x +    = 3   LCD   = 18,multiply each term by 18
+                                       9
+                  (18)5  x   (18)2    (18)3
+                     6    +    9   =    9      Reduce  18 with each denominator
+                      (3)5x  + (2)2 = (18)3    Multiply out each term
+                                15x + 4=  54   Focus on addition of4
+                                   -4   -4     Subtract 4 from both sides
+                                   15x =  50   Focus on multiplication by 15
+                                 . 15   15     Divide both sides by 15.Reduce  on rightside.
+                                     x = 10    Our  Solution
+                                          3
+
+                 Example    73.
+                                    4x -1  =  3(4x +  6)-7     Distribute 3, reduce ifpossible
+                                         2                 2
+                                       4x -1   = 4x +  2-7     LCD   = 4,multiply each term by 4.
+                                             2             2
+                      (4)3x -(4)1   = (4)1 x + (4)2  -(4)7     Reduce  4 with eachdenominator
+                       4        2       4        1       2
+                        (1)3x -(2)1  =  (1)1x + (4)2 -(2)7     Multiply out each term
+                                         3x -2  = x + 8-14     Combine   liketerms 8-14
+                                              3x -2  = x -6    Notice variable onboth  sides
+                                            -x      -x         Subtract x from both  sides
+                                                2x -2 =  -6    Focus on subtraction by 2
+                                                  +  2  +  2   Add  2to both sides
+                                                    2x=  -4    Focus on multiplication by 2
+                                                    2     2    Divide both sides by 2
+                                                     x=  -2    Our  Solution
+
+
+                                        1.4   Practice       - Fractions
+                 Solve  each  equation.
+                    3     p)   21                               -1     2k   3
+                 1) 5(1+    =  20                            2)    2=     + 2
+                       -5    -6                              4) 2n -8  = -29
+                 3)0 =    4(x   5)                                    3     12
+                    3-5       113                            6) 11 + 4r = 163
+                 5) 4   4m =  24                                 4        32
+                    635  -5   -11                            8) -16  = -4 3(5 + n)
+                 7)    =    2(     + x)                            9        3
+                    72           4
+                                                             10) 3 -74v = -9
+                 9)2b + 9 = -11                                  2           8
+                        5      5
+                                                             12) 41 = 2(x + 3) -13x
+                 11) 2(3n + 1) = 3                                9
+                                 2
+                                                             14) 3( -74k + 1) -10 k = -13
+                 13) -a  -54( -83a + 1) = -19                                    3       8
+                                             4
+                                                             16) -12(3x -3 4)-7 2x = -83
+                 15) 55= -5 2(2p -53)                                                  24
+                     6
+                                                             18) 3(m  + 4) -10 =  -53
+                 17) 16= -4 3(-4 3n -43)                                      3     18
+                     9                                            1   4    5   -7
+                                                             20)    = 3x + 3(x    4)
+                 19) -5  = 4(r -32)                              12
+                       8                                         7 -4     -3            3
+                                                             22)     3n =    2n + 2(n + 2)
+                 21) -11  + 2b = 2(b -53)                        6
+                        3                                         -149 -11     -7   -5   -4
+                                                             24)    16    3 r=   4r    4(   3r+ 1)
+                 23) -(  -52x -32) = -3  + x
+                                        2                         -7  5    1    11    25
+                                                             26)    2(3a + 3) =  4a +  8
+                     45   3    7  -19
+                 25) 16+  2n = 4n   16                            -8 -1 2x   -4 3x-2   -13  x
+                                                             28)    3      =         3(   4  +  1)
+                     3     3    -7   -19
+                 27) 2(v+  2)=    4v    6                    30) 3n +  29= 2( 3n+  3)
+                                                                       6
+                     47   3    5 5
+                 29) 9 +  2x=  3(2x + 1)
+
+                 Example    74.
+                         3x = 12       wx =  z  In both problems, x ismultiplied by something
+                         3    3        w    w   To isolatethe x we divide by3 or w.
+                                             z
+                           x = 4        x =     Our  Solution
+                                            w
+
+                 Example    75.
+                           m  + n = p  forn  Solving forn,treat allothervariables likenumbers
+                        -m      -m           Subtract m  from both sides
+                           n = p -m          Our Solution
+
+                 Example    76.
+                           a(x -y)   =  b     fora  Solving fora,treat (x-y)  likea number
+                          (x  -y)   (x -y)          Divide both sidesby (x -y)
+                                         b
+                                   a=  x -y         Our Solution
+
+                 Example    77.
+                   a(x -y)  = b for x Solving for x,we need to distributetoclear parenthesis
+                   ax -ay     b              a            equation, ay                       x
+                            =         This is  two -step               issubtracted from our   term
+                   + ay  +  ay        Add  ay to both sides
+                   ax =  b+ ay        The  x ismultipied by a
+                    a     a           Divide  both sidesby a
+                        b + ay
+                    x =               Our  Solution
+                           a
+
+                 Example    78.
+                                 y= mx  +  b form   Solving form, focus on addition  rst
+                               -b       -b          Subtract b from both sides
+                                y -b  = mx          m ismultipied by x.
+                                  x      x          Divide both sidesby x
+                                  y-b
+                                       = m          Our Solution
+                                    x
+
+                 Example    79.
+                        A = πr2 + πrs   fors Solving for s,focuson what  isadded to theterm  with s
+                   -πr2   -πr2               Subtract  πr2from  both sides
+                        A -πr2  = πrs        s ismultipied by πr
+                          πr      πr         Divide both  sidesby πr
+                          A -πr2
+                                   = s       Our  Solution
+                             πr
+
+                 Example    80.
+                                         2m
+                                     h =  n   form   To clearthe fractionwe use LCD  = n
+                                     (n)2m
+                             (n)h  =    n            Multiply each term by n
+                                    nh = 2m          Reduce  n with denominators
+                                    2     2          Divide both sidesby 2
+                                     nh
+                                        = m          Our Solution
+                                      2
+
+                 Example    81.
+                                      a    c
+                                        +   = e  fora  To clearthe fractionwe use LCD  =  b
+                                      b    b
+                            (b)a   (b)c
+                              b  +   b  =  e(b)        Multiply each term by b
+                                      a+  c= eb        Reduce  bwith denominators
+                                       -c   -c         Subtract c from both sides
+                                      a=  eb-c         Our  Solution
+
+                 Example    82.
+                                               A
+                                         a =        forb  Use LCD  (2-b)  as agroup
+                                             2 -b
+                                                           49
+                                        (2 -b)A
+                             (2-b)a   =     -b            Multiply each term by (2-b)
+                                           2
+                                      (2-b)a  = A         reduce (2-b)  with denominator
+                                      2a -ab  = A         Distributethrough  parenthesis
+                                    -2a      -2a          Subtract 2a from both sides
+                                    -ab  = A  -2a         The bismultipied by -a
+                                    -a      -a            Divide both sidesby -a
+                                           A -2a
+                                       b =   -a           Our Solution
+
+                 Example    83.
+                                                  A
+                                             a=        for b Use LCD   = (2-b)  asa group
+                                                 2-b
+                                            (2 -b)A
+                                (2 -b)a   =                  Multiply  eachterm  by (2-b)
+                                               2-b
+                                          (2-b)a  = A        Reduce  (2 -b) with denominator
+                                             a      a        Divide both sides by a
+                                                    A
+                                            2 -b =           Focus on the positive2
+                                                    a
+                                          -2      -2         Subtract  2from both sides
+                                                A
+                                          -b  =    -2        Stillneed toclear thenegative
+                                                a
+                                    -1)A
+                    ( -1)(  -b)  = (      a -2(  -1)         Multiply  (ordivide)each term  by-1
+                                              -A
+                                          b=       + 2       Our  Solution
+                                                a
+
+                                   1.5    Practice          -  Formulas
+                 Solve  each  of the following   equations   for the  indicated  variable.
+                 1)ab  = c for b                             2) g =  h forh
+                                                                     i
+                 3) gx=  bfor x                                     3y
+                                                             4) p =  q fory
+                 5)3x =  afor x                              6) ym =  cfor y
+                         b                                       b    d
+                 7)E  = mc2  for m
+                                                             8) DS  = ds for D
+                         3πr3
+                 9)V  =       for π                          10) E =  mv2 for m
+                                                                       2
+                 11) a + c =  b forc                         12) x -f  = g forx
+                 13) c=    4y  fory                                rs
+                         m + n                               14) a -3 = k forr
+                          πDn
+                 15) V =      for D                          16) F =  k(R -L)   for k
+                           12
+                 17) P = n(p -c)  for n                      18) S = L +  2B  for L
+                         D -d                                        Ea -Eq
+                 19) T =   L  forD                           20) I =    R   for Ea
+                 21) L = Lo(1 +  at)forLo                    22) ax +  b =  c for x
+                 23) 2m  + p =  4m  + q for m                24) q =  6(L -p)  for L
+                                                                 R         b
+                 25) k-m  = q for k                          26)   =  aT +   for T
+                       r
+                 27) h=  vt-16t2  forv                       28) S = πrh +  πr2 forh
+                     Q1   P(Q2  -Q1)      Q2                 30) L =  π(r1 + r2)+ 2d for r1
+                 29)    =             for
+                                                                 P    V1(V-V1)    V2
+                 31) R = kA(T1+ T2)for T1                    32)   =      g    for
+                             d
+                 33) ax + b =  c for a                       34) rt = d for r
+                                                             36) V  =  πr2hfor h
+                 35) lwh =  V for w                                     3
+                                                                 1       c
+                 37) 1+  b=  cfor a                          38)   + b=    forb
+                     a      a                                    a       a
+                               s                             40) at -bw  = s for w
+                 39) at-bw   =   fort
+                                                             42) x +  5y =  3 forx
+                 41) ax + bx  = c for a
+                 43) x + 5y =  3 for y                       44) 3x +  2y =  7 forx
+                 45) 3x + 2y  = 7 for y                      46) 5a -7b  = 4 fora
+                 47) 5a-7b  = 4 forb                         48) 4x -5y  = 8 forx
+                                                                 C    5(F           F
+                 49) 4x -5y  = 8 fory                        50)   =  9    -32) for
+
+                 Example    84.
+                                       |x|= 7   Absolute  valuecan be positive ornegative
+                             x=  7 or x = -7    Our  Solution
+
+                 Example    85.
+                                   5+  |x|= 8   Notice absolute value isnot alone
+                                -5       -5     Subtract  5from both sides
+                                       |x|= 3   Absolute  valuecan be positive ornegative
+                             x=  3 or x = -3    Our  Solution
+
+                 Example    86.
+                                -4|x| =  -20    Notice absolute value isnot alone
+                                 -4      -4     Divide both  sidesby -4
+                                                           52
+                                   |x|=  5      Absolute  valuecan be positive ornegative
+                             x=  5 or x = -5    Our  Solution
+
+                 Example    87.
+                                5|x| -4  = 26   Notice the absolute value isnotalone
+                                     + 4 +  4   Add  4 toboth sides
+                                    5|x| = 30   Absolute  valuestillnotalone
+                                     5     5    Divide both  sidesby 5
+                                       |x|= 6   Absolute  valuecan be positive ornegative
+                             x=  6 or x = -6    Our  Solution
+
+                 Example    88.
+                                       |2x-1|  = 7   Absolute  value canbe positive ornegative
+                        2x -1 =  7 or 2x -1  = -7    Two  equations to solve
+                 Now  notice we  have two  equations  to solve,each  equation will give us a di erent
+                 solution.Both  equations  solvelike any other two-step  equation.
+                                        2x -1 =  7             2x -1 =  -7
+                                          + 1 + 1                 +  1  + 1
+                                           2x = 8      or         2x =  -6
+                                           2    2                  2    2
+                                            x = 4                   x=  -3
+
+                 Example    89.
+                                                2-4|2x  + 3| = -18
+
+                              2-4|2x  +  3|= -18     Notice absolute valueisnot alone
+                           -2                 -2     Subtract 2 from both sides
+                               -4|2x  +  3|= -20     Absolute value stilnot alone
+                                 -4           -4     Divide both sidesby -4
+                                   |2x + 3|= 5       Absoloute value can be positiveor negative
+                       2x + 3 = 5 or 2x + 3 = -5     Two equations  tosolve
+                 Now  we just solve these two remaining  equations  to  nd our solutions.
+                                        2x + 3=  5             2x + 3 = -5
+                                         -3   -3                  -3   -3
+                                            2x=  2      or        2x =  -8
+                                            2   2                  2     2
+                                            x = 1                   x=  -4
+
+                 Example    90.
+                                  7+  |2x-5|  = 4   Notice absolute value isnot alone
+                               -7            -7     Subtract  7from both sides
+                                   |2x -5|  = -3    Result of absolutevalue isnegative!
+
+                 Example    91.
+                              |2x-7|  = |4x + 6|            Absolute value can be positiveor negative
+                 2x-7  =  4x+  6 or  2x -7  = -(4x  +  6)   makesecondpartofsecondequationnegative
+
+                                                              2x -7 =  -(4x  + 6)
+                                  2x -7  = 4x + 6             2x       -4x
+                                  -2x    -2x                     -7 =       -6
+                                                              + 4x    +  4x
+                                     -7  = 2x + 6             6x -7 =  -6
+                                     -6      -6
+                                                      or        +  7  +  7
+                                    -13  = 2x                     6x=  1
+                                      2    2
+                                    -13                          6     6
+                                         = x                           1
+                                      2                           x =
+                                                                       6
+                 This gives us our two solutions, x=  -13 or x = 6.
+                                                       2
+                                                           55
+                          1.6   Practice       - Absolute        Value      Equations
+                 Solve  each  equation.
+                 1)|x| = 8                                   2) |n|= 7
+                 3)|b|=  1                                   4) |x|= 2
+                 5)|5 + 8a|=  53                             6) |9n + 8|= 46
+                 7)|3k + 8|=  2                              8) |3-x|  = 6
+                 9)|9 + 7x| = 30                             10) |5n + 7|= 23
+                 11) |8+ 6m|  = 50
+                                                             12) |9p + 6|= 3
+                 13) |6-2x|  = 24                                |3n
+                                                             14)     -2| =  7
+                 15) -7| -3  -3r|  = -21
+                                                             16) |2+  2b|+ 1 = 3
+                 17) 7|-7x  -3|  = 21
+                                                             18) |-4 -3n| = 2
+                                                                     4
+                 19) |-4b-10| = 3
+                        8                                    20) 8|5p + 8|-5  = 11
+                 21) 8|x+ 7| -3 =  5
+                                                             22) 3 -|6n  + 7|= -40
+                 23) 5|3+ 7m|  + 1=  51
+                                                             24) 4|r+  7|+ 3 = 59
+                 25) 3+ 5|8 -2x|  = 63
+                                                             26) 5 + 8|-10n   -2| = 101
+                 27) |6b-2| +  10=  44
+                                                             28) 7|10v -2| -9  = 5
+                 29) -7  + 8|-7x  -3|  = 73
+                                                             30) 8|3 -3n|  -5 =  91
+                 31) |5x+ 3| = |2x-1|
+                                                             32) |2+  3x|=  |4-2x|
+                 33) |3x-4|  = |2x+  3|
+                      4x-2     6x+3                          34) |2x-5 |= |3x+ 4|
+                 35) |    |=  |    |                                3        2
+                       5        2
+                                                             36) |3x+ 2|= |2x-3 |
+                                                                    2        3
+                 Example    92.
+                              m  isvariesdirectlyas n   ′′Directly′tellus to divide
+                                               m
+                                                  = k   Our  formula forthe relationship
+                                               n
+
+                 Example    93.
+                           y isinverselyproportional toz    ′′Inverselytellsusto multiply
+                                                  yz = k    Our formula for therelationship
+
+                 Example    94.
+                                                     ′′Jointly′′
+                         A variesjointlyas xand  y            tellsus todivide by theproduct
+                                            A
+                                           xy =  k   Our formula  forthe relationship
+
+                 Example    95.
+                                 w isdirectlyproportional  toy and w = 50 when  y = 5
+                                          w
+                                          y = k    ′′directlytellus todivide
+                                       (50)
+                                        (5) = k    Substitute known  values
+                                         10 = k    Evaluate to nd  ourconstant
+                 Example    96.
+                                     cvaries indirectlyasd and c = 4.5when  d = 6
+                                          cd = k   ′′indirectlytellsus tomultiply
+                                    (4.5)(6) = k   Substitute known  values
+                                          27 = k   Evaluate  to nd our constant
+                 Example    97.
+                           xisjointlyproportional to y and zand x = 48 when  y = 2and  z= 4
+                                     x
+                                       = k    ′′Jointlytellsusto divideby the product
+                                    yz
+                                 (48)
+                                       = k    Substitute known  values
+                                (2)(4)
+                                      6= k    Evaluate to nd  our constant
+                                                           
+
+                 Example    98.
+                 The priceof anitem varies directlywith thesalestax. Ifa S25 item has asalestax ofS2,
+                                         S40
+                 what willthe taxbe on a     item?
+                                p
+                               ---   = k    ′′Directlytellsus todivide price(p) and tax (t)
+                                t
+                             (25)   k
+                              (2) =      Substitute known  valuesfor priceand tax
+                              12.5= k    Evaluate to  nd our constant
+                            40
+                               =  12.5   Using our constant, substitute40 forpriceto  nd the tax
+                             t
+                      (t)40 = 12.5(t)    Multiply by LCD  =  ttoclearfraction
+                        t
+                            40=  12.5t   Reduce  thet with thedenominator
+                          12.5   12.5    Divide by 12.5
+                               3.2 = t   Our solution:Tax  isS3.20
+
+                 Example    99.
+                 The  speed  (or rate) Josiah  travels to work  is inversely proportional  to time  it
+                 takes to getthere. If he travels 35 miles per hour  itwilltake  him 2.5 hours  toget
+                 towork.  How  long  willittake him  ifhe travels 55 miles per hour?
+                              rt = k   ′′Inversely′tellus tomultiply the rateand  time
+                       (35)(2.5) = k   Substitute known  values forrateand  time
+                            87.5 = k   Evaluate  to nd our constant
+                          55t = 87.5   Using our constant, substitute 55forrate to nd  thetime
+                          55    55     Divide both sides by 55
+                            t ≈1.59    Our  solution:Ittakes him 1.59hours to getto work
+
+                 Example    100.
+                 The amount   of simple interest earned  on an investment  varies jointlyas the  prin-
+                 ciple(amount   invested) and  the time it isinvested. In an  account, S150  invested
+                 for2 years earned  S12  in interest.How  much   interestwould  be  earned on a  S220
+                 investment for 3 years?
+                               I
+                              ---    = k   ′′Jointly′divideInterest(I)byproductofPrinciple(P)&time(t)
+                               Pt
+                           (12)
+                                  = k   Substitute known  values forInterest,Principle and time
+                         (150)(2)
+                             0.04 = k   Evaluate  to nd our constant
+                         I
+                               = 0.04   Using constant, substitute 220 forprincipleand 3 fortime
+                      (220)(3)
+                            I
+                               = 0.04   Evaluate  denominator
+                           660
+                 (660)I
+                   660   = 0.04(660)    Multiply  by660 to isolatethevariable
+                                                                             S26.40
+                             I = 26.4   Our  Solution:The  investment earned         ininterest
+
+                 Example    101.
+                 The  area of a circleis directly proportional to the  square of the radius. A  circle
+                 with a radius of 10 has an area  of314.  What  will the area be on a circle ofradius
+                 4?
+                              A
+                                =  k   ′′Direct′tellus todivide, besure we use r2forthe denominator
+                              r2
+                          (314)    k
+                           (10)2=      Substitute known  values intoour formula
+                          (314) =  k   Exponents   rst
+                           100
+                            3.14=  k   Divide to  nd our constant
+                          A  =  3.14   Using the constant, use4 forr,don′t forgetthe squared!
+                         (4)2
+                           A =  3.14   Evaluate the exponent
+                          16
+                 (16)A
+                         = 3.14(16)    Multiply both sides by 16
+                    16
+                          A =  50.24   Our Solution: Area is50.24
+
+
+                                        1.7   Practice       - Variation
+                 Write  the  formula   that  expresses  the  relationship   described
+                 1.c varies directlyas a
+                 2.x is jointlyproportional  to y and z
+                 3.w  variesinversely as x
+                 4.r varies directlyas the square  ofs
+                 5.f varies jointlyas x and y
+                 6.j isinversely proportional to the cube  of m
+                 7.h  isdirectlyproportional  to b
+                 8.x is jointlyproportional  with the square of a and  the square root of b
+                 9.a is inverselyproportional  to b
+                 Find  the   constant   of variation   and   write  the   formula   to  express   the
+                 relationship  using  that  constant
+                 10. a variesdirectly as b and a =  15 when  b =  5
+                 11. p isjointlyproportional  to q and r and  p = 12 when   q = 8 and  r=  3
+                 12. cvaries inversely as d and c =  7 when  d = 4
+                 13. tvaries directlyas the square  ofu  and t = 6 when  u  = 3
+                 14. evaries jointlyas f and g and  e = 24 when   f=  3 and g =  2
+                 15. w isinversely proportional  tothe  cube of x and w  is54 when  x =  3
+                 16. h isdirectly proportional to jand  h =  12 when  j = 8
+                 17. a isjointlyproportional  with the square  ofx and  the square root of y and
+                     a =  25 when  x =  5 and y =  9
+                 18. m is inverselyproportional  to n and m  =  1.8 when  n = 2.1
+                 Solve  each  of the  following   variation  problems    by  setting  up  a  formula
+                 to express   the  relationship,    nding    the  constant,   and  then   answering
+                                                           61
+                 the question.
+                 19. The electricalcurrent, in amperes,  in a circuitvariesdirectly as the voltage.
+                    When   15 voltsare applied, the current is 5 amperes.  What   isthe current when
+                    18  voltsare applied?
+                 20. The  current inan  electricalconductor  variesinversely as the resistance of the
+                     conductor.  Ifthe current is 12 ampere  when  the resistance is 240 ohms,  what
+                    is the current when  the resistance is540  ohms?
+                 21. Hooke’s law  statesthat the  distance that a spring isstretched by  hanging
+                     object variesdirectly as the mass  ofthe object. If the distance is20  cm when
+                    the  mass is 3 kg,what  is the distance when  the mass  is5 kg?
+                 22. The volume   ofa gas varies inversely asthe  pressure upon  it.The  volume  of a
+                    gas  is200 cm3  under a pressure  of32 kg/cm2.   What  will be itsvolume  under
+                    a pressure  of40 kg/cm2?
+                 23. The number   of aluminum   cans used each  year varies directlyas the number   of
+                     people using the cans. If 250 people use 60,000  cans in one year, how  many
+                    cans  are used each year in Dallas, which  has a population  of1,008,000?
+                 24. The time  required to do a job varies inversely as the number  of peopel
+                     working. It takes 5hr for 7 bricklayers tobuild a park  well. How  long will it
+                    take  10 bricklayersto complete  the job?
+                 25. According  to FidelityInvestment   Vision Magazine,  the average  weekly
+                     allowance of children variesdirectly as theirgrade  level.In a recent year, the
+                     average allowance  ofa 9th-grade  student was  9.66 dollarsper  week. What   was
+                    the  average weekly  allowance of a 4th-grade student?
+                 26. The wavelength   ofa radio wave  varies inverselyas itsfrequency.  A wave  with
+                    a frequency  of 1200 kilohertz has a length of 300 meters.  What  is the length
+                    of a wave  with a frequency  of800  kilohertz?
+                 27. The  number  of kilograms of water  ina human   body  varies directlyas the
+                     mass of the body.  A  96-kg person contains  64 kg of water. How  many   kilo
+                    grams  of water  arein a 60-kg person?
+                 28. The  time required to drive a  xed  distance variesinversely as the speed.  It
+                     takes 5 hr at aspeed  of 80 km/h  to drive a  xed  distance. How  long will it
+                    take  todrive the same  distance at a speed  of70 km/h?
+                 29. The weight  of an object on Mars  varies directlyas its weight on Earth.  A
+                    person  weighs  95lb on Earth  weighs 38 lb on Mars.  How  much   would  a 100-lb
+                    person  weigh  on Mars?
+                 30. At a constant  temperature,  the volume  of a gas variesinversely as the pres-
+                     sure.If the pressure of a certaingas  is40 newtons  per square  meter when   the
+                     volume  is600 cubic  meters what  will the pressure be when  the volume  is
+                    reduced  by 240  cubic meters?
+                 31. The time  required to empty  a tank  variesinversely as the rate ofpumping.   If
+                     a pump  can  empty  a tank in 45 min  at the rate of600  kL/min,  how  long will
+                    it take the pump   toempty   the same  tank at the rate of1000  kL/min?
+                 32. The weight  of an object varies inverselyas the square  ofthe  distance from the
+                     center ofthe earth. At  sea level(6400  km  from the center of the earth), an
+                     astronaut weighs  100 lb. How  far above the earth  must the  astronaut be in
+                    order  toweigh  64 lb?
+                 33. The  stopping distance of a car after the brakes have been  applied varies
+                    directlyas the square  ofthe speed  r. Ifa car, traveling60 mph   can stop in 200
+                    ft, how fast can a car go and  stilstop  in72 ft?
+                 34. The drag  force on a boat varies jointlyas the wetted  surface area and  the
+                     square of the velocityof a boat. If a boat going 6.5 mph  experiences  a drag
+                    force of 86 N  when  the wetted surface area is 41.2 ft2,how  fastmust  a boat
+                     with 28.5 ft2of wetted  surface area go in order to experience a drag  forceof
+                    94N?
+                 35. The intensity of a lightfrom  a lightbulb varies inversely as the square of the
+                     distance from the bulb.  Suppose  intensityis 90 W/m2   (watts per  square
+                     meter) when  the distance is 5 m. How   much  further would  itbe to a point
+                    where  the intesity is40 W/m2?
+                 36. The volume   ofa cone  variesjointly asits height, and the square  ofits radius.
+                     Ifa cone with  a height of 8 centimeters and  a radius of2 centimeters  has a
+                     volume  of33.5 cm3,  what  isthe volume  of a cone with  aheight  of6 centime-
+                    ters and  a radius of4 centimeters?
+                 37. The  intensityof a televisionsignal varies inverselyas the square  of the dis-
+                    tance  from the transmitter.  Ifthe intensity is25 W/m2   at a distance of 2 km,
+                                                                                     W/m2?
+                    how  far from the  trasmitter are you when  the intensity is2.56
+                 38. The  intensityof illumination fallingon  a surface from a given source  oflight
+                     isinversely proportional to the square  ofthe  distance from the source  oflight.
+                    The  unit for measuring  the intesityof illumination is usually the footcandle. If
+                     a given source of lightgives an illumination of 1 foot-candle at a distance of
+                     10 feet,what  would  the illumination be from  the same  source at a distance
+                     of 20 feet?
+                                                           
+                        Linear      Equations        -  Number        and     Geometry
+
+                 Objective:   Solve    number    and    geometry     problems    by   creating   and
+                 solving  a linear equation.
+
+                 Word  problems   can  be tricky.  Often  it takes a bit  of practice to  convert the
+                 English sentence into a mathematical   sentence. This  iswhat  we will focus on here
+                 with some  basic number  problems,  geometry  problems,  and parts problems.
+                 A few important   phrases are described below  that can  giveus clues for how  to set
+                 up a problem.
+                    •   A  number   (or unknown,   a value, etc)often becomes   our variable
+                    •   Is (orother  forms of is:was, willbe, are, etc)often represents equals  (=)
+                        x is5 becomes   x= 5
+                    •   More    than   often represents  addition  and  is usually  built backwards,
+                        writing the second part  plus the  rst
+                        Three  more than  a number  becomes   x+  3
+                    •   Less  than  often represents  subtraction and  is usually built backwards  as
+                        well,writing the second  part minus  the  rst
+                        Four less than a number   becomes  x -4
+                 Using these  key phrases we  can  take a number   problem  and  setup  and  equation
+                 and solve.
+
+                 Example    102.
+                 If28 lessthan   ve times a certain number   is232. What   isthe number?
+                            5x -28     Subtraction isbuiltbackwards,  multiply the unknown  by 5
+                      5x -28  = 232    Istranslatesto equals
+                         + 28 +  28    Add 28 to both sides
+                           5x = 260    The variable imultiplied by 5
+                            5    5     Divide both sidesby 5
+                             x = 52    The number  is52.
+                 This same  idea can be  extended  to a more  involved problem  as shown  in the next
+                 example.
+
+                 Example    103.
+                 Fifteen more  than three times a number   isthe  same as ten less than six times the
+                 number.  What   isthe number
+                                     3x + 15    First,addition isbuiltbackwards
+                                     6x -10     Then, subtraction isalso builtbackwards
+                           3x + 15 = 6x -10     Isbetween  theparts tellsusthey must  beequal
+                        -3x       -3x           Subtract 3x so variableisallon one side
+                                15 = 3x -10     Now  we have a two -step equation
+                              +  10     + 10    Add  10to both sides
+                                     25 = 3x    The variable ismultiplied by3
+                                      3    3    Divide both sidesby 3
+                                      25                       25
+                                         = x    Our number   is
+                                       3                       3
+
+                 Example    104.
+                 The sum  of three consecutive integers is 93. What  are the integers?
+                                        Firstx    Make  the rst number  x
+                                  Second x + 1    To getthe next number  we go up one or+ 1
+                                   Third x + 2    Add another  1(2total) toget thethird
+                               F +  S + T = 93    First(F) plus Second (S) plus Third (T) equals93
+                   (x) + (x + 1)+  (x+ 2) = 93    Replace F with x, S with x+  1,and T with x + 2
+                         x+  x+  1+ x + 2 = 93    Here theparenthesis aren′t needed.
+                                   3x + 3 = 93    Combine  liketerms x + x + x and 2 + 1
+                                      -3   -3     Add 3 toboth  sides
+                                       3x = 90    The variable imultiplied by 3
+                                        3   3     Divide both sidesby 3
+                                        x = 30    Our solution forx
+                                       First30    Replace x inour origionallistwith 30
+                          Second  (30)+ 1 = 31    The numbers  are 30,31,and  32
+                           Third  (30)+ 2 = 32
+
+                 Example    105.
+                 The sum  of three consecutive even  integersis 246. What   are the numbers?
+                                      First x   Make  the  rstx
+                                Second  x + 2   Even  numbers, so we add 2 toget thenext
+                                  Third x + 4   Add  2more  (4total)to getthe third
+                            F  + S + T = 246    SummeansaddFirst(F)plusSecond(S)plusThird(T)
+                 (x)+ (x + 2) + (x + 4)= 246    Replace each F ,S, and T with what  we labeled them
+                      x + x + 2+  x+  4= 246    Here the parenthesis arenot needed
+                                 3x+  6= 246    Combine   likterms  x+  x+ x and 2 + 4
+                                   -6    -6     Subtract 6 from both sides
+                                    3x = 240    The  variableismultiplied by 3
+                                     3     3    Divide both sides by3
+                                       x=  80   Our  solutionforx
+                                     First 80   Replace x in theorigionallistwith 80.
+                                                                 80, 82,    84.
+                        Second  (80) + 2=  82   The  numbers  are       and
+                         Third  (80) + 4=  84
+
+                 Example    106.
+                 Find three consecutive  odd  integersso that  the sum  of twice the  rst, the second
+                 and three times the third is 152.
+                                         Firstx   Make  the  rst x
+                                   Second x + 2   Odd  numbers  so we add 2(same  aseven!)
+                                    Third x + 4   Add  2 more (4 total)toget thethird
+                            2F  + S + 3T  = 152   Twicethe rstgives2F    andthreetimesthethirdgives3T
+                 2(x)+  (x+ 2) + 3(x + 4) = 152   Replace  F ,S, and T with what we labled them
+                     2x + x + 2+  3x + 12 = 152   Distribute through  parenthesis
+                                  6x + 14 = 152   Combine   liketerms 2x + x + 3x and 2 + 14
+                                    -14   -14     Subtract  14from  both sides
+                                       6x = 138   Variable ismultiplied by 6
+                                       6     6    Divide  both sidesby 6
+                                         x = 23   Our  solutionfor x
+                                                           x
+                                        First23   Replace    with 23in theoriginallist
+                           Second (23) + 2 = 25   The  numbers  are23, 25,and 27
+                            Third (23) + 4 = 27
+
+
+                 Example    107.
+                 The  second angle  ofa triangle is double the   rst.The  third angle  is40 less than
+                 the  rst.Find  the three angles.
+                                        Firstx    With nothing  givenabout  the rst we make  thatx
+                                            2x                             rst,
+                                    Second        The second isdouble the
+                                  Third x -40     The third is40lessthan the  rst
+                              F +  S + T = 180    Allthree anglesadd  to180
+                    (x)+ (2x) + (x -40)  = 180    Replace F ,S, and T with the labeledvalues.
+                         x + 2x + x -40  = 180    Here the parenthesisare not needed.
+                                 4x -40  = 180    Combine  liketerms, x + 2x + x
+                                   +  40 +  40    Add 40 to both sides
+                                      4x = 220    The variable ismultipliedby 4
+                                       4    4     Divide both sidesby 4
+                                        x = 55    Our solution forx
+                                       First55    Replace x with 55 inthe originallisofangles
+                            Second 2(55) = 110    Our angles are55, 110,and 15
+                          Third (55) -40  = 15
+
+                 Example    108.
+                 The  perimeter  of a rectangle is 44. The  length  is5  lessthan  double  the width.
+                 Find the dimensions.
+                                              x                            x
+                                       Length      We willmake  the length
+                                  Width  2x -5     Width  is ve lessthan two times thelength
+                                  P  = 2L + 2W     The formula for perimeter ofa rectangle
+                        (44) = 2(x) + 2(2x -5)     Replace P ,L, and W  with labeled values
+                              44 = 2x + 4x -10     Distribute through parenthesis
+                                   44 = 6x -10     Combine  liketerms 2x + 4x
+                                 + 10     +  10    Add 10 to both sides
+                                        54 = 6x    The variable ismultipliedby 6
+                                         6   6     Divide both sidesby 6
+                                          9 = x    Our solution forx
+                                       Length 9    Replace x with 9in theorigional lisofsides
+                            Width  2(9)-5  = 13    The dimensions  ofthe rectangleare 9by 13.
+
+                 Example    109.
+                 A sofa and  a love seat together  costs S444.  The  sofa costs double  the love seat.
+                 How  much  do they  each cost?
+                            Love  Seatx    With  noinformation  about the loveseat,thisisour x
+                                 Sofa2x    Sofa isdouble the loveseat,sowe  multiply by2
+                            S + L = 444    Together they cost 444,so we add.
+                        (x)+ (2x) = 444    Replace S and L with labeled values
+                               3x = 444    Parenthesis are notneeded, combine  liketerms x + 2x
+                                3    3     Divide both sidesby 3
+                                x = 148    Our solution forx
+                          Love Seat 148    Replace x with 148 inthe origionallist
+                      Sofa 2(148) = 296    The love seatcosts S148 and the sofacosts S296.
+
+
+                    1.8   Practice       - Number         and    Geometry          Problems
+                 Solve.
+                 1.When    ve  isadded  to three more  than a certain number,  the result is19.
+                    What  is the number?
+                 2.If  ve is subtracted from  three times a certain number,  the result is10. What
+                  isthe  number?
+                 3.When   18 is subtracted from  six times a certain number,  the result is-42.
+                    What  is the number?
+                 4.A  certain number  added  twice to itselfequals 96. What   isthe number?
+                 5.A  number   plus itselfplus twice itselfplus 4 times  itselfisequal  to -104.
+                   What   isthe number?
+                 6.Sixty  more than  nine times a number   isthe  same as two  lessthan  ten times
+                    the number.  What   isthe number?
+                 7.Eleven  lessthan  seven times  anumber   is ve  more  than six times the number.
+                    Find the number.
+                 8.Fourteen  less than eight times a number   isthree more  than  fourtimes  the
+                    number.  What   isthe number?
+                 9.The  sum  of three consecutive integers is108.  What  are the integers?
+                 10. The sum  of three consecutive integers is -126.  What   are the integers?
+                 11. Find three consecutive  integerssuch  that the sum  of the  rst,twice the
+                    second,  and three times  the thirdis -76.
+                 12. The sum  of two  consecutive even integers is106.  What  are the integers?
+                 13. The sum  of three consecutive odd  integers is189. What   are the integers?
+                 14. The sum  of three consecutive odd  integers is255. What   are the integers?
+                 15. Find three consecutive  odd integers such that  the sum  ofthe  rst, two times
+                     the second,  and three times the third is 70.
+                 16. The  second  angle of a triangleis the same  sizeas the  rst angle. The  third
+                    angle  is12 degrees larger than the   rstangle. How   largeare the angles?
+                 17. Two  angles ofa triangle are the same  size.The  third angle is 12 degrees
+                    smaller  than the  rst angle. Find  the measure  the angles.
+                 18. Two  angles ofa triangle are the same  size.The  third angle is 3 times as large
+                    as the  rst. How   largeare the angles?
+                 19. The  thirdangle  ofa triangle isthe same  size as the  rst. The second  angle is
+                    4 times  the third. Find the measure  of the angles.
+                 20. The second  angle of a triangle is3 times as large as the  rst angle. The  third
+                    angle  is30 degrees more  than  the  rst angle. Find the measure  of the angles.
+                 21. The second  angle of a triangle istwice as large as the  rst.The  measure  of
+                    the  thirdangle  is20 degrees greater than  the  rst. How  large arethe  angles?
+                 22. The second  angle of a triangleis three times as large as the  rst.The  measure
+                     ofthe third angle is 40 degrees greater than  that ofthe   rstangle. How   large
+                    are the three angles?
+                 23. The second  angle of a triangleis  ve times as large as the  rst. The  measure
+                     ofthe third angle is 12 degrees greater than  that ofthe   rstangle. How   large
+                    are the angles?
+                 24. The second  angle of a triangleis three times the  rst, and the third is 12
+                    degrees  lessthan  twice the  rst.Find  the measures  of the angles.
+                 25. The second  angle of a triangle isfour times the  rst and  the third is5 degrees
+                    more  than  twice the  rst. Find the measures  of the angles.
+                 26. The  perimeter of a rectangle is150  cm. The  length  is15 cm  greater than the
+                    width.  Find  the dimensions.
+                 27. The perimeter  of a rectangle is304 cm.  The  length is 40 cm longer than  the
+                    width.  Find  the length and width.
+                 28. The perimeter  of a rectangle is152  meters. The  width  is22 meters  lessthan
+                    the  length. Find the length and  width.
+                 29. The perimeter  of a rectangle is280  meters. The  width  is26 meters  lessthan
+                    the  length. Find the length and  width.
+                 30. The perimeter  of a collegebasketball court  is96 meters  and the length is 14
+                    meters  more  than the width.  What   are the dimensions?
+                 31. A mountain   cabin on 1 acre of land costs S30,000.  Ifthe land  cost4 times  as
+                    much   as the cabin, what was  the cost of each?
+                 32. A horse and  a saddle cost S5000.  Ifthe horse cost 4 times  asmuch   as the
+                    saddle, what  was  the cost ofeach?
+                 33. A bicycle and  a bicyclehelmet  cost S240.  How  much  did each  cost,ifthe
+                    bicycle cost 5 times as much  as the helmet?
+                 34. Of 240 stamps  that Harry  and  his sistercollected,Harry  collected 3 times as
+                     many   as hissisters.How   many  did each collect?
+                 35. IfMr.  Brown  and  his son together had        and  Mr.  Brown  had  10 times as
+                    much   as hisson, how  much  money   had each?
+                 36. In a room  containing 45 students  there were twice as many   girlsas boys. How
+                    many   of each were there?
+                 37. Aaron  had 7 times  asmany   sheep as Beth, and  both  together had 608.  How
+                    many   sheep had  each?
+                 38. A man  bought  a cow  and  a calffor S990, paying  8 times as much  for the cow
+                    as for the calf.What   was the cost of each?
+                 39. Jamal  and Moshe   began a business  with a capital ofS7500.  If Jamal
+                    furnished  halfas much   capitalas Moshe,  how  much  did each  furnish?
+                 40. A lab technician cuts a 12  inch piece oftubing  into two pieces in such a way
+                    that  one piece is2 times longer than  the other.
+                 41. A 6 ft board is cut into two pieces, one twice as long as the other. How   long
+                    are the pieces?
+                 42. An eight ft board is cut into two pieces. One  piece is2 ftlonger than  the
+                    other.  How  long are the pieces?
+                 43. An electrician cuts a 30 ftpiece of wire into two pieces. One  piece is2 ft
+                    longer  than the other. How  long  arethe pieces?
+                 44. The total cost fortuition plus room  and  board  atState  University isS2,584.
+                    Tuition  costs S704 more  than  room  and board.  What   isthe tuition fee?
+                 45. The cost of a private pilotcourse  isS1,275.  The   ight portion costs S625
+                    more  than  the groung  school portion. What   isthe cost ofeach?
+
+                                                       Age  Now   Change
+                                            Person  1
+                                            Person  2
+                                             Table 6. Structurof Age Table
+                 Normally  where  we  see “Person  1” and  “Person  2” we  will use the  name  of the
+                 person  we  are talking  about.  We   will use this  table to  set up  the following
+                 example.
+                 Example    110.
+                 Adam   is20 years  younger  than Brian.  In two years  Brian will be twice as old as
+                 Adam.  How   old are they now?
+                                Age Now    + 2     We use Adam   and Brian forour persons
+                        Adam                       We use + 2 forchange because  thesecond  phrase
+                        Brian                      istwo yearsin thefuture
+                                Age  Now    + 2     Consider the ′′Now′′part,Adam    is20 years
+                                                   youger  than  Brian.  We are giveninformation  about
+                        Adam     x -20
+                        Brain       x              Adam,  not Brian. So Brian isx now. To show Adam
+                                                   is20years younger  we subtract 20,Adam  isx -20.
+                         Age  Now      + 2         Now  the+  2column  is lledin.This isdone by adding
+                 Adam     x -20     x -20  + 2     2to both Adam′s  and Brian′s now  column as shown
+                  Brian      x        x + 2        inthe table.
+                             Age Now     + 2       Combine  liketerms in Adam′s  futureage: -20  + 2
+                     Adam     x -20     x-18       This tableisnow   lledout and we are ready totry
+                     Brian       x      x + 2      and solve.
+                                                           72
+                                                   Our equation comes  from the futurestatement:
+                                       B  = 2A     Brian  willbe  twice as old as Adam.   This means
+                                                   theyounger,  Adam,  needs tobe multiplied by 2.
+                                                   Replace B and  A with theinformation  intheirfuture
+                            (x + 2)= 2(x -18)      cellsAdam   (A) isreplacedwith x -18  and Brian (B)
+                                                   isreplaced with (x+ 2) This isthe equation tosolve!
+                                x+  2= 2x -36      Distribute through parenthesis
+                             -x      -x            Subtract x from both sidesto getvariable on one side
+                                     2= x -36      Need to clearthe -36
+                                 +  36    + 36     Add 36 to both sides
+                                         38=  x    Our solution forx
+                                    Age now        The  rst column will helpus answer the question.
+                          Adam    38-20  =  18     Replace the x′swith 38 and simplify.
+                          Brian        38          Adam  is18 and Brian is38
+                 Solving age  problems  can  be summarized    in the following  ve  steps. These   ve
+                 stepsare guidelines to help organize the problem   we are trying to solve.
+                     1. Fillin the now  column.  The  person we  know  nothing about  isx.
+                     2. Fillin  the future/past  collumn  by  adding/subtracting   the change  to the
+                        now  column.
+                     3. Make  an equation  for the relationship inthe  future. This isindependent   of
+                        the table.
+                     4. Replace  variablesin equation  with information  infuture cellsof table
+                     5. Solve the equation  forx, use the solution to answer  the question
+                 These  ve  steps can be seen illustratedin the following example.
+                 Example    111.
+                 Carmen  is 12 years older than David.  Five years ago  the sum  oftheir ages was  28.
+                 How  old are they now?
+                                  Age Now   -5
+                        Carmen                       Five yearsago is-5  inthe change column.
+                        David
+                                  Age Now   -5       Carmen  is12 years olderthan David. We  don′t
+                        Carmen     x + 12
+                                                     know about  David so heisx, Carmen  then isx + 12
+                         David        x
+                           Age  Now      -5
+                 Carmen      x+ 12    x + 12-5       Subtract 5 from now column  to getthe change
+                  David        x        x -5
+                                                           73
+                                Age Now     -5       Simplify by combining  liketerms 12 -5
+                      Carmen     x + 12    x+  7
+                                                     Our  tableisready!
+                       David        x      x-5
+                                     C  + D = 28     Thesumoftheirageswillbe29.SoweaddC         andD
+                           (x + 7) + (x-5)  = 28     Replace C and  D with the change cells.
+                               x + 7+  x-5  = 28     Remove  parenthesis
+                                      2x+  2= 28     Combine  liketerms x + x and 7 -5
+                                        -2   -2      Subtract 2 from both sides
+                                         2x = 26     Notice x ismultipliedby 2
+                                          2    2     Divide both sidesby 2
+                                          x = 13     Our solution forx
+                                     Age  Now        Replace x with 13to answer the question
+                         Caremen    13+  12=  25
+                                                     Carmen  is25 and David  is13
+                          David          13
+                 Sometimes  we  are given the  sum  of theirages  right now.  These problems   can be
+                 tricky.In  this case we  willwrite  the sum  above  the now   column  and  make  the
+                  rst person’s age now   x. The  second  person  willthen  turn  into the subtraction
+                 problem  total-x.  This  isshown  in the next example.
+                 Example    112.
+                 The sum   ofthe ages  ofNicole  and Kristin is 32. In two years Nicole  willbe three
+                 times as old as Kristin.How   old are they now?
+                                    32
+                                 Age Now   +  2     The  change is+ 2 fortwo years inthe future
+                        Nicole      x               The  totalisplaced above Age Now
+                       Kristen    32 -x             The   rstperson isx. The second becomes  32 -x
+                           Age Now       + 2
+                  Nicole       x        x + 2       Add  2 toeach cell llinthe change column
+                 Kristen    32 -x    32 -x  + 2
+                               Age Now     + 2
+                      Nicole      x       x+  2     Combine   liketerms 32 + 2,our tableisdone!
+                     Kristen    32 -x    34 -x
+                                        N  = 3K     Nicole isthree times asold asKristin.
+                             (x             -x)
+                                + 2) = 3(34         Replace  variableswith information in change cells
+                                x + 2=  102 -3x     Distribute through  parenthesis
+                            +  3x          + 3x     Add  3x to both sidessovariable isonly onone side
+                                                           74
+                                    4x + 2 = 102    Solve the two -step  equation
+                                      -2    -2      Subtract  2from both  sides
+                                        4x
+                                           = 100    The  variableismultiplied by 4
+                                         4    4     Divide  both sidesby 4
+                                          x = 25    Our  solutionfor x
+                                     Age  Now       Plug 25 infor xin thenow  column
+                            Nicole       25
+                                                    Nicole is25 and Kristinis7
+                           Kristen  32 -25  = 7
+                 A  slightvariation  on age  problems   isto  ask not  how  old  the people  are, but
+                 rather ask how  long untilwe  have some  relationship about  their ages. In thiscase
+                 we alter our table slightly.In the change  column  because  we  don’t know  the time
+                 toadd  or subtract we  willuse a variable, t,and  add or subtract this from the now
+                 column.  This isshown   inthe next  example.
+                 Example    113.
+                 Louis is 26 years old. Her  daughter  is4 years  old. In how  many  years will Louis
+                 be double her daughter’s  age?
+                               Age  Now   + t     As we are giventheirages now, these numbers  go into
+                      Louis        26             thetable. The change isunknown,   sowe write + tfor
+                    Daughter       4              thechange
+                             Age Now     + t
+                   Louis        26     26 + t     Fillinthe change column  by adding tto each person′s
+                                                  age.Our  tableisnow  complete.
+                 Daughter        4      4+  t
+                                       L = 2D     Louis willbe double her daughter
+                            (26 + t)= 2(4 + t)    Replace  variableswith information in change cells
+                                26+  t= 8 + 2t    Distribute through parenthesis
+                                  -t      -t               t
+                                                  Subtract   from both sides
+                                    26 = 8 + t    Now  we have an 8 added to thet
+                                   -8  -8         Subtract 8 from both sides
+                                        18 = t    In 18years she willbe double herdaughter′s  age
+                 Age  problems  have  severalsteps  to them.  However,  if we take  the time  to work
+                 through  each of the steps carefully, keeping the  information organized,  the prob-
+                 lems can be solved quite nicely.
+                 World   View    Note:  The   oldest man  in  the world  was  Shigechiyo  Izumi  from
+                 Japan  who  lived to be 120 years, 237  days. However,  his exact  age has been  dis-
+                 puted.
+                                                           75
+                                    1.9   Practice       - Age     Problems
+                 1.A  boy  is10 years older than his brother. In 4 years he  willbe twice as old as
+                   his brother. Find the present  age ofeach.
+                 2.A  father is4 times as old as his son. In 20 years the father willbe  twice as old
+                    as hisson. Find  the present age of each.
+                 3.Pat  is20 years  olderthan  his son James.  In two years Pat  willbe  twice as old
+                    as James.  How  old are they now?
+                 4.Diane  is 23 years older than her daughter  Amy.   In 6 years Diane  willbe twice
+                    as oldas Amy.   How  old are they now?
+                 5.Fred  is4 years older than  Barney.  Five years ago the  sum  oftheir ages was  48.
+                    How  old are they now?
+                 6.John  is four times as old as Martha.  Five years ago  the sum  oftheir ages was
+                    50. How  old are they now?
+                 7.Tim   is5 years older than JoAnn.   Six years from now  the sum  of their ages will
+                    be 79. How  old are they now?
+                 8.Jack  istwice as old as Lacy.  In three years the sum  of theirages will be 54.
+                    How  old are they now?
+                 9.The  sum  of the ages of John  and Mary   is32. Four  years ago, John was  twice
+                    as oldas Mary.   Find the present age  ofeach.
+                 10. The sum  of the ages of a father and son  is56. Four  years ago the father was 3
+                    times  as old asthe son.  Find the present age  ofeach.
+                 11. The  sum  ofthe ages of a china plate and  a glass plateis 16 years. Four  years
+                     ago  the china plate was three times  the age of the glassplate. Find  the
+                     present age  ofeach  plate.
+                 12. The  sum  ofthe ages of a wood  plaque  and  a bronze plaque  is20 years. Four
+                                                           76
+                    years  ago,the  bronze plaque  was one-half the age of the wood  plaque.  Find
+                    the  present age of each plaque.
+                 13. A is now 34  years old,and  B is 4 years old.In how  many   years willA  be
+                    twice  asold as B?
+                 14. A man’s  age is 36 and that of his daughter  is3 years. In how  many  years will
+                    the  man  be 4 times as old as his daughter?
+                 15. An Oriental  rug is52 years  oldand  a Persian rug  is16 years old. How  many
+                    years ago  was the Oriental  rug four times as old as the Persian Rug?
+                 16. A log cabin quilt is24 years  oldand  a friendship quilt is6 years old. In how
+                     may  years willthe log cabin quilt be three times as old as the friendship
+                    quilt?
+                 17. The age  ofthe older of two boys  istwice that of the younger;  5 years ago it
+                    was  three times that of the younger.  Find the age  ofeach.
+                 18. A pitcher is 30 years old,and  a vase is22  years old. How  many  years  ago was
+                    the  pitchertwice as old as the vase?
+                 19. Marge  istwice as old as Consuelo.  The  sum  of theirages seven  years ago was
+                    13.  How  old are they now?
+                 20. The sum  of Jason  and Mandy’s   age is 35. Ten years ago  Jason was  double
+                    Mandy’s   age. How  old are they  now?
+                 21. A silvercoin is 28 years older than a bronze  coin. In6 years, the silvercoin
+                    will be twice as old as the bronze coin. Find  the present age of each coin.
+                 22. A sofa is12  years old and a table is 36 years old. In how  many  years willthe
+                    table be  twice asold as the sofa?
+                 23. A limestone  statue is56 years older than  a marble  statue. In12  years,the
+                    limestone  willbe  three times as old as the marble statue. Find  the present age
+                    of the statues.
+                 24. A pewter  bowl  is8 years old, and a silverbowl  is22  years old.In how  many
+                    years will the silverbowl  be twice the age of the pewter  bowl?
+                 25. Brandon  is 9 years older than Ronda.   In fouryears  the sum  oftheir ages will
+                    be  91. How  old are they now?
+                 26. A kerosene  lamp  is95 years old, and an  electriclamp  is55 years old. How
+                    many   years ago was  the kerosene lamp  twice the age of the electriclamp?
+                 27. A father is three times as old as hisson, and  his daughter is 3 years younger
+                                                           77
+                      than  the son. Ifthe sum  of theirages 3 years ago  was 63 years,  nd  the
+                      present age of the father.
+                 28. The sum  of Clyde  and Wendy’s   age is 64. In fouryears, Wendy   will be three
+                    times  as old asClyde.  How  old are they  now?
+                 29. The sum  of the ages of two  shipsis 12 years. Two  years ago, the age of the
+                     oldership was  three times the age  ofthe newer  ship. Find  the present age of
+                    each  ship.
+                 30. Chelsea’s age isdouble  Daniel’s age. Eight  years ago the sum  of theirages
+                    was  32. How  old are they  now?
+                 31. Ann  iseighteen years older than  her son. One  year ago, she was  three times
+                    as old as her son. How   old arethey  now?
+                 32. The  sum of the ages of Kristen  and Ben  is32. Four  years ago Kristen  was
+                    twice  asold as Ben.  How  old are they both  now?
+                 33. A mosaic  is74 years  olderthan  the engraving.  Thirty years ago, the mosaic
+                    was  three times as old as the engraving.  Find the present age  ofeach.
+                 34. The sum  of the ages of Elliand  Dan  is56.  Four years ago Elli was 3 times  as
+                     old as Dan.  How  old are they  now?
+                 35. A wool  tapestry is32  years older than a linen tapestry. Twenty  years ago, the
+                     wool tapestry was  twice as old as the linen tapestry. Find  the present age of
+                    each.
+                 36. Carolyn’s age is tripleher daughter’s  age. In eight years the sum  of theirages
+                     will be 72. How  old are they now?
+                 37. Nicole is26 years old. Emma    is2 years old. In how  many  years  willNicole be
+                    triple Emma’s   age?
+                 38. The sum  of the ages of two children is 16 years. Four years ago, the age  ofthe
+                     olderchild was  three times the age of the younger  child. Find the present age
+                    of each child.
+                 39. Mike is 4 years older than Ron.  In two  years,the sum  of their ages willbe  84.
+                    How   old are they now?
+                 40. A marble  bust is 25 years old,and  a terra-cotta bust is85 years old. In how
+                    many   years willthe terra-cotta bust be  three times as old as the marble bust?
+                                                           78
+                 1.10
+                     Solving     Linear    Equations       - Distance,     Rate    and    Time
+                 Objective:   Solve   distance   problems    by   creating   and  solving   a  linear
+                 equation.
+                 An  application  of linear equations  can  be  found  in distance  problems.   When
+                 solving distance problems  we will use the relationship rt = d or rate (speed) times
+                 time equals distance. For  example,  ifa person  were to travel 30 mph   for4 hours.
+                 To  nd  the  total distance we  would  multiply  rate times  time or (30)(4)  = 120.
+                 This person  travel a distance of 120 miles. The  problems   we will be solving here
+                 willbe a few  more  steps than described  above.  So to keep the  information in the
+                 problem  organized  we will use a table. An   example  of the basic structure of the
+                 tableis blow:
+                                                     Rate   Time   Distance
+                                           Person 1
+                                           Person 2
+                                         Table 7. StructureofDistance Problem
+                 The  third column,  distance, will always  be  lled in by  multiplying the  rate and
+                 time columns  together. If we are given a total distance of both persons  ortrips we
+                 willput this information  below the distance column.   We  willnow  use this tableto
+                 setup  and solve the following example
+                                                           79
+                 Example    114.
+                 Two  joggers start from  opposite  ends of an  8 mile course  running  towards  each
+                 other. One  jogger is running  at a rate  of4  mph,  and  the other  isrunning  at a
+                 rateof 6 mph.  After how  long will the joggers meet?
+                           Rate   Time   Distance
+                 Jogger 1                              The basic tableforthe joggers,one and two
+                 Jogger 2
+                           Rate   Time   Distance
+                                                       We are giventhe ratesfor each jogger.
+                 Jogger 1    4
+                 Jogger 2    6                         These areadded  tothe table
+                           Rate   Time   Distance      We only know  they both startand end at the
+                 Jogger 1    4      t
+                                                       same time. We use the variabletforboth  times
+                 Jogger 2    6      t
+                           Rate   Time   Distance
+                 Jogger 1    4      t       4t         The distance column  is lledinby multiplying
+                                                       rateby time
+                 Jogger 2    6      t       6t
+                                             8         We have total distance,  8miles, under distance
+                                        4t + 6t= 8     The distance column  givesequation by adding
+                                            10t= 8     Combine  liketerms, 4t+ 6t
+                                           10   10     Divide both sidesby 10
+                                                 4                       4
+                                              t=       Our solution fort,  hour (48 minutes)
+                                                 5                       5
+                 As the example  illustrates,once the  table is lled in,the equation  to solve isvery
+                 easy to  nd. This  same process  can be seen in the following example
+                 Example    115.
+                 Bob  and  Fred  start from  the same  point  and  walk  in opposite directions. Bob
+                 walks 2 miles  per hour  faster than Fred.  After 3 hours  they  are 30 miles apart.
+                 How  fastdid each  walk?
+                         Rate  Time   Distance
+                  Bob            3                  The basic tablewith given times  lledin
+                                                    Both traveled 3hours
+                  Fred           3
+                                                           80
+                        Rate   Time   Distance      Bob walks 2 mph  fasterthan Fred
+                  Bob   r+  2    3                  We know  nothing about  Fred,so user forhisrate
+                 Fred     r      3                  Bob isr + 2,showing  2mph  faster
+                        Rate   Time   Distance
+                                                    Distance column  is lledinby multiplying rate by
+                  Bob   r + 2    3     3r +  6
+                  Fred    r      3       3r         Time. Be sure todistribute the3(r + 2) forBob.
+                                          30        Total distance  isput under distance
+                                3r + 6+  3r= 30     The distance columns  isourequation, by adding
+                                     6r+  6= 30     Combine  liketerms 3r + 3r
+                                       -6   -6      Subtract 6 from both sides
+                                         6r= 24     The variable ismultiplied by6
+                                         6    6     Divide both sidesby 6
+                                           r=  4    Our solution forr
+                                        Rate        To answer the question completely we plug 4 infor
+                                Bob   4 + 2 = 6     rin thetable.Bob  traveled6 miles perhour and
+                                Fred      4         Fred traveled4 mph
+                 Some  problems  will require us  to do a bit of work  before  we can  just  llin the
+                 cells.One  example   of thisis if we are  given a total time, rather  than  the indi-
+                 vidual times like we  had in the  previous example.   Ifwe  are given total time  we
+                 willwrite this above  the time column,  use  tfor the  rst person’s time,  and make
+                 a subtraction problem,  Total  -t,  forthe  second person’s  time. This  isshown   in
+                 the next example
+                 Example    116.
+                 Two  campers  lefttheir campsite  by canoe  and paddled  downstream    at an average
+                 speed of 12 mph.   They  turned  around  and paddled  back  upstream   at an average
+                 rateof 4 mph.   The  totaltrip took 1 hour.  After how  much  time  did the campers
+                 turn around  downstream?
+                           Rate   Time   Distance
+                                                      Basic table fordown  and upstream
+                    Down    12                        Given  ratesare  lledin
+                     Up      4
+                                    1                  Totaltime isput above  timecolumn
+                           Rate   Time   Distance     As we  have thetotaltime, inthe  rst timewe  have
+                    Down    12      t                 t,the second time becomes  the subtraction,
+                     Up      4    1 -t                total -t
+                                                           81
+                         Rate   Time   Distance       Distance  column isfound  by multiplying rate
+                                                      by time. Be sure todistribute4(1 -t) for
+                 Down     12      t      12t     =    upstream.  As they cover thesame   distance,
+                   Up      4    1-t     4-4t
+                                                      =  isput afterthedown  distance
+                                       12t    -4t                 sign,
+                                          =  4         With equal      distance colum isequation
+                                     +  4t    + 4t    Add4ttobothsidessovariableisonlyononeside
+                                           16t = 4     Variableismultiplied by 16
+                                            16  16     Divide both sidesby 16
+                                                 1                                    1
+                                             t =       Our solution,turn around  after  hr(15 min )
+                                                 4                                    4
+                 Another  type of a  distance problem  where  we  do some  work  is when  one  person
+                 catches up  with  another. Here  a  slower person  has a  head  start and the  faster
+                 person is trying to catch  up with  him  or her and  we  want  to know   how  long it
+                 willtake the fast person to do  this.Our  startegy for this problem  willbe  to use t
+                 forthe faster person’s time, and add  amount   oftime  the head start was to get the
+                 slower person’s time. This is shown  in the next example.
+                 Example    117.
+                 Mike leaves his house  traveling2 miles per  hour. Joy leaves 6 hours  laterto catch
+                 up with  him  traveling 8 miles  per hour.  How   long will ittake  her to catch  up
+                 with him?
+                          Rate   Time   Distance      Basictable forMike and  Joy
+                    Mike    2
+                                                      The given ratesare  lledin
+                    Joy     8
+                          Rate   Time   Distance
+                    Mike    2    t+  6                Joy,the fasterperson, we uset fortime
+                                                      Mike′s time ist+ 6 showing his6 hour head start
+                    Joy     8      t
+                                                      Distance column  isfound by multiplying therate
+                        Rate   Time   Distance          time.                         2(t
+                 Mike     2    t+ 6   2t + 12   =     by      Be sure todistributethe    +  6)forMike
+                                                      As theycover the same  distance,  = isput after
+                  Joy     8      t       8t           Mike′s distance
+                                      2t+  12=  8t    Now  thedistance column  isthe equation
+                                   -2t       -2t      Subtract 2tfrom  both sides
+                                                6t
+                                           12=        The variable ismultipliedby 6
+                                           6   6      Divide both sidesby 6
+                                                           82
+                                             2 = t    Our solution fort,she catcheshim  after2hours
+                 World   View   Note:  The  10,000  race isthe  longest standard  track event. 10,000
+                 meters  isapproximately   6.2 miles.  The  current (at the  time  of printing) world
+                 record for thisrace  isheld by  Ethiopian  Kenenisa  Bekele  with a time  of 26 min-
+                 utes,17.53 second.  That  isa rate of 12.7miles per  hour!
+                 As these example  have  shown,  using the table can help keep all the given informa-
+                 tionorganized,  help  llin the cells,and  help  nd  the equation  we will solve. The
+                  nal example  clearlyillustratesthis.
+                 Example    118.
+                 On  a 130 mile trip a car travled at an average  speed of 55 mph   and then  reduced
+                 itsspeed  to 40 mph   for the remainder  of the trip. The  trip took  2.5 hours. For
+                 how long  did the car travel40 mph?
+                           Rate  Time    Distance
+                                                      Basic tablefor fastand slow speeds
+                     Fast   55                        The  givenrates are lled in
+                    Slow    40
+                                  2.5                 Total time isput above the time column
+                         Rate   Time     Distance     As we have total time,the  rsttime we have t
+                   Fast   55       t                  The  second time isthesubtraction problem
+                  Slow    40   2.5 -t                 2.5 -t
+                                 2.5
+                        Rate   Time     Distance
+                                                      Distance column  isfound by multiplying rate
+                  Fast   55      t        55t         by time. Be sureto distribute40(2.5 -t) forslow
+                 Slow    40   2.5 -t   100 -40t
+                                          130         Total  distance  isput under distance
+                             55t       -40t
+                                +  100      =  130    Thedistancecolumngivesourequationbyadding
+                                   15t+  100=  130    Combine   liketerms 55t-40t
+                                    -100    -100      Subtract  100from  both sides
+                                          15t = 30    The  variableismultiplied by 30
+                                           15   15    Divide both  sidesby 15
+                                              t= 2    Our  solutionfort.
+                                        Time
+                               Fast        2          To answer  thequestion we plug 2 infort
+                                                      The  cartraveled 40mph  for 0.5hours (30 minutes)
+                              Slow   2.5-2  = 0.5
+                                                           83
+                 1.10    Practice       - Distance,        Rate,     and    Time      Problems
+                 1.A  is60 miles from  B. An  automobile  at A  startsfor B at the rate of 20 miles
+                    an hour  atthe  same time  that an automobile  at B  startsfor A at the rate of
+                    25 miles an hour. How   long willit be before the automobiles  meet?
+                 2.Two   automobiles  are 276 miles apart and  startat the same  time  totravel
+                    toward  each other. They  travel at ratesdi ering  by 5 miles per hour. If they
+                    meet after 6 hours,  nd  the rate ofeach.
+                 3.Two   trainstravel toward  each other from  points which  are 195 miles apart.
+                    They  travelat rate of 25 and  40 miles an hour respectively. If they startat the
+                    same  time, how soon  willthey  meet?
+                 4.A  and  B start toward  each other at the same  time from  points 150 miles apart.
+                    IfA  went at the rate of 20 miles an hour, at what  rate must  B travel ifthey
+                    meet in 5 hours?
+                 5.A  passenger  and a freight train starttoward  each other  at the same  time from
+                    two points 300  miles apart. Ifthe rate of the passenger  trainexceeds  the rate
+                    ofthe freight train by 15 miles per hour, and  they meet  after 4hours,  what
+                    must  the rateof each be?
+                 6.Two   automobiles  started at the same  time from a point, but  traveled in
+                    opposite directions. Their rates were 25 and  35 miles per hour  respectively.
+                   After how  many  hours  were they 180  miles apart?
+                 7.A  man  having  ten hours at his disposal made  an excursion, riding out at the
+                    rate of10 miles an  hour and  returning on foot, at the rateof 3 miles an hour.
+                                                           84
+                   Find the  distance he rode.
+                 8.A  man  walks  at the rateof 4 miles per hour.  How  far can he walk  intothe
+                    country and  ride back on a trolley that travelsat the rate of 20 miles per hour,
+                    ifhe must  be back home   3 hours from  the time he started?
+                 9.A  boy  ridesaway  from  home  in an automobile  at the rate of 28 miles an hour
+                    and walks  back at the rate of 4 miles an hour. The  round  trip requires2 hours.
+                    How  far does he ride?
+                 10. A motorboat   leavesa harbor  and  travelsat an average  speed of 15 mph
+                     toward  an island. The average  speed on  the return trip was 10 mph.   How  far
+                    was  the island from the harbor  ifthe total triptook  5 hours?
+                 11. A family drove  to a resortat an average  speed of 30 mph  and  laterreturned
+                     over the same  road at an average  speed of 50 mph.  Find  the distance to the
+                    resort ifthe total driving time was  8 hours.
+                 12. As part of his  ight trainging,a student  pilotwas  required to  y to an airport
+                    and  then return. The  average  speed to the airport was  90 mph,  and the
+                     average speed  returning was 120  mph.  Find  the distance between  the two
+                    airports ifthe total  ying  time was 7 hours.
+                 13. A, who  travels4 miles an  hour starts from a certain place 2 hours  in advance
+                     ofB, who  travels 5 miles an hour  in the same  direction.How   many  hours
+                    must  B  travelto overtake  A?
+                 14. A man  travels 5 miles an hour.  After traveling for6 hours  another  man  starts
+                     atthe same  place, following at the rate of8 miles  an hour. When   will the
+                    second  man  overtake  the  rst?
+                 15. A motorboat   leaves a harbor and  travelsat an  average speed of 8 mph   toward
+                     a small  island.Two  hours  latera cabin  cruiserleaves the same  harbor  and
+                     travels at an average speed  of 16 mph  toward  the same  island. In how many
+                     hours  afterthe cabin  cruiserleaves willthe cabin  cuiserbe  alongside the
+                     motorboat?
+                 16. A long distance runner  started on a course running  at an average  speed of 6
+                     mph.   One  hour later,a second  runner began  the same  course at an  average
+                     speed  of 8 mph.  How  long after the second  runner started will the second
+                     runner  overtake the  rst runner?
+                 17. A car traveling at 48 mph  overtakes a cyclist who, riding at 12 mph,  has had
+                     a 3 hour  head start. How  far from  the startingpoint  does the car overtake
+                     the cyclist?
+                 18. A jet plane traveling at600  mph  overtakes a propeller-driven plane  which has
+                                                           85
+                     had a 2 hour  head start. The  propeller-driven plane is travelingat 200 mph.
+                     How  far from the starting point does  the jetovertake the propeller-driven
+                    plane?
+                 19. Two  men  are traveling inopposite  directions atthe  rateof 20 and  30 miles an
+                     hour  at the same  time and  from the same  place. In how  many  hours  willthey
+                     be 300  miles apart?
+                 20. Running  at an average  rate of8 m/s,  a sprinter ran to the end of a track and
+                     then  jogged back  tothe starting point at an  average rate of3 m/s.  The
+                     sprinter took 55  sto run to the end  of the track and jog back. Find  the
+                     length of the track.
+                 21. A motorboat   leavesa harbor  and  travelsat an average  speed of 18 mph  to an
+                     island. The  average speed  on the return trip was 12 mph.   How  far was the
+                     island from  the harbor ifthe total trip took 5 h?
+                 22. A motorboat   leaves a harbor and  travelsat an  average speed of 9 mph   toward
+                     a small  island.Two  hours  latera cabin  cruiserleaves the same  harbor  and
+                     travels at an average speed  of 18 mph  toward  the same  island. In how many
+                     hours  afterthe cabin  cruiserleaves willthe cabin  cruiserbe alongside  the
+                     motorboat?
+                 23. A jet plane traveling at570  mph  overtakes a propeller-driven plane  that has
+                     had  a 2 h head start. The  propeller-driven plane istraveling at 190 mph.
+                     How   farfrom  the starting point does the jet overtake the propeller-driven
+                     plane?
+                 24. Two  trainsstart at the same  time  from the same  place and  travelin opposite
+                     directions. Ifthe rate of one is 6 miles per hour more  than  the rate ofthe
+                     other and  they are 168  miles apart at the end of 4 hours, what  isthe rate of
+                     each?
+                 25. As part of  ight traning, a student pilot was required  to  y to an airport and
+                     then  return. The  average speed on  the way  tothe airport was  100 mph,  and
+                     the average  speed returning  was 150  mph.  Find  the distance between  the two
+                     airports ifthe total  ight time was  5 h.
+                 26. Two  cyclistsstart from the same  point and  ridein opposite  directions.One
+                     cyclist ridestwice as fast as the other. In three hours they are 72 miles apart.
+                     Find  the rate ofeach  cyclist.
+                 27. A car traveling at 56 mph  overtakes a cyclist who, riding at 14 mph,  has had
+                     a 3 h head  start. How  far from the starting point does  the car overtake the
+                     cyclist?
+                 28. Two  small planes start from the same  point  and  y  inopposite  directions.
+                                                           86
+                     The   rst plan is  ying 25 mph   slower than the second  plane. In two  hours
+                      the planes are 430 miles  apart. Find the rate of each plane.
+                 29. A bus  travelingat a rate of 60 mph  overtakes  a car travelingat a rate of 45
+                     mph.   Ifthe car had  a 1 h head start, how  farfrom  the starting point does
+                     the bus  overtake the car?
+                 30. Two  small planes start from the same  point  and  y  inopposite  directions.
+                     The   rst plane is  ying 25 mph   slower than the second  plane. In 2 h, the
+                     planes are 470  mi apart. Find  the rate ofeach  plane.
+                 31. A truck leaves a depot  at 11 A.M.  and  travelsat a speed of 45 mph.   At noon,
+                     a van  leaves the same  place and travels the same  route at a speed of 65 mph.
+                     At  what  time does the van  overtake the truck?
+                 32. A family drove  to a resortat an average  speed of 25 mph  and  laterreturned
+                     over the same  road  at an average speed  of 40 mph.  Find  the distance to the
+                     resort ifthe total driving time was  13 h.
+                 33. Three campers   lefttheircampsite  by  canoe and  paddled  downstream   at an
+                     average  rate of10 mph.   They  then turned  around  and paddled  back
+                     upstream   at an average rate of 5 mph  to return to their campsite. How   long
+                     did it take the campers  to canoe downstream    ifthe totaltrip took 1 hr?
+                 34. A motorcycle  breaks down   and the rider has to walk the rest of the way  to
+                     work. The  motorcycle  was  being driven at 45 mph,  and  the rider walks at a
+                     speed of 6 mph.  The  distance from  home  to work  is25 miles, and the  total
+                     time for the tripwas  2 hours. How  far did the motorcycle  go before if broke
+                    down?
+                 35. A student  walks and  jogs tocollege each day.  The  student averages 5 km/hr
+                     walking  and  9 km/hr  jogging. The  distance from  home  to collegeis 8 km,
+                     and  the student makes  the trip in one hour. How   fardoes  the student jog?
+                 36. On  a 130 mi trip, a cartraveled at an  average speed  of55 mph   and then
+                     reduced  itsspeed  to 40 mph  for the remainder  of the trip.The  trip took a
+                     total of 2.5h. For  how long  did the car travelat 40 mph?
+                 37. On  a 220 mi trip, a cartraveled at an  average speed  of50 mph   and then
+                     reduced  itsaverage  speed to 35 mph   forthe remainder  of the trip. The trip
+                     took  a totalof 5 h. How  long did the car travel at each speed?
+                 38. An executive  drove from  home  at an average speed  of 40 mph  to an airport
+                     where  a helicopter was waiting.  The  executive boarded  the helicopter and
+                      ew  to the corporate  o ces  at and average  speed of 60 mph.  The  entire
+                     distance was  150 mi.  The entire trip took 3 h. Find  the distance from the
+                     airport to the corporate  o ces.
+                                                           87

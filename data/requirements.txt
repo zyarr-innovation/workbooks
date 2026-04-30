@@ -1,0 +1,7 @@
+pandas
+pdf2image
+pytesseract
+beautifulsoup4
+requests
+pix2text
+opencv-python

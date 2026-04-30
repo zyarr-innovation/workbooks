@@ -1,0 +1,688 @@
+Example   1.
+-5  + ( -3)   Same sign, add 5 + 3, keep the negative
+        -8    Our Solution
+
+Example   2.
+-7  + ( -5)   Same sign, add 7 + 5, keep the negative
+        -12    Our Solution
+
+Example   3.
+    -7 + 2   Different signs, subtract 7 -2, use sign from bigger number, negative
+        -5    Our  Solution
+
+Example   4.
+-4  + 6   Different signs, subtract 6 -4, use sign from bigger number, positive
+      2   Our Solution
+
+Example   5.
+4 + ( -3)   Different signs, subtract 4 -3, use sign from bigger number, positive
+       1    Our Solution
+
+Example   6.
+7 + ( -10)  Different signs, subtract 10 -7, use sign from bigger number, negative
+      -3    Our Solution
+
+Example   7.
+8 - 3       Add the opposite of 3
+8 + ( -3)   Different signs, subtract 8 -3, use sign from bigger number, positive
+        5   Our Solution
+
+Example   8.
+-4  - 6       Add the opposite of 6
+-4  + ( -6)   Same sign, add 4 + 6, keep the negative
+        -10     Our Solution
+
+Example   9.
+9 - ( - 4)   Add the opposite of -4
+9 + 4        Same  sign, add 9 + 4, keep the positive
+        13   Our Solution
+
+Example   10.
+-6  -( -2)    Add the opposite of -2
+-6  + 2       Different sign, subtract 6 -2, use sign from bigger number, negative
+    -4        Our Solution
+                                        8
+Example   11.
+(4)( -6)   Signs do not match, answer is negative
+    -24    Our Solution
+
+Example   12.
+-36     Signs match, answer is positive
+----
+-9
+4       Our  Solution
+
+Example   13.
+-2( -6)    Signs match, answer is positive
+    12     Our Solution
+
+Example   14.
+15
+---
+-3     Signs do not match, answer is negative
+-5     Our Solution
+
+
+
+Fractions
+--------------------------------
+Example   15.
+        36
+       ---     Both numerator and denominator are divisible by 4
+        84
+
+36 ÷ 4    9    Both numerator and denominator are still divisible by 3
+------ = ---
+84 ÷ 4    21
+
+9 ÷ 3     3   
+------ = ---  Our Soultion
+21 ÷ 3    7  
+
+
+Example   16.
+6   3   Multiply numerators across and denominators across
+- * -
+7   5
+
+18
+---     Our Solution
+35   
+
+Example   17.
+25      32
+--- *  ---  Reduce 25 and 55 by dividing by 5. Reduce 32 and 24 by dividing by 8
+24      55    
+
+5      4
+--- * ---   Multiply numerators across and denominators across
+3     11
+
+20       Our Solution
+---
+33
+
+Example  18.
+21     28
+--- ÷ ---    Multiply by the reciprocal
+16     6
+
+21     6     Reduce 21 and 28 by dividing by 7. Reduce 6 and 16 by dividing by 2
+--- *  ---
+16     28
+
+3     3
+--- * ---    Multiply numerators across and denominators across
+8     4   
+
+9           Our Soultion
+---
+32   
+
+Example  19.
+Find the LCD of 8 and 12   Test multiples of 12
+12?  12  
+    ---       Can′t divide 12 by 8
+     8
+
+24?  24  
+    --- = 3   Yes! We can divide 24 by 8!
+     8
+
+    24  Our Soultion
+
+Example  20.
+ 7     3   
+--- + ---  Same denominator, add numerators 7 + 3
+ 8     8
+
+    10
+    ---    Reduce answer, dividing by 2
+     8    
+
+     5
+    ---   Our Solution
+     4
+
+
+Example  21.
+13     9
+--- - ---   Same denominator, subtract numerators 13 -9
+ 6     6
+
+     4   
+    ---     Reduce answer, dividing by 2
+     6
+
+     2   
+    ---     Our Solution
+     3
+
+Example  22.
+ 5     4
+--- + ---     LCD  is 18.
+ 6     9
+
+3 * 5    4 * 2 
+-----  + ----   Multiply  first fraction by 3 and the second by 2
+3 * 6    9 * 2
+
+ 15    8   
+--- + --- Same denominator, add numerators, 15 + 8
+ 18   18
+
+ 23
+---   Our Solution
+ 18   
+
+
+Example  23.
+ 2     1
+--- - ---        LCD  is 6
+ 3     6
+ 2 * 2     1  
+------  - ---  Multiply  rst fraction by 2, the second already has a denominator of 6
+ 2 * 3     6
+
+ 4     1   
+--- - ---      Same denominator, subtract numerators, 4 -1
+ 6     6
+
+ 3
+---      Reduce answer, dividing by 3
+ 6   
+
+ 1
+---      Our Solution
+ 2
+
+
+
+Order     of  Operations
+------------------------------------------------
+
+Example   24.
+2 + 5 * 3   Add First       2 + 5 * 3 Multiply
+    7 * 3   Multiply        2 + 15    Add
+        21   Solution            17    Solution
+
+    Order  of Operations:
+    Parenthesis  (Grouping)
+        Exponents
+Multiply  and  Divide  (Left to Right)
+Add   and  Subtract  (Left to Right)
+
+
+Example   25.
+2 + 3(9 -4)²  Parenthesis  first
+        ----
+    2 + 3(5)²  Exponents
+        ----
+    2 + 3(25)  Multiply
+        2 + 75  Add
+            77   Our Solution
+
+
+Example   26.
+30 ÷ 3 * 2  Divide  rst (left to right!)
+------
+    10 * 2  Multiply
+    ------
+        20  Our Solution
+
+Example   27.
+2{8² -7[32 -4(3²+ 1)]( -1)}   Inner most parenthesis, exponents  first
+                ---
+2{8² -7[32 -4(9 + 1)]( -1)}   Add inside those parenthesis
+                -----
+2{8² -7[32 -4(10)]( -1)}      Multiply inside inner most parenthesis
+            ----- 
+2{8² -7[32 -40]( -1)}         Subtract inside those parenthesis
+        ------
+2{8² -7[ -8 ]( -1)}           Exponents next
+    ---
+2{64 -7[ -8]( -1)}            Multiply left to right, sign with the number
+        -------
+2{64 + 56( -1)}               Finish multiplying
+        ------
+2{64 -56}                     Subtract inside parenthesis
+    ------
+2{8}                          Multiply
+----
+16                             Our Solution
+
+Example   28.
+2⁴ -( -8) * 3
+-------------  Exponent in the numerator, divide in denominator
+  15 ÷ 5 - 1
+
+16 -( -8) * 3
+-------------   Multiply in the numerator, subtract in denominator
+    3 -1
+
+16 -( -24)
+----------    Add the opposite to simplify numerator, denominator is done.
+    2
+
+ 40    Reduce, divide
+---
+ 2
+
+ 20   Our Solution
+
+Example   29.
+1 + 3| -4² -( -8)| + 2|3 + ( -5)²|   Evaluate absolute values  rst, exponents
+
+1 + 3|-16  -( -8)| + 2|3 +   25  |   Add inside absolute values
+1 + 3| -8| + 2|28|                   Evaluate absolute values
+1 + 3(8) + 2(28)                     Multiply left to right
+1 + 24 + 2(28)                       Finish multiplying
+1 + 24 + 56                          Add left to right
+25 + 56                              Add
+81                                   Our Solution
+
+
+
+
+Properties      of  Algebra
+-----------------------------------------------
+
+Example   30.
+p(q + 6) when p = 3 and q = 5   Replace p with 3 and q with 5
+(3)((5) + 6)        Evaluate parenthesis
+(3)(11)             Multiply
+33                  Our Solution
+
+Example   31.
+    x    +  zx(3 -z)(x/3)   when x = -6 and z = -2   Replace all x′s with 6 and z ′s with 2
+
+( -6) + ( -2)( -6)(3 -( -2))((-6)/3)      Evaluate parenthesis
+    -6  + ( -2)( -6)(5)( -2)                Multiply left to right
+    -6  + 12(5)( -2)                        Multiply left to right
+    -6 + 60( -2)                            
+    -6  -120                                
+    -126                                   Our Solution
+
+Example   32.
+5x -2y -8x  + 7y    Combine like terms 5x -8x and -2y + 7y
+        -3x  + 5y   Our Solution
+
+Example   33.
+8x² -3x + 7 -2x² + 4x -3    Combine  like terms 8x² -2x² and -3x + 4x and 7 -3
+6x² + x + 4                 Our Solution
+
+
+Distributive  Property: a(b +  c) = ab + ac
+
+Example   34.
+4(2x -7)   Multiply each term by 4
+8x -28   Our Solution
+
+Example   35.
+-7(5x -6)    Multiply each term by -7
+-35x + 42     Our Solution
+
+Example   36.
+-(4x -5y  + 6)  Negative can be thought of as -1
+-1(4x -5y  + 6)  Multiply each term by -1
+-4x +5y  - 6     Our Solution
+
+Example   37.
+5 + 3(2x -4)  Distribute 3, multipling each term
+5 + 6x -12  Combine  like terms 5 -12
+    6x -7   Our Solution
+
+Example   38.
+3x -2(4x -5)    Distribute -2, multilpying each term
+3x -8x + 10     Combine like terms 3x -8x
+-5x  + 10       Our Solution
+
+
+Example   39.
+2(5x -8) -6(4x + 3)  Distribute 2 into  rst parenthesis and -6 into second
+10x -16 -24x -18    Combine like terms 10x -24x and -16 -18
+        -14x -34    Our Solution
+
+Example   40.
+4(3x -8) -(2x -7)     Negative (subtract) in middle can be thought of as -1
+4(3x -8) -1(2x -7)    Distribute 4 into  rst parenthesis, -1 into second
+12x -32  -2x  + 7     Combine like terms 12x -2x and -32 + 7
+10x -25                Our Solution
+
+
+Solving Linear Equations - One Step Equations
+Example   41.
+    4x + 16 = -4
+
+Example   42. Assume x = -5
+                        4x + 16 = -4 
+                        4( -5) + 16 = -4   Multiply 4( -5)
+                        -20  + 16 = -4   Add  -20 + 16
+                                -4 =  -4   True!
+
+Example   43. Assume x = 3
+                        4x + 16 = -4
+                        4(3) + 16 = -4  Multiply 4(3)
+                        12   + 16 = -4  Add  12 + 16
+                            28  = -4   False!
+
+Addition/Subtraction  Problems
+Example   44.
+x + 7 =  -5     The 7 is added to the x
+   -7    -7     Subtract 7 from both sides to get rid of it
+------------
+x     = -12    Our solution!
+
+Example   45.
+ 4 + x = 8                 
+-4      -4                 
+-----------
+     x = 4                 
+
+ 7 = x + 9                 
+-9      -9                
+----------
+-2 = x                   
+
+ 5 = 8 + x
+-8  -8
+----------
+-3 = x
+
+Example   46.
+x -5 = 4   The 5 is negative, or subtracted from x
+  +5  +5   Add 5 to both sides
+---------
+   x = 9   Our Solution!
+
+Example   47.
+-6 + x = -2                   
++6       +6                   
+------------- 
+    x =  4                     
+                                        
+-10 = x -7                  
++ 7   + 7                
+-3 = x                    
+
+5  = -8 + x
++8   +8
+-----------
+13 = x
+           
+Multiplication  Problems
+Example   48.
+ 4x =  20
+
+ 4x    20   Variable is multiplied by 4
+--- = --- 
+ 4     4    Divide both sides by 4
+
+x = 5  Our solution!
+
+Example   49.
+-5x  =  30 
+
+-5x      30   Variable is multiplied by -5
+---  =  ---
+-5      -5    Divide both sides by -5
+
+ x   = -6    Our Solution!
+
+
+  8x = -24
+
+  8x    -24                
+ --- =  ---
+  8      8                  
+
+  x = -3                    
+
+
+-4x  = -20 
+
+-4x     -20                 
+---  =  ---
+-4      -4                 
+
+   x = 5                     
+
+
+42  =  7x
+---   ---
+7     7
+
+6 = x
+
+Division Problems:
+Example   51.
+ x
+---  = -3      Variable is divided by 5
+ 5 
+
+(5)x
+--- = -3(5)    Multiply both sides by 5
+ 5 
+
+  x = -15     Our Solution!
+
+
+Example   52.
+ x 
+--- = -2                      
+-7 
+
+(-7)x                        
+-----  = -2( -7)             
+ -7  
+
+x = 14                      
+
+
+ x   
+--- = 5                   
+ 8 
+
+ (8) x                      
+------- = 5(8)
+    8 
+
+x = 40                    
+
+ x  
+---- = 9
+ -4 
+    
+( -4)x 
+------- = 9( -4)
+  -4
+
+x = -36
+
+
+
+Linear    Equations       -  Two-Step       Equations
+
+Example    53.
+4x -20  = -8
+
+4x -20 = -8    Start by focusing on the subtract 20
+    +20   +20   Add 20 to both sides
+-------------
+ 4x    =   12   Now  we focus on the 4 multiplied by x
+---       ---
+ 4         4    Divide both sides by 4
+
+    x = 3  Our Solution!
+
+Notice in our next example  when  we replace the x with 3  we get a true state-
+ment.
+4(3) -20 = -8    Multiply 4(3)
+ 12  -20 = -8    Subtract 12 -20
+     -8  = -8    True!
+
+
+Example   54.
+5x + 7 = 7   Start by focusing on the plus 7
+    -7  -7   Subtract 7 from both sides
+-----------
+5x        0   Now  focus on the multiplication by 5
+---    = ---
+5        5    Divide both sides by 5
+
+   x  =  0   Our Solution!
+
+Example   55.
+ 4 -2x = 10   Start by focusing on the positive 4
+-4       -4    Subtract 4 from both sides
+------------
+-2x    6   Negative (subtraction) stays on the 2x
+--- = ---  Divide by -2
+-2    -2    
+
+  x = -3   Our Solution!
+
+
+Example   56.
+ 8 -x =  2   Start by focusing on the positive 8
+-8      -8   Subtract 8 from both sides
+------------
+   -x = -6    Negative (subtraction) stays on the x
+
+  -1x   -6    Remember,  no number in front of variable means 1
+  ---  = ---
+  -1     -1    Divide both sides by -1
+
+    x = 6  Our Solution!
+
+
+Example   57.
+-3x + 7 =  -8                 
+     -7    -7 
+-------------                 
+-3x       -15                      
+---    =  ---
+-3        -3                      
+
+ x     =   5                        
+
+
+-2 + 9x =  7                   
++2        +2   
+------------             
+     9x    9                 
+    --- = ---
+     9     9                 
+
+        x = 1                
+
+
+ 8   = 2x + 10
+-10        -10
+--------------
+ -2    2x
+ --- = ---
+  2     2
+
+ -1  = x
+
+
+ 7 -5x  = 17               
+-7        -7                 
+--------------                                
+   -5x = 10                    
+   -5  -5                     
+
+    x = -2                      
+
+
+-5  -3x  = -5           
++5         +5           
+----------------                         
+    -3x     0            
+    --- = ---
+    -3     -3
+
+      x = 0              
+
+
+
+Solving     Linear    Equations       - General      Equations
+Example   59.
+4(2x -6) = 16   Distribute 4 through parenthesis
+  8x -24 = 16   Focus on the subtraction  rst
+     +24  +24   Add 24 to both sides
+  -----------
+  8x     40   Now focus on the multiply by 8
+  --- = ---
+   8     8    Divide both sides by 8
+
+    x = 5  Our Solution!
+
+Example   60.
+  3(2x -4) + 9 =  15  Distribute the 3 through the parenthesis
+    6x -12 + 9 =  15  Combine  like terms, -12 + 9
+    6x -3      =  15  Focus on the subtraction  rst
+       +3         +3  Add  3 to both sides
+    -----------------
+        6x        18  Now  focus on multiply by 6
+        ---    = ----
+         6         6   Divide both sides by 6
+             x = 3  Our Solution
+
+Example   61.
+  4x -6 = 2x + 10   Notice the variable on both sides
+ -2x     -2x          Subtract 2x from both sides
+ -----------------
+  2x -6  =     10       Focus on the subtraction  rst
+     +6        +6       Add 6 to both sides
+ ----------------
+  2x     =    16       Focus on the multiplication by 2
+ ----        ---- 
+   2           2       Divide both sides by 2
+       x = 8           Our Solution!
+
+Example   62.
+4(8) -6 = 2(8) + 10  Multiply 4(8) and 2(8)  rst
+  32 -6 = 16 + 10    Add and Subtract
+     26 = 26        True!
+
+Example  63.
+  -3x + 9 = 6x -27  Notice the variable on both sides, -3x is smaller
+  +3x      +3x      Add 3x to both sides
+  ----------------
+        9 = 9x -27  Focus on the subtraction by 27
+      +27      +27  Add 27 to both sides
+      ------------
+       36    9x     Focus on the mutiplication by 9
+      --- = ---
+       9     9       Divide both sides by 9
+        4 = x      Our Solution
+
+
+Example  64.
+ 2(x -5) + 3x = x + 18 Distribute the 2 through parenthesis
+ 2x -10 + 3x = x + 18 Combine like terms 2x + 3x
+      5x -10 = x + 18 Notice the variable is on both sides
+      -x      -x        Subtract x from both sides
+      ---------------
+      4x -10 = 18     Focus on the subtraction of 10
+         +10  +10     Add 10 to both sides
+      --------------
+      4x        28     Focus on multiplication by 4
+     ----    = ----
+      4         4      Divide both sides by 4
+           x = 7     Our Solution
+
+Example  65.
+ 3(4x -5) -4(2x + 1) =  5 Distribute 3 and -4 through parenthesis
+ 12x -15 -8x -4      =  5  Combine like terms 12x -8x and -15 -4
+  4x -19             =  5  Focus on subtraction of 19
+     +19              +19   Add 19 to both sides
+    ---------------------
+4x                   = 24  Focus on multiplication by 4
+---                  = ---
+4                       4   Divide both sides by 4
+
+x                    = 6  Our Solution
+
