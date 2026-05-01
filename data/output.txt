@@ -1,1030 +1,45 @@
-                Example   1.
-                              -5  + ( -3)   Same sign, add 5 + 3, keep the negative
-                                      -8    Our Solution
 
-                Example   2.
-                              -7  + ( -5)   Same sign, add 7 + 5, keep the negative
-                                     -12    Our Solution
-                Example   3.
-                   -7 + 2   Different signs, subtract 7 -2, use sign from bigger number, negative
-                       -5    Our  Solution
-
-                Example   4.
-                   -4  + 6   Different signs, subtract 6 -4, use sign from bigger number, positive
-                         2   Our Solution
-                                                        7
-
-                Example   5.
-                  4 + ( -3)   Different signs, subtract 4 -3, use sign from bigger number, positive
-                          1   Our Solution
-
-                Example   6.
-                 7 + ( -10)  Different signs, subtract 10 -7, use sign from bigger number, negative
-                       -3    Our Solution
-
-
-                Example   7.
-                  8 - 3       Add the opposite of 3
-                  8 + ( -3)   Different signs, subtract 8 -3, use sign from bigger number, positive
-                         5   Our Solution
-
-                Example   8.
-                              -4  - 6       Add the opposite of 6
-                              -4  + ( -6)   Same sign, add 4 + 6, keep the negative
-                                     -10     Our Solution
-
-                Example   9.
-                              9 - ( - 4)   Add the opposite of -4
-                              9 + 4        Same  sign, add 9 + 4, keep the positive
-                                      13   Our Solution
-
-                Example   10.
-                 -6  -( -2)    Add the opposite of -2
-                     -6  + 2   Di erent sign, subtract 6 -2, use sign from bigger number, negative
-                         -4    Our Solution
-                                                       8
-
-                Example   11.
-                                (4)( -6)   Signs do not match, answer is negative
-                                    -24    Our Solution
-
-                Example   12.
-                                     -36    Signs match, answer is positive
-                                     ----
-                                      -9
-                                       4  Our  Solution
-
-                Example   13.
-                                   -2( -6)    Signs match, answer is positive
-                                         12   Our Solution
-
-                Example   14.
-                                   15
-                                -------
-                                   -3     Signs do not match, answer is negative
-                                   -5     Our Solution
-
-                             0.1 Practice  - Integers
-            Evaluate each expression.
-            1) 1 -3                        2) 4 -( -1)
-            3) ( -6) -( -8)                4) ( -6) + 8
-            5) ( -3) -3                    6) ( -8) -( -3)
-            7) 3 -( -5)                    8) 7 -7
-            9) ( -7) -( -5)                10) ( -4) + ( -1)
-            11) 3 -( -1)                   12) ( -1) + ( -6)
-            13) 6 -3                       14) ( -8) + ( -1)
-            15) ( -5) + 3                  16) ( -1) -8
-            17) 2 -3                       18) 5 -7
-            19) ( -8) -( -5)               20) ( -5) + 7
-            21) ( -2) + ( -5)              22) 1 + ( -1)
-            23) 5 -( -6)                   24) 8 -( -1)
-            25) ( -6) + 3                  26) ( -3) + ( -1)
-            27) 4 -7                       28) 7 -3
-            29) ( -7) + 7                  30) ( -3) + ( -5)
-            Find each product.
-            31) (4)( -1)                   32) (7)( -5)
-            33) (10)( -8)                  34) ( -7)( -2)
-            35) ( -4)( -2)                 36) ( -6)( -1)
-            37) ( -7)(8)                   38) (6)( -1)
-            39) (9)( -4)                   40) ( -9)( -7)
-            41) ( -5)(2)                   42) ( -2)( -2)
-            43) ( -5)(4)                   44) ( -3)( -9)
-
-            45) (4)( -6)
-                Find  each quotient.
-                     30                                      -49
-                    ---                                      ---
-                46) -10                                  47) -7
-
-                48) -12                                  49) -2
-                    ---                                      ---
-                    -4                                       -1
-
-                50) 30                                   51) 20
-                    ---                                     ---
-                     6                                       10
-
-                52) 27                                   53) -35
-                   ---                                       ---
-                    3                                        -5
-
-                54) 80                                   55) -8
-                    ---                                      ---
-                    -8                                       -2
-
-                56) 50                                   57) -16
-                   ---                                       ---
-                    5                                         2
-
-                58) 48                                   59) 60
-                   ---                                       ---
-                    8                                        -10
-
-                60) 54
-                   ---
-                    -6
-
-                                   Pre-Algebra       -  Fractions
-               Example   15.
-                              36
-                                   Both numerator and denominator are divisible by 4
-                              84
-                      36 ÷ 4    9   Both numerator and denominator are still divisible by 3
-                      ------ = ---
-                      84 ÷ 4    21
-
-                        9 ÷ 3    3   
-                        ----- = ---  Our Soultion
-                       21 ÷ 3    7  
-
-
-               Example   16.
-                          6   3   Multiply numerators across and denominators across
-                          - * -
-                          7   5
-                            18
-                            --  Our Solution
-                            35   
-
-               Example   17.
-                   25      32
-                   --- *  ---  Reduce 25 and 55 by dividing by 5. Reduce 32 and 24 by dividing by 8
-                   24      55    
-
-                    5      4
-                   --- * ---   Multiply numerators across and denominators across
-                    3     11
-                      20       Our Solution
-                      ---
-                      33
-
-               Example  18.
-                  21     28
-                  --- ÷ ---    Multiply by the reciprocal
-                  16     6
-
-                   21     6    Reduce 21 and 28 by dividing by 7. Reduce 6 and 16 by dividing by 2
-                  --- *  ---
-                   16     28
-
-                   3     3
-                  --- * ---    Multiply numerators across and denominators across
-                   8     4   
-                       9       Our Soultion
-                      ---
-                       32   
-
-               Example  19.
-                            Find the LCD of 8 and 12   Test multiples of 12
-                                        12? 12  
-                                            ---       Can′t divide 12 by 8
-                                             8
-
-                                        24? 24  
-                                            --- = 3   Yes! We can divide 24 by 8!
-                                             8
-
-                                             24  Our Soultion
-
-               Example  20.
-                             7     3   
-                            --- + ---  Same denominator, add numerators 7 + 3
-                             8     8
-                                 10
-                                ---    Reduce answer, dividing by 2
-                                 8    
-                                  5
-                                 ---   Our Solution
-                                  4
-
-
-               Example  21.
-                           13     9
-                           --- - ---   Same denominator, subtract numerators 13 -9
-                            6     6
-                                4   
-                               ---     Reduce answer, dividing by 2
-                                6
-                                2   
-                               ---     Our Solution
-                                3
-               Example  22.
-                               5     4
-                              --- + ---     LCD  is 18.
-                               6     9
-
-                          3 * 5    4 * 2 
-                          -----  + ----   Multiply  first fraction by 3 and the second by 2
-                          3 * 6    9 * 2
-
-                             15    8   
-                            --- + --- Same denominator, add numerators, 15 + 8
-                             18   18
-                                 23
-                                ---   Our Solution
-                                 18   
-
-               Example  23.
-                    2     1
-                   --- - ---        LCD  is 6
-                    3     6
-                 2 * 2     1  
-                ------  - ---  Multiply  rst fraction by 2, the second already has a denominator of 6
-                 2 * 3     6
-
-                 4     1   
-                --- - ---      Same denominator, subtract numerators, 4 -1
-                 6     6
-
-                       3
-                      ---      Reduce answer, dividing by 3
-                       6   
-                      
-                       1
-                      ---      Our Solution
-                       2
-
-
-
-                                        0.2   Practice       - Fractions
-                 Simplify   each.  Leave  your  answer   as  an improper    fraction.
-                 1) 42                                       2) 25
-                    12                                          20
-                    35                                          24
-                 3) 25                                       4)  9
-                 5) 54                                       6) 30
-                    36                                          24
-                 7) 45 36                                    8) 36 27
-                 9) 27                                       10)  48
-                    18                                            18
-                 11) 40                                      12)  48
-                     16                                           42
-                     63                                           16
-                 13) 18                                      14)  12
-                 15) 80                                      16)  72
-                     60                                           48
-                     72                                           126
-                 17) 60                                      18)  108
-                 19) 36                                      20)  160
-                     24                                           140
-                 Find  each  product.
-                 21) (9)( 8 9)                               22) ( -2)( -5 6)
-                 23) (2)( -2 9)                              24) ( -2)( 1 3)
-                 25) ( -2)( 13 )                             26) ( 3 2)( 1 2)
-                            8
-                 27) ( -6 5)( -11 )                          28) ( -3 7)( -11 )
-                               8                                           8
-                 29) (8)( 1 2)                               30) ( -2)( -9 7)
-                      2  3                                         -17   -3
-                 31) ( 3)( 4)                                32) (    9 )(  5)
-                 33 (2)( 3 2)                                34) ( 17 )( -3 5)
-                                                                   9
-                      1  -7                                       1   5
-                 35) ( 2)(  5)                               36) ( 2)( 7)
-                                                            16
-
-
-                Find  each quotient.
-                37) -2 /  7                              38) -12 / -9
-                          4                                   7    5
-                39) -1 / -1                              40) -2 /  -3
-                    9     2                                        2
-                41) -3 / 13                              42) 5 / 7
-                    2    7                                   3  5
-                          2                                  10
-                43) -1 /  3                              44) 9 / -6
-                45) 8 9 / 1 5                            46) 1 6 / -5 3
-                47) -9 / 1                               48) -13 / -15
-                    7    5                                    8     8
-                49) -2 / -3                              50) -4 / -13
-                    9     2                                  5     8
-                51) 1 / 3                                52) 5 / 5
-                    10  2                                    3  3
-                Evaluate  each expression.
-                53) 1 + ( -4 3)                          54) 1 + ( -11 )
-                    3                                        7      7
-                55) 3 -1                                 56) 1 + 5
-                    7  7                                     3  3
-                57) 11 + 7                               58) ( -2) + ( -15 )
-                    6   6                                               8
-                    3  5                                          -2
-                59) 5 + 4                                60) ( -1)  3
-                                                             12 -9
-                61) 2 5 + 5 4                            62) 7   7
-                63) 9 + ( -2 7)                          64) ( -2) + 5
-                    8                                               6
-                65) 1 + ( -1 3)                          66) 1 -11
-                                                             2   6
-                67) ( -1 2) + 3                          68) 11 -1
-                           2                                 8   2
-                    1  3                                 70) 6 -8
-                69) 5 + 4                                    5  5
-                     -5  -15                                  -1     -8
-                71) (  7)   8                            72) (  3) + (  5)
-                73) 6 -8                                 74) ( -6) + ( -5 3)
-                       7
-                75) 3 -15                                76) ( -1) -( -1 3)
-                    2   8
-                77) ( -15 ) + 5                          78) 3 + 9
-                       8    3                                2  7
-                79) ( -1) -( -1 6)                       80) ( -1 2) -( -3 5)
-                81) 5 -( -1 3)                           82) 9 -( -5 3)
-                    3                                        7
-
-
-                             Pre-Algebra        - Order     of  Operations
-
-                Example   24.
-                                2 + 5 * 3   Add First       2 + 5 * 3 Multiply
-                                    7 * 3   Multiply        2 + 15    Add
-                                       21   Solution            17    Solution
-
-                                            Order  of Operations:
-                                          Parenthesis  (Grouping)
-                                                 Exponents
-                                   Multiply  and  Divide  (Left to Right)
-                                    Add   and  Subtract  (Left to Right)
-
-                the expression that is to be evaluated  first. So problems like 2(3 + 5) were written
-                as 2 * 3 + 5.
-                      ------
-
-                Example   25.
-                                        2 + 3(9 -4)²  Parenthesis  first
-                                              ----
-                                           2 + 3(5)²  Exponents
-                                                ----
-                                           2 + 3(25)  Multiply
-                                              2 + 75  Add
-                                                 77   Our Solution
-
-
-                Example   26.
-                                     30 ÷ 3 * 2  Divide  rst (left to right!)
-                                     ------
-                                         10 * 2  Multiply
-                                         ------
-                                             20  Our Solution
-
-                Example   27.
-                    2{8² -7[32 -4(3²+ 1)]( -1)}   Inner most parenthesis, exponents  first
-                                 ---
-                    2{8² -7[32 -4(9 + 1)]( -1)}   Add inside those parenthesis
-                                  -----
-                    2{8² -7[32 -4(10)]( -1)}      Multiply inside inner most parenthesis
-                                ----- 
-                    2{8² -7[32 -40]( -1)}         Subtract inside those parenthesis
-                            ------
-                    2{8² -7[ -8 ]( -1)}           Exponents next
-                     ---
-                    2{64 -7[ -8]( -1)}            Multiply left to right, sign with the number
-                         -------
-                    2{64 + 56( -1)}               Finish multiplying
-                           ------
-                    2{64 -56}                     Subtract inside parenthesis
-                      ------
-                    2{8}                          Multiply
-                    ----
-                    16                             Our Solution
-
-                Example   28.
-                    2⁴ -( -8) * 3
-                    -------------  Exponent in the numerator, divide in denominator
-                     15 ÷ 5 - 1
-
-                   16 -( -8) * 3
-                   -------------   Multiply in the numerator, subtract in denominator
-                       3 -1
-
-                     16 -( -24)
-                     ----------    Add the opposite to simplify numerator, denominator is done.
-                          2
-
-                     40    Reduce, divide
-                    ---
-                      2
-
-                     20   Our Solution
-
-                Example   29.
-
-                   1 + 3| -4² -( -8)| + 2|3 + ( -5)²|   Evaluate absolute values  rst, exponents
-
-                   1 + 3|-16  -( -8)| + 2|3 +   25  |   Add inside absolute values
-                   1 + 3| -8| + 2|28|                   Evaluate absolute values
-                   1 + 3(8) + 2(28)                     Multiply left to right
-                   1 + 24 + 2(28)                       Finish multiplying
-                   1 + 24 + 56                          Add left to right
-                   25 + 56                              Add
-                   81                                   Our Solution
-
-
-                             0.3   Practice     -  Order     of Operation
-                Solve.
-                1) -6  4( -1)                           2) ( -6 / 6)3
-                3) 3 + (8) / |4|
-                                                        4) 5( -5 + 6)  62
-                5) 8 / 4  2                             6) 7 -5 + 6
-                7) [ -9 -(2 -5)] / ( -6)                8) ( -2  23  2) / ( -4)
-                                      3
-                9) -6 + ( -3 -3)2 /                     10) ( -7 -5) / [ -2 -2 -( -6)]
-                          32
-                11) 4 -2   -16                              -10-6
-                                                        12)  ( -2)2 -5
-                13) [ -1 -( -5)]|3 + 2|
-                                                        14) -3  -{3 -[ -3(2  + 4) -( -2)]}
-                    2 + 4   7 + 22
-                15) 4  2 + 5  3                                                     22       ]
-                                                 )      16) -4  -[2 + 4( -6) -4 -    -5   2
-                17) [6  2 + 2 -( -6)]( -5 + -18
-                                            6           18) 2  ( -3) + 3 -6[ -2 -( -1 -3)]
-                            -13-2
-                19) 2 -( -1)3 + ( -6) -[ -1 -( -3)]     20)  -52 + ( -5)2
-                                                            |42 -25| -2  3
-                21) 6  -8 -4 + ( -4) -[ -4 -( -3)]
-                            (42 + 32) / 5               22)   -9  2 -(3 -6)
-                                                            1 -( -2 + 1) -( -3)
-                23)          23 + 4
-                    -18-6 + ( -4) -[ -5( -1)( -5)]      24) 13+ ( -3)2 + 4( -3) + 1 -[ -10-( -6)]
-                         32                                   {[4 + 5] / [42 -32(4 -3) -8]} + 12
-                25)   5 3(22 + -24/   22 6  2 -5|2
-                    [5 +  -5)] +
-                                                       21
-
-
-                           Pre-Algebra       - Properties      of  Algebra
-
-               Example   30.
-                          p(q + 6) when p = 3 and q = 5   Replace p with 3 and q with 5
-                                        (3)((5) + 6)      Evaluate parenthesis
-                                        (3)(11)           Multiply
-                                        33                Our Solution
-
-               Example   31.
-                 x    +  zx(3 -z)(x/3)   when x = -6 and z = -2   Replace all x′s with 6 and z ′s with 2
-
-                ( -6) + ( -2)( -6)(3 -( -2))((-6)/3)      Evaluate parenthesis
-                  -6  + ( -2)( -6)(5)( -2)                Multiply left to right
-                  -6  + 12(5)( -2)                        Multiply left to right
-                  -6 + 60( -2)                            
-                  -6  -120                                
-                  -126                                   Our Solution
-
-                Example   32.
-                          5x -2y -8x  + 7y   Combine like terms 5x -8x and -2y + 7y
-                                 -3x  + 5y   Our Solution
-
-                Example   33.
-                8x² -3x + 7 -2x² + 4x -3    Combine  like terms 8x² -2x² and -3x + 4x and 7 -3
-                6x² + x + 4  Our Solution
-
-
-                Distributive  Property: a(b +  c) = ab + ac
-                Example   34.
-                                      4(2x -7)   Multiply each term by 4
-                                        8x -28   Our Solution
-
-                Example   35.
-                                    -7(5x -6)    Multiply each term by -7
-                                    -35x + 42     Our Solution
-
-               Example   36.
-                              -(4x -5y  + 6)  Negative can be thought of as -1
-                             -1(4x -5y  + 6)  Multiply each term by -1
-                               -4x +5y  - 6     Our Solution
-
-               Example   37.
-                              5 + 3(2x -4)  Distribute 3, multipling each term
-                                5 + 6x -12  Combine  like terms 5 -12
-                                    6x -7   Our Solution
-               Example   38.
-                            3x -2(4x -5)    Distribute -2, multilpying each term
-                            3x -8x + 10     Combine like terms 3x -8x
-                            -5x  + 10       Our Solution
-
-
-               Example   39.
-                   2(5x -8) -6(4x + 3)  Distribute 2 into  rst parenthesis and -6 into second
-                    10x -16 -24x -18    Combine like terms 10x -24x and -16 -18
-                            -14x -34    Our Solution
-
-               Example   40.
-                  4(3x -8) -(2x -7)     Negative (subtract) in middle can be thought of as -1
-                  4(3x -8) -1(2x -7)    Distribute 4 into  rst parenthesis, -1 into second
-                  12x -32  -2x  + 7     Combine like terms 12x -2x and -32 + 7
-                  10x -25                Our Solution
-
-                            0.4  Practice      - Properties       of  Algebra
-                Evaluate  each using  the values  given.
-                1) p + 1 + q -m; use m = 1, p = 3, q = 4 2) y2 + y -z; use y = 5, z = 1
-                3) p -pq ; use p = 6 and q = 5             6 + z -y
-                       6                                 4)   3   ; use y = 1, z = 4
-                  c2
-                5)  -(a  -1); use a = 3 and c = 5        6) x + 6z -4y; use x = 6, y = 4, z = 4
-                7) 5j + kh ; use h = 5, j = 4, k = 2     8) 5(b + a) + 1 + c; use a = 2, b = 6, c = 5
-                        2
-                9) 4 -(p -m) + q; use m = 4, p = 6, q = 6 10) z + x -(12)3; use x = 5, z = 4
-                      2
-                                n
-                11) m + n + m + 2; use m = 1 and n = 2   12) 3 + z -1 + y -1; use y = 5, z = 4
-                13) q -p -(q -1  -3); use p = 3, q = 6
-                14) p + (q -r)(6 -p); use p = 6, q = 5, r = 5
-                15) y -[4 -y -(z -x)]; use x = 3, y = 1, z = 6
-                16) 4z -(x + x -(z -z)); use x = 3, z = 2
-                17) k * 32 -(j + k) -5; use j = 4, k = 5 18) a3(c2 -c); use a = 3, c = 2
-                19) zx -(z -4 + x ); use x = 2, z = 6    20) 5 + qp + pq -q; use p = 6, q = 3
-                              6
-                Combine   Like Terms
-                21) r -9 + 10                            22) -4x + 2 -4
-                23) n + n                                24) 4b + 6 + 1 + 7b
-                25) 8v + 7v                              26) -x + 8x
-                27) -7x  -2x                             28) -7a -6  + 5
-                29) k -2 + 7                             30) -8p + 5p
-                31) x -10 -6x + 1                        32) 1 -10n -10
-                33) m -2m                                34) 1 -r -6
-                35) 9n -1 + n + 4                        36) -4b + 9b
-
-               Distribute
-               37) -8(x  -4)                            38) 3(8v + 9)
-               39) 8n(n + 9)                            40) -( -5 + 9a)
-               41) 7k( -k + 6)                          42) 10x(1 + 2x)
-               43) -6(1  + 6x)                          44) -2(n + 1)
-               45) 8m(5 -m)                             46) -2p(9p -1)
-               47) -9x(4  -x)                           48) 4(8n -2)
-               49) -9b(b  -10)                          50) -4(1 + 7r)
-               51) -8n(5  + 10n)                        52) 2x(8x -10)
-               Simplify.
-               53) 9(b + 10) + 5b                       54) 4v -7(1 -8v)
-               55) -3x(1  -4x) -4x2                     56) -8x + 9( -9x + 9)
-                   -4k2
-               57)       -8k (8k + 1)                   58) -9 -10(1 + 9a)
-               59) 1 -7(5 + 7p)                         60) -10(x -2) -3
-               61) -10  -4(n -5)                        62) -6(5 -m)  + 3m
-               63) 4(x + 7) + 8(x + 4)                  64) -2r(1 + 4r) + 8r( -r + 4)
-               65) -8(n  + 6) -8n(n + 8)                66) 9(6b + 5) -4b(b + 3)
-               67) 7(7 + 3v) + 10(3 -10v)               68) -7(4x -6) + 2(10x -10)
-               69) 2n( -10n + 5) -7(6 -10n)             70) -3(4 + a) + 6a(9a + 10)
-               71) 5(1 -6k) + 10(k -8)                  72) -7(4x + 3) -10(10x + 10)
-               73) (8n2 -3n) -(5 + 4n2)                 74) (7x2 -3) -(5x2 + 6x)
-                                                           (3x2
-               75) (5p -6) + (1 -p)                     76)    -x)  -(7 -8x)
-               77) (2 -4v2) + (3v2 + 2v)                78) (2b -8) + (b -7b2)
-               79) (4 -2k2) + (8 -2k2)                  80) (7a2 + 7a) -(6a2 + 4a)
-               81) (x2 -8) + (2x2 -7)                   82) (3 -7n2) + (6n2 + 3)
-
-Solving Linear Equations - One Step Equations
-                Example   41.
-                                                4x + 16 = -4
-
-                Example   42. Assume x = -5
-                                     4( -5) + 16 = -4   Multiply 4( -5)
-                                       -20  + 16 = -4   Add  -20 + 16
-                                             -4 =  -4   True!
-                Example   43. Assume x = 3
-                                        4(3) + 16 = -4  Multiply 4(3)
-                                        12   + 16 = -4  Add  12 + 16
-                                              28  = -4   False!
-                Addition/Subtraction  Problems
-                Example   44.
-                              x + 7 = -5     The 7 is added to the x
-                                 -7   -7     Subtract 7 from both sides to get rid of it
-                              x     = -12    Our solution!
-
-
-                Example   45.
-                         4 + x = 8                 
-                        -4      -4                 
-                             x = 4                 
-
-                         7 = x + 9                 
-                        -9      -9                
-                        -2 = x                   
-
-                         5 = 8 + x
-                        -8  -8
-                        -3 = x
-
-                Example   46.
-                                x -5 = 4   The 5 is negative, or subtracted from x
-                                  +5  +5   Add 5 to both sides
-                                   x = 9   Our Solution!
-
-               Example   47.
-                   -6 + x = -2                   
-                   +6       +6                    
-                        x =  4                     
-                                        
-                    -10 = x -7                  5 = -8 + x
-                    + 7   + 7                +  8 + 8
-                    -3 = x                    13 = x
-
-               Multiplication  Problems
-               Example   48.
-                                     4x = 20   Variable is multiplied by 4
-                                    ---  ---
-                                     4    4    Divide both sides by 4
-
-                                     x = 5  Our solution!
-
-               Example   49.
-                                  -5x  =  30   Variable is multiplied by -5
-                                  ---    ---
-                                  -5     -5    Divide both sides by -5
-
-                                   x   = -6    Our Solution!
-
-                        8x  = -24                
-                        ---   ---
-                        8      8                  
-
-                        x = -3                    
-
-
-                        -4x  = -20                 
-                        ---    ---
-                        -4     -4                 
-                        
-                         x = 5                     
-
-
-                        42  =  7x
-                        ---   ---
-                         7     7
-
-                         6 = x
-
-               Division Problems:
-               Example   51.
-                                      x
-                                     ---  = -3      Variable is divided by 5
-                                      5 
-
-                                  (5)x
-                                    --- = -3(5)    Multiply both sides by 5
-                                     5 
-
-                                     x = -15     Our Solution!
-
-
-               Example   52.
-                x 
-                --- = -2                      
-                -7 
-                
-            ( -7)x                        
-                ---  = -2( -7)             
-                -7  
-
-                x = 14                      
-
-                x   
-               --- = 5                   
-                8 
-                
-              (8)  x                      
-               ----- = 5(8)
-                 8 
- 
-                x = 40                    
-
-                 x  
-                --- = 9
-                 -4 
-                 
-           ( -4) x 
-                --- = 9( -4)
-                -4
-
-                x = -36
-
-
-                     1.1    Practice       -  One     Step     Equations
-               Solve each equation.
-               1) v + 9 = 16                         2) 14 = b + 3
-               3) x -11 = -16                        4) -14 = x -18
-               5) 30 = a + 20                        6) -1 + k = 5
-               7) x -7 = -26                         8) -13 + p = -19
-               9) 13 = n -5                          10) 22 = 16 + m
-               11) 340 = -17x                        12) 4r = -28
-               13) -9 = n                            14) 5 = b
-                        12                              9   9
-               15) 20v = -160
-                                                     16) -20x = -80
-               17) 340 = 20n                         18) 1 = a
-                                                        2   8
-               19) 16x = 320                             k
-                                                     20) 13 = -16
-               21) -16 + n = -13
-                                                     22) 21 = x + 5
-               23) p -8 = -21
-                                                     24) m -4 = -13
-               25) 180 = 12x
-                                                     26) 3n = 24
-               27) 20b = -200
-                                                     28) -17 = 12 x
-               29) r = 5
-                  14  14                             30) n + 8 = 10
-               31) -7 = a + 4
-                                                     32) v -16 = -30
-                      x
-               33) 10 = -4                                     x
-                                                     34) -15 =  -16
-               35) 13a = -143
-                                                     36) -8k = 120
-               37) p = -12
-                  20                                 38) -15 = x
-               39) 9 + m = -7                                  9
-                                                     40) -19 = n
-                                                               20
-                                                   32
-
-                         Linear    Equations       -  Two-Step       Equations
-
-               Example    53.
-                               4x -20  = -8
-
-                               4x -20 = -8    Start by focusing on the subtract 20
-                                  +20   +20   Add 20 to both sides
-                               4x      = 12   Now  we focus on the 4 multiplied by x
-                              ---       ---
-                                4        4    Divide both sides by 4
-
-                                       x = 3  Our Solution!
-
-               Notice in our next example  when  we replace the x with 3  we get a true state-
-               ment.
-                                      4(3) -20 = -8    Multiply 4(3)
-                                        12 -20 = -8    Subtract 12 -20
-                                           -8  = -8    True!
-
-
-               Example   54.
-                               5x + 7 = 7   Start by focusing on the plus 7
-                                   -7  -7   Subtract 7 from both sides
-                               5x        0   Now  focus on the multiplication by 5
-                               ---    = ---
-                                5        5    Divide both sides by 5
-                                   x  =  0   Our Solution!
-
-               Example   55.
-                              4 -2x = 10   Start by focusing on the positive 4
-                             -4       -4    Subtract 4 from both sides
-
-                                 -2x    6   Negative (subtraction) stays on the 2x
-                                 --- = ---  Divide by -2
-                                 -2    -2    
-
-                                   x = -3   Our Solution!
-
-               Example   56.
-                           8 -x = 2   Start by focusing on the positive 8
-                          -8     -8   Subtract 8 from both sides
-
-                          -x  = -6    Negative (subtraction) stays on the x
-                         -1x    -6    Remember,  no number in front of variable means 1
-                         ---  = ---
-                          -1    -1    Divide both sides by -1
-
-                            x = 6  Our Solution!
-
-
-               Example   57.
-                  -3x + 7 =  -8                 
-                       -7    -7                  
-                  -3x       -15                      
-                  ---    =  ---
-                  -3        -3                      
-                   x     =   5                        
-
-
-                -2 + 9x =  7                   
-                +2        +2                
-                     9x    9                 
-                    --- = ---
-                     9     9                 
-
-                     x = 1                
-
-
-                8   = 2x + 10
-                -10       -10
-                -2    2x
-                --- = ---
-                 2     2
-
-                -1  = x
-
-
-                  7 -5x = 17               
-                 -7       -7                 
-                                                
-                     -5x = 10                    
-                      -5  -5                     
-                       x = -2                      
-
-                -5  -3x  = -5           
-                +5         +5           
-                                        
-                    -3x    0            
-                    --- = ---
-                    -3    -3
-
-                     x = 0              
-
-
-                                     Table 5. Two-Step Equation Examples
-               As  problems in algebra become  more  complex  the process covered here will
-               remain the same.  In fact, as we solve problems like those in the next example,
-               each one of them will have several steps to solve, but the last two steps are a two-
-               step equation like we are solving here. This is why it is very important to master
-               two-step equations now!
-               Example   58.
-                                    1     1   1      √
-                3x2 + 4 -x + 6          +   =          5x -5 + 1 = x     log5(2x -4) = 1
-                                   x -8   x   3
-               World   View  Note:  Persian mathematician Omar   Khayyam  would  solve alge-
-               braic problems geometrically by intersecting graphs rather than solving them
-               algebraically.
-                     1.2   Practice       - Two-Step         Problems
-              Solve each equation.
-                   n                              2) -2 = -2m + 12
-              1) 5 + 4 = 4
-              3) 102 = -7r + 4                    4) 27 = 21 -3x
-              5) -8n + 3 = -77                    6) -4 -b = 8
-                                                          x
-              7) 0 = -6v                          8) -2 + 2 = 4
-                      x
-              9) -8 = 5 -6                        10) -5 = a -1
-                         k                                 4
-              11) 0 = -7 + 2                      12) -6 = 15 + 3p
-              13) -12 + 3x = 0                    14) -5m + 2 = 27
-              15) 24 = 2n -8                      16) -37 = 8 + 3x
-              17) 2 = -12 + 2r                    18) -8 + n = -7
-                                                           12
-              19) b + 7 = 10                          x
-                 3                                20) 1 -8 = -8
-              21) 152 = 8n + 64
-                                                  22) -11 = -8 + v 2
-              23) -16 = 8a + 64
-                                                  24) -2x -3 = -29
-              25) 56 + 8k = 64
-                                                  26) -4 -3n = -16
-              27) -2x + 4 = 22
-                                                  28) 67 = 5m -8
-              29) -20 = 4p + 4
-                                                  30) 9 = 8 + x
-                          n                                 6
-              31) -5 = 3 + 2                      32) m -1 = -2
-                 r                                    4
-              33) 8 -6 = -5
-                                                  34) -80 = 4x -28
-              35) -40 = 4n -32
-                                                  36) 33 = 3b + 3
-              37) 87 = 3 -7v
-                                                  38) 3x -3 = -3
-              39) -x + 1 = -11
-                                                  40) 4 + a 3 = 1
-                                                 36
-
-
-                    Solving     Linear    Equations       - General      Equations
-               Example   59.
-                               4(2x -6) = 16   Distribute 4 through parenthesis
-                                 8x -24 = 16   Focus on the subtraction  rst
-                                    +24  +24   Add 24 to both sides
-                                  --------------
-                                     8x    40   Now focus on the multiply by 8
-                                    --- = ---
-                                      8   8    Divide both sides by 8
-
-                                      x = 5  Our Solution!
-
-               Example   60.
-                          3(2x -4) + 9 =  15  Distribute the 3 through the parenthesis
-                            6x -12 + 9 =  15  Combine  like terms, -12 + 9
-                            6x -3      =  15  Focus on the subtraction  rst
-                               +3         +3  Add  3 to both sides
-                            -----------------
-                                6x        18  Now  focus on multiply by 6
-                                ---    = ----
-                                 6         6   Divide both sides by 6
-
-                                     x = 3  Our Solution
-
-               Example   61.
-                              4x -6 = 2x + 10   Notice the variable on both sides
-                             -2x     -2x          Subtract 2x from both sides
-                             -----------------
-                              2x -6  =     10       Focus on the subtraction  rst
-                                 +6        +6       Add 6 to both sides
-                             ----------------
-                              2x     =    16       Focus on the multiplication by 2
-                             ----        ---- 
-                               2           2       Divide both sides by 2
-
-                                   x = 8           Our Solution!
-
-               Example   62.
-                               4(8) -6 = 2(8) + 10  Multiply 4(8) and 2(8)  rst
-                                 32 -6 = 16 + 10    Add and Subtract
-                                    26 = 26        True!
-
-               Example  63.
-                      -3x + 9 = 6x -27  Notice the variable on both sides, -3x is smaller
-                      +3x      +3x      Add 3x to both sides
-                      ----------------
-                            9 = 9x -27  Focus on the subtraction by 27
-                          +27      +27  Add 27 to both sides
-                          ------------
-                           36 = 9x     Focus on the mutiplication by 9
-                          --- = ---
-                           9     9       Divide both sides by 9
-                            4 = x      Our Solution
-
-
-               Example  64.
-                         2(x -5) + 3x = x + 18 Distribute the 2 through parenthesis
-                         2x -10 + 3x = x + 18 Combine like terms 2x + 3x
-                              5x -10 = x + 18 Notice the variable is on both sides
-                              -x      -x        Subtract x from both sides
-                              ---------------
-                              4x -10 = 18     Focus on the subtraction of 10
-                                 +10  +10     Add 10 to both sides
-                              --------------
-                              4x        28     Focus on multiplication by 4
-                             ----    = ----
-                              4         4      Divide both sides by 4
-
-                                   x = 7     Our Solution
-
-               Example  65.
-                     3(4x -5) -4(2x + 1) = 5 Distribute 3 and -4 through parenthesis
-                        12x -15 -8x -4  = 5  Combine like terms 12x -8x and -15 -4
-                                4x -19  = 5  Focus on subtraction of 19
-                                 + 19 + 19   Add 19 to both sides
-                                    4x = 24  Focus on multiplication by 4
-                                                   39
-
---- Page 34 (x_scale=5.60, y_scale=12.0) ---
-                                      4    4   Divide both sides by 4
-                                        x = 6  Our Solution
-               This leads to a 5-step process to solve any linear equation. While all  ve steps
-               aren’t always needed, this can serve as a guide to solving equations.
-                   1. Distribute through any parentheses.
-                   2. Combine like terms on each side of the equation.
-                   3. Get the variables on one side by adding or subtracting
-                   4. Solve the remaining 2-step equation (add or subtract then multiply or
-                      divide)
-                   5. Check your answer by plugging it back in for x to  nd a true statement.
-               The  order of these steps is very important.
-               World   View  Note:  The Chinese developed a method for solving equations that
-               involved  nding each digit one at a time about 2000 years ago!
-               We  can see each of the above  ve steps worked through our next example.
+                Example  65.
+                    3(4x -5) -4(2x + 1)                = 5                 Distribute 3 and -4 through parenthesis
+                    __12__x __-15__ __-8x__ __-4__     = 5                 Combine like terms 12x -8x and -15 -4
+                    __4__x - __19__                    = 5                 Focus on subtraction of 19
+                             __+19__                    __+19__            Add 19 to both sides
+                    __4__x                             = __24__            Focus on multiplication by 4
+                    -----                                -----
+                    __4__                                __4__             Divide both sides by 4
+                    x                                  = __6__             Our Solution
+               
                Example   66.
-                     4(2x -6) + 9 = 3(x -7) + 8x  Distribute 4 and 3 through parenthesis
-                       8x -24 + 9 = 3x -21 + 8x   Combine like terms -24 + 9 and 3x + 8x
-                           8x -15 = 11x -21       Notice the variable is on both sides
-                        -8x       -8x             Subtract 8x from both sides
-                             -15  = 3x -21        Focus on subtraction of 21
-                             + 21     + 21        Add 21 to both sides
-                                 6 = 3x           Focus on multiplication by 3
-                                3    3            Divide both sides by 3
-                                 2 = x            Our Solution
+                    4(2x -6) + 9           = 3(x -7) + 8x          Distribute 4 and 3 through parenthesis
+                    __8x__ __-24__ + 9     = __3x__ __-21__ + 8x   Combine like terms -24 + 9 and 3x + 8x
+                      8x   __-15__         = __11x__ -21           Notice the variable is on both sides
+                    __-8x__                  __-8x__               Subtract 8x from both sides
+                            -15            = __3x__  -21           Focus on subtraction of 21
+                            __+21__                __+21__         Add 21 to both sides
+                            __6__          = __3x__                Focus on multiplication by 3
+                            -----            -----   
+                            __3__            __3__                 Divide both sides by 3
+                            __2__          = x                     Our Solution
                Check:
                 4[2(2) -6] + 9 = 3[(2) -7] + 8(2) Plug 2 in for each x. Multiply inside parenthesis
                    4[4 -6] + 9 = 3[ -5] + 8(2)   Finish parentesis on left, multiply on right
-                                                      40
-
---- Page 35 (x_scale=5.51, y_scale=12.0) ---
                      4[ -2] + 9 = -15 + 8(2)     Finish multiplication on both sides
                        -8  + 9 = -15 + 16        Add
                              1 = 1               True!
-               When   we check our solution of x = 2 we found a true statement, 1 = 1. Therefore,
-               we  know our solution x = 2 is the correct solution for the problem.
-               There  are two special cases that can come up as we are solving these linear equa-
-               tions. The  rst is illustrated in the next two examples. Notice we start by dis-
-               tributing and moving the variables all to the same side.
+               
                Example    67.
-                              3(2x -5) = 6x -15   Distribute 3 through parenthesis
-                               6x -15  = 6x -15   Notice the variable on both sides
-                             -6x      -6x         Subtract 6x from both sides
-                                  -15  = -15      Variable is gone! True!
-               Here  the variable subtracted out completely! We are left with a true statement,
-                -15  = -15.  If the variables subtract out completely and we are left with a true
-               statement, this indicates that the equation is always true, no matter what x is.
-               Thus, for our solution we say all real numbers or R.
+                            3(2x -5)        = 6x -15   Distribute 3 through parenthesis
+                            __6x__ __-15__  = 6x -15   Notice the variable on both sides
+                            __-6x__          __-6x__   Subtract 6x from both sides
+                                    -15     = -15      Variable is gone! True!
+               
                Example    68.
-                           2(3x -5) -4x = 2x + 7   Distribute 2 through parenthesis
-                            6x -10  -4x = 2x + 7   Combine like terms 6x -4x
-                                 2x -10 = 2x + 7   Notice the variable is on both sides
-                               -2x     -2x         Subtract 2x from both sides
-                                    -10    7       Variable is gone! False!
-               Again, the variable subtracted out completely! However, this time we are left with
-               a false statement, this indicates that the equation is never true, no matter what x
-               is. Thus, for our solution we say no solution or ∅.
-                                                      41
+                            2(3x -5)       -4x = 2x + 7   Distribute 2 through parenthesis
+                            __6x__ __-10__ -4x = 2x + 7   Combine like terms 6x -4x
+                            __2x__  -10        = 2x + 7   Notice the variable is on both sides
+                            __-2x__             __-2x__   Subtract 2x from both sides
+                                    -10               7   Variable is gone! False!
 
---- Page 36 (x_scale=6.69, y_scale=12.0) ---
                     1.3  Practice   - General   Linear   Equations
              Solve each equation.
              1) 2 -( -3a -8) = 1              2) 2( -3n + 8) = -20
@@ -1052,130 +67,113 @@ Solving Linear Equations - One Step Equations
              45) -7(x -2) = -4 -6(x -1)       46) -(n + 8) + n = -8n + 2(4n -4)
              47) -6(8k + 4) = -8(6k + 3) -2   48) -5(x + 7) = 4( -8x -2)
              49) -2(1 -7p) = 8(p -7)          50) 8( -8n + 4) = 4( -7n + 8)
-                                             42
 
---- Page 37 (x_scale=5.65, y_scale=12.0) ---
-               1.4
                           Solving     Linear    Equations       - Fractions
-               Objective:  Solve  linear equations  with  rational  coefficients by multi-
-               plying by  the least common   denominator   to clear the fractions.
-               Often when  solving linear equations we will need to work with an equation with
-               fraction coe cients. We can solve these problems as we have in the past. This is
-               demonstrated in our next example.
+
                Example   69.
-                                     3 4x -7  5
-                                          2 = 6   Focus on subtraction
-                                         7    7       7
-                                       + 2 +  2   Add 2 to both sides
-               Notice we will need to get a common denominator to add 5 + 7 2. Notice we have a
-                                                                     6   7 3     21
-               common   denominator of 6. So we build up the denominator, 2 3 =  6 , and we
-               can now add the fractions:
-                           3 4x -21 5         problem,
-                                6 = 6   Same          with common denominator 6
-                              21   21        21
-                           +  6  +  6   Add  6 to both sides
-                              3 4x = 26 Reduce  26 to 13
-                                    6           6    3
-                              3 4x = 13 Focus on multiplication by 3
-                                    3                           4
-               We  can get rid of 3 by dividing both sides by 3 4. Dividing by a fraction is the
-                                 4                                               4
-               same as multiplying by the reciprocal, so we will multiply both sides by 3.
-                                  4  3        4
-                                           13
-                                      4x =           Multiply by reciprocal
-                                   3        3  3
-                                       x = 52        Our solution!
-                                           9
-               While this process does help us arrive at the correct solution, the fractions can
-               make  the process quite di cult. This is why we have an alternate method for
-               dealing with fractions - clearing fractions. Clearing fractions is nice as it gets rid
-               of the fractions for the majority of the problem. We can easily clear the fractions
-                                                     43
-
---- Page 38 (x_scale=5.71, y_scale=12.0) ---
-               by  nding the LCD  and multiplying each term by the LCD. This is shown in the
-               next example, the same problem as our  rst example, but this time we will solve
-               by clearing fractions.
+                                    3      7           5
+                                   ---x - ---       = ---                Focus on subtraction
+                                    4      2           6
+                                          __+7__      __+7__
+                                          ------      ------
+                                          __2__       __2__              Add 7/2 to both sides
+                            
+                                    3     __-21__     __5__
+                                   ---x   ------    = -----              Same problem, with common denominator 6
+                                    4      __6__      __6__
+                                          __+21__     __+21__
+                                          ------      ------          Add  21/6 to both sides
+                                           __6__      __6__   
+                                    3                 __26__
+                                   ---x             = ----               Reduce  26/6 to 13/6
+                                    4                 __6__ 
+                                    3                 __13__
+                                   ---x             = ---                Focus on multiplication by 3/4
+                                    4                 __3__   
+                                    4    __3__        __13__   __4__
+                                   --- * ---x       = ---    * ---       Multiply by reciprocal
+                                    3    __4__        __3__    __3__     
+                                                      __52__                Our solution!
+                                    x               = ---
+                                                      __9__
+               
                Example   70.
-                                     3 4x -7 = 5 LCD  = 12, multiply each term by 12
-                                          2  6
-                        (12)3  -(12)7    (12)5
-                          4   x    2   =   6     Reduce each 12 with denominators
-                             (3)3x -(6)7 = (2)5  Multiply out each term
-                                    9x -42 = 10  Focus on subtraction by 42
-                                     + 42 + 42   Add  42 to both sides
-                                        9x = 52  Focus on multiplication by 9
-                                        9    9   Divide both sides by 9
-                                         x = 52  Our Solution
-                                             9
-               The next example illustrates this as well. Notice the 2 isn’t a fraction in the ori-
-               gional equation, but to solve it we put the 2 over 1 to make it a fraction.
+                         3       7     5
+                        --- x - ---  = ---                    LCD  = 12, multiply each term by 12
+                         4       2     6
+                        __(12)___3  __-(12)__7    __(12)__5   Reduce each 12 with denominators
+                        -----x      -----        =  -----  
+                        __4__       __2__          6     
+                        __(3)__3x - __(6)__7 = __(2)__5       Multiply out each term
+                        __9x__ - __42__      = __10__         Focus on subtraction by 42
+                                 __+42__       __+42__        Add  42 to both sides
+                         9x                  = __52__         Focus on multiplication by 9
+                        ---                    ---    
+                         __9__                  __9__             Divide both sides by 9
+                        x                    = __52__             Our Solution
+                                               ---
+                                                9
+               
                Example   71.
-                                   2        3    1
-                                   3x -2  = 2x + 6   LCD = 6, multiply each term by 6
-                       (6)2  -(6)2    (6)3    (6)1
-                           x        =     x +        Reduce 6 with each denominator
-                         3       1     2       6
-                        (2)2x -(6)2 = (3)3x + (1)1   Multiply out each term
-                                    4x -12 = 9x + 1  Notice variable on both sides
-                                 -4x      -4x        Subtract 4x from both sides
-                                      -12 = 5x + 1   Focus on addition of 1
-                                       -1     -1     Subtract 1 from both sides
-                                       -13 = 5x      Focus on multiplication of 5
-                                         5    5      Divide both sides by 5
-                                      -13  = x       Our Solution
-                                         5
-               We can use this same process if there are parenthesis in the problem. We will  rst
-               distribute the coe cient in front of the parenthesis, then clear the fractions. This
-               is seen in the following example.
-                                                     44
-
---- Page 39 (x_scale=5.85, y_scale=12.0) ---
-               Example  72.
+                         2                      3      1
+                        --- - 2              = ---x + ---                       LCD = 6, multiply each term by 6
+                         3                      2      6   
+                        __(6)__2  __(6)__2     __(6)__3    __(6)__1
+                        ------x - -----      = -----    +  -----                Reduce 6 with each denominator
+                        __3__     __1__       __2__     __6__
+                        __(2)__2x - __(6)__2 = __(3)__3x + __(1)__1             Multiply out each term
+                        __4x__ - __12__      = __9x__ + __1__                   Notice variable on both sides
+                        __-4x__                __-4x__                          Subtract 4x from both sides
+                        -12                  = __5x__ + 1                       Focus on addition of 1
+                        __-1__                         __-1__                   Subtract 1 from both sides
+                        __-13__                __5x__                           Focus on multiplication of 5
+                        -----                = -----
+                          5                      5                              Divide both sides by 5
+                        -13                       
+                        ---                  = x                                Our Solution
                          5
-                       3        4                 3
-                       2  9x + 27  = 3   Distribute 2 through parenthesis, reducing if possible
-                             5    2
-                             6x +  = 3   LCD = 18, multiply each term by 18
-                                  9
-                (18)5 x + (18)2 = (18)3  Reduce 18 with each denominator
-                  6        9       9
-                   (3)5x + (2)2 = (18)3  Multiply out each term
-                           15x + 4 = 54  Focus on addition of 4
-                              -4   -4    Subtract 4 from both sides
-                               15x = 50  Focus on multiplication by 15
-                             . 15  15    Divide both sides by 15. Reduce on right side.
-                                x = 10   Our Solution
-                                    3
-               While the problem can take many di erent forms, the pattern to clear the frac-
-               tion is the same, after distributing through any parentheses we multiply each term
-               by the LCD  and reduce. This will give us a problem with no fractions that is
-               much easier to solve. The following example again illustrates this process.
-               Example  73.
-                               3  -1    1 3(3   -7              1
-                               4x    =    4x + 6)     Distribute 3, reduce if possible
-                                    2              2
-                                  3 4x -1 = 1 4x + 2 -7 LCD = 4, multiply each term by 4.
-                                       2           2
-                   (4)3  -(4)1   (4)1    (4)2 -(4)7
-                    4  x    2  =   4 x +  1      2    Reduce 4 with each denominator
-                     (1)3x -(2)1 = (1)1x + (4)2 -(2)7 Multiply out each term
-                                   3x -2 = x + 8 -14  Combine  like terms 8 -14
-                                        3x -2 = x -6  Notice variable on both sides
-                                      -x     -x       Subtract x from both sides
-                                         2x -2 = -6   Focus on subtraction by 2
-                                           +  2 +  2  Add 2 to both sides
-                                            2x = -4   Focus on multiplication by 2
-                                             2    2   Divide both sides by 2
-                                             x = -2   Our Solution
-               World  View  Note: The Egyptians were among the  rst to study fractions and
-               linear equations. The most famous mathematical document from Ancient Egypt
-               is the Rhind Papyrus where the unknown variable was called “heap”
-                                                   45
+ 
+               Example  72.
+                        3  ⎡ 5      4 ⎤
+                       --- ⎜---x + ---⎥   = 3               Distribute 3/2 through parenthesis, reducing if possible
+                        2  ⎣ 9      27⎦                          
+                            __5__  __2__                       
+                            ---x + ---    = 3               LCD = 18, multiply each term by 18                  
+                            __6__  __9__                   
+                (__18__)5     (__18__)2     (__18__)3       Reduce 18 with each denominator
+                -----x    +   ------      = -----  
+                  6            9             9  
+                (__3__)5x + (__2__)2      = (__18__)3       Multiply out each term
+                __15x__ + __4__           = __54__          Focus on addition of 4
+                          __-4__            __-4__          Subtract 4 from both sides
+                 15x                      = __50__          Focus on multiplication by 15
+                ---                         ---
+                __15__                      __15__          Divide both sides by 15. Reduce on right side.
+                 x                        = __10__         
+                                            ---             Our Solution
+                                            __3__
 
---- Page 40 (x_scale=5.43, y_scale=12.0) ---
+               Example  73.
+                             3      1     1  ⎡ 3      ⎤    7   
+                            ---x - --- = --- ⎢---x + 6⎥ - ---               Distribute 1/3, reduce if possible
+                             4      2     3  ⎣ 4      ⎦    2  
+                             3      1    __1__            7 
+                            ---x - --- = ---x  + __2__ - ---                LCD = 4, multiply each term by 4.
+                             4      2    __4__            2
+                    (__4__)3 (__4__)1 (__4__)1    (__4__)2   (__4__)7
+                    -----x - ----- =  -----x    + -----    - -----          Reduce 4 with each denominator
+                    __4__    __2__  = __4__       __1__      __2__    
+                    (__1)__3x - (__2__)1 = (__1__)1x + (__4__)2 - (__2__)7  Multiply out each term
+                    3x - __2__ = __x__ + __8__ - __14__                     Combine  like terms 8 -14
+                    3x - 2 = x - __6__                                      Notice variable on both sides
+                    __-x__    __-x__                                        Subtract x from both sides
+                    __2x__ - 2 = - __6__                                    Focus on subtraction by 2
+                           + __2__ + __2__                                  Add 2 to both sides
+                     2x      __-4__                                         Focus on multiplication by 2
+                    ---    = ---                                            Divide both sides by 2
+                    __2__    __2__                         
+                    x = __-2__                                              Our Solution
+
                                      1.4   Practice     -  Fractions
                 Solve each  equation.
                 1) 3 5(1 + p) = 21                       2) -1 =  3 2k + 3
@@ -1215,27 +213,9 @@ Solving Linear Equations - One Step Equations
                                                                   6
                 29) 47 + 3 2x = 5 3( 5 2x + 1)
                     9
-                                                       46
 
---- Page 41 (x_scale=5.42, y_scale=12.0) ---
-                1.5
                            Solving      Linear    Equations       -  Formulas
-                Objective:  Solve linear formulas  for a given  variable.
-                Solving formulas is much like solving general linear equations. The only di erence
-                is we will have several varaibles in the problem and we will be attempting to solve
-                for one speci c variable. For example, we may have a formula such as A = πr2 +
-                πrs
-                    (formula for surface area of a right circular cone) and we may be interested in
-                solving for the varaible s. This means we want to isolate the s so the equation has
-                s on one side, and everything else on the other. So a solution might look like s =
-                A -πr2 . This second equation gives the same information as the   rst, they are
-                algebraically πs equivalent, however, one is solved for the area, while the other is
-                solved for s (slant height of the cone). In this section we will discuss how we can
-                move from the  rst equation to the second.
-                When  solving formulas for a variable we need to focus on the one varaible we are
-                trying to solve for, all the others are treated just like numbers. This is shown in
-                the following example. Two parallel problems are shown, the  rst is a normal one-
-                step equation, the second is a formula that we are solving for x
+
                 Example   74.
                        3x = 12      wx  = z  In both problems, x is multiplied by something
                         3   3       w    w   To isolate the x we divide by 3 or w.
